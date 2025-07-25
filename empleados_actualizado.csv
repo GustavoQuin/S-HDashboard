@@ -1,0 +1,501 @@
+EmpleadoID,Nombre,Apellido,DNI,FechaIngreso,Puesto,Sector,Empresa,UsoEPP,ExpuestoAQ
+1,Feliciana,Cantón,20839221,2020-02-18,Operador,Producción,OilTech Institute,Sí,Sí
+2,Jose Ignacio,Godoy,24682115,2017-03-13,Supervisor,Mantenimiento,Energía & Seguridad,Sí,Sí
+3,Inmaculada,Bonet,39813640,2022-08-19,Operador,Logística,TecnoOil Training,Sí,No
+4,Amílcar,Andrés,23143890,2019-03-05,Administrativo,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+5,Joan,Vazquez,20890399,2025-01-01,Operador,Producción,Digital Oil Academy,Sí,No
+6,Heliodoro,Rivas,27396759,2023-02-05,Supervisor,Logística,PetroCapacitaciones S.A.,Sí,No
+7,Dolores,Lobo,20218062,2018-03-04,Administrativo,Mantenimiento,SafeOil Academy,No,Sí
+8,José,Rocamora,31416912,2020-03-07,Supervisor,Perforación,OilTech Institute,Sí,Sí
+9,Fabricio,Garrido,31294238,2017-03-12,Operador,Mantenimiento,SafeOil Academy,Sí,No
+10,Cirino,Pinto,23245263,2021-07-24,Ingeniero,Seguridad,Energía & Seguridad,No,No
+11,Rebeca,Núñez,28875847,2016-03-11,Supervisor,Seguridad,TecnoOil Training,Sí,No
+12,Luna,Segovia,37992829,2017-07-30,Operador,Perforación,TecnoOil Training,Sí,Sí
+13,Ágata,Pinedo,22644095,2024-11-05,Ingeniero,Seguridad,OilTech Institute,Sí,Sí
+14,Lázaro,Pardo,39372723,2018-09-22,Operador,Perforación,TecnoOil Training,Sí,Sí
+15,Julie,Baños,21537611,2019-05-02,Técnico,Producción,OilTech Institute,Sí,No
+16,María Teresa,Mancebo,22677374,2019-06-01,Administrativo,Seguridad,Digital Oil Academy,Sí,No
+17,Roxana,Cabrero,32754919,2020-03-08,Operador,Producción,Digital Oil Academy,Sí,No
+18,Wilfredo,Patiño,25457765,2021-10-02,Ingeniero,Producción,Digital Oil Academy,No,Sí
+19,Pedro,Gallego,28958289,2016-09-01,Operador,Perforación,OilTech Institute,Sí,Sí
+20,Emelina,Donoso,37922760,2019-08-15,Técnico,Seguridad,Energía & Seguridad,Sí,No
+21,Fernando,Sevilla,32732411,2020-01-18,Ingeniero,Seguridad,Digital Oil Academy,Sí,Sí
+22,Ángela,Gimenez,30881122,2016-05-28,Ingeniero,Producción,Energía & Seguridad,Sí,No
+23,Jenaro,Antón,30584847,2022-04-12,Administrativo,Mantenimiento,Energía & Seguridad,Sí,No
+24,Julio,Batalla,27079409,2025-02-07,Técnico,Perforación,OilTech Institute,Sí,Sí
+25,Sarita,Miranda,27134562,2023-12-13,Administrativo,Mantenimiento,PetroBusiness School,Sí,No
+26,Ruy,Segarra,24793975,2019-12-17,Operador,Mantenimiento,PetroCapacitaciones S.A.,Sí,Sí
+27,Emilio,Huerta,38836388,2024-08-16,Ingeniero,Perforación,OilTech Institute,Sí,Sí
+28,Juan José,Romero,39580115,2022-04-01,Operador,Mantenimiento,PetroBusiness School,Sí,No
+29,Porfirio,Gimenez,24641643,2024-02-15,Supervisor,Perforación,SafeOil Academy,Sí,Sí
+30,Ana,Bou,21580963,2017-04-27,Técnico,Mantenimiento,OilTech Institute,Sí,No
+31,Ezequiel,Cuesta,34165337,2016-07-14,Supervisor,Mantenimiento,OilTech Institute,No,Sí
+32,Rogelio,Pizarro,39994697,2023-06-02,Administrativo,Perforación,SafeOil Academy,No,Sí
+33,Benigna,Iglesias,38563180,2015-08-26,Ingeniero,Mantenimiento,Energía & Seguridad,Sí,No
+34,Irma,Carbó,38017734,2019-12-29,Administrativo,Perforación,TecnoOil Training,Sí,Sí
+35,María José,Nieto,23743069,2020-06-12,Operador,Producción,Energía & Seguridad,Sí,Sí
+36,Trinidad,Cruz,35224441,2015-07-06,Supervisor,Perforación,TecnoOil Training,Sí,Sí
+37,Lorenza,Lago,36796882,2018-06-30,Técnico,Perforación,TechEnergy Training,Sí,Sí
+38,Anunciación,Camino,30014145,2024-02-03,Administrativo,Seguridad,PetroCapacitaciones S.A.,Sí,No
+39,Emelina,Flor,25128434,2021-10-25,Operador,Logística,OilTech Institute,Sí,No
+40,María Belén,Cuéllar,38098556,2024-06-23,Ingeniero,Producción,OilTech Institute,No,Sí
+41,Zaida,Abascal,30876872,2023-10-08,Técnico,Mantenimiento,TechEnergy Training,No,Sí
+42,Alejo,Caparrós,32179613,2020-09-07,Operador,Seguridad,Energía & Seguridad,Sí,No
+43,Jose,Barco,28082309,2025-02-08,Administrativo,Producción,OilTech Institute,Sí,No
+44,Cayetano,Boada,36307133,2016-08-19,Administrativo,Logística,Digital Oil Academy,No,Sí
+45,Martirio,Casas,24308102,2023-07-17,Supervisor,Seguridad,Energía & Seguridad,Sí,No
+46,Carmela,Dalmau,28893824,2024-06-06,Administrativo,Logística,PetroCapacitaciones S.A.,Sí,Sí
+47,Salud,Rocha,27106768,2024-08-18,Administrativo,Seguridad,TechEnergy Training,Sí,Sí
+48,Marisol,Font,30459463,2022-03-30,Operador,Producción,PetroBusiness School,No,No
+49,Hilda,Perea,34700199,2024-04-05,Ingeniero,Mantenimiento,PetroCapacitaciones S.A.,Sí,No
+50,Vito,Carrillo,28318332,2019-04-12,Supervisor,Logística,TecnoOil Training,Sí,No
+51,Bernardo,Neira,20705792,2024-11-16,Operador,Perforación,TecnoOil Training,Sí,Sí
+52,Jeremías,Giménez,20241284,2016-08-30,Administrativo,Mantenimiento,Energía & Seguridad,No,Sí
+53,Laura,Barral,27682011,2016-08-07,Técnico,Logística,Energía & Seguridad,No,No
+54,Vicenta,Angulo,31087340,2016-08-29,Ingeniero,Logística,SafeOil Academy,Sí,Sí
+55,Aroa,Gárate,29344146,2023-09-18,Supervisor,Logística,Digital Oil Academy,No,Sí
+56,Iker,Catalán,39161026,2025-04-04,Ingeniero,Perforación,PetroBusiness School,Sí,Sí
+57,Ainara,Herrero,35870338,2022-05-19,Técnico,Logística,TechEnergy Training,Sí,Sí
+58,Goyo,Busquets,23252458,2022-10-15,Operador,Mantenimiento,Digital Oil Academy,Sí,No
+59,Paulino,Roda,33794303,2023-05-26,Operador,Seguridad,PetroCapacitaciones S.A.,Sí,No
+60,Rosario,Balaguer,23302355,2016-06-26,Administrativo,Logística,Digital Oil Academy,Sí,No
+61,Samuel,Nicolau,23666460,2019-09-08,Administrativo,Mantenimiento,PetroCapacitaciones S.A.,No,No
+62,Gregorio,Falcón,37994763,2023-02-01,Operador,Producción,Digital Oil Academy,Sí,No
+63,Enrique,Roca,26156836,2020-03-11,Operador,Producción,PetroBusiness School,Sí,No
+64,Óscar,Iborra,22529497,2022-12-29,Operador,Logística,Digital Oil Academy,Sí,No
+65,Nuria,Cabañas,21697462,2024-08-26,Ingeniero,Perforación,Digital Oil Academy,Sí,Sí
+66,Piedad,Alcolea,23129379,2019-06-23,Administrativo,Mantenimiento,TechEnergy Training,Sí,Sí
+67,Flavio,Ramos,36295412,2023-08-24,Supervisor,Perforación,SafeOil Academy,Sí,Sí
+68,Ignacio,Quero,21967477,2018-04-04,Supervisor,Producción,TecnoOil Training,No,No
+69,Reynaldo,Abril,33100380,2019-12-19,Técnico,Seguridad,SafeOil Academy,Sí,No
+70,Ángeles,Sanz,29571375,2022-08-26,Técnico,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+71,Josefina,Torrecilla,25194119,2018-09-07,Operador,Producción,SafeOil Academy,Sí,Sí
+72,Manu,Gelabert,21962373,2025-04-22,Ingeniero,Producción,Digital Oil Academy,No,Sí
+73,Magdalena,Barrera,30522831,2016-06-05,Supervisor,Mantenimiento,TechEnergy Training,Sí,Sí
+74,Aureliano,Tapia,36872858,2024-06-28,Supervisor,Perforación,Energía & Seguridad,Sí,Sí
+75,Fausto,Barberá,37039896,2016-10-25,Ingeniero,Perforación,Digital Oil Academy,Sí,Sí
+76,Renata,Estevez,22299194,2016-08-11,Operador,Perforación,TecnoOil Training,Sí,Sí
+77,Imelda,Gutierrez,33548459,2017-06-29,Operador,Logística,PetroCapacitaciones S.A.,Sí,No
+78,Tania,Hoz,39425300,2016-02-17,Operador,Mantenimiento,Energía & Seguridad,No,No
+79,Estefanía,Bilbao,34066853,2025-05-20,Técnico,Perforación,TechEnergy Training,Sí,Sí
+80,Clara,Yáñez,30615610,2019-11-22,Supervisor,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+81,Hernando,Miralles,28008971,2019-12-22,Supervisor,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+82,Ruy,Castro,30066231,2023-03-27,Técnico,Seguridad,TechEnergy Training,Sí,No
+83,Maximiano,Belmonte,20312574,2023-04-02,Ingeniero,Perforación,TechEnergy Training,Sí,Sí
+84,Ester,Cabo,22458221,2024-08-07,Supervisor,Mantenimiento,OilTech Institute,Sí,No
+85,Ignacio,Velasco,28898649,2017-09-16,Supervisor,Producción,PetroCapacitaciones S.A.,Sí,Sí
+86,Paco,Bayona,28196824,2021-09-28,Ingeniero,Producción,PetroCapacitaciones S.A.,No,Sí
+87,Lucas,Cruz,34703034,2024-09-11,Administrativo,Perforación,Energía & Seguridad,Sí,Sí
+88,Juliana,Mate,37748304,2015-08-03,Operador,Logística,TecnoOil Training,Sí,No
+89,Guadalupe,Marí,23475786,2017-09-27,Supervisor,Producción,TecnoOil Training,Sí,No
+90,Juan Luis,Carlos,23591531,2024-11-12,Supervisor,Perforación,TecnoOil Training,Sí,Sí
+91,Fabricio,Lladó,29454171,2019-01-14,Administrativo,Mantenimiento,PetroCapacitaciones S.A.,No,Sí
+92,Liliana,Novoa,26831592,2019-12-12,Administrativo,Producción,SafeOil Academy,Sí,Sí
+93,Anselma,Torres,28426230,2016-04-26,Administrativo,Logística,PetroBusiness School,Sí,Sí
+94,Cirino,Roda,29283847,2016-03-15,Ingeniero,Mantenimiento,PetroBusiness School,Sí,No
+95,Abraham,Múgica,24389579,2019-11-29,Supervisor,Seguridad,SafeOil Academy,No,No
+96,Felix,Sala,38511323,2022-09-24,Supervisor,Seguridad,TechEnergy Training,Sí,No
+97,Chelo,Agustí,23753864,2016-09-25,Ingeniero,Producción,PetroCapacitaciones S.A.,Sí,No
+98,Sol,Company,38306972,2016-01-25,Técnico,Logística,TecnoOil Training,Sí,No
+99,Perlita,Peiró,39545777,2024-11-08,Operador,Logística,Digital Oil Academy,Sí,No
+100,Eusebio,Ropero,24276362,2016-03-01,Administrativo,Seguridad,Energía & Seguridad,Sí,No
+101,Mario,Pastor,21338649,2021-07-17,Ingeniero,Producción,Digital Oil Academy,Sí,Sí
+102,Humberto,Iborra,23449181,2021-06-21,Ingeniero,Seguridad,Energía & Seguridad,No,Sí
+103,Melisa,Ramos,25185949,2019-06-26,Técnico,Logística,OilTech Institute,Sí,Sí
+104,Rosaura,Cámara,25940891,2022-06-20,Administrativo,Logística,PetroCapacitaciones S.A.,No,No
+105,Amador,Escobar,31146294,2022-06-17,Administrativo,Seguridad,TecnoOil Training,Sí,No
+106,Nidia,Hurtado,28952514,2018-03-01,Supervisor,Seguridad,TecnoOil Training,No,No
+107,Mirta,Campoy,32835970,2016-02-11,Operador,Logística,Energía & Seguridad,Sí,Sí
+108,Rosa María,Sosa,27463637,2018-11-07,Ingeniero,Seguridad,Digital Oil Academy,Sí,Sí
+109,Olga,Seguí,31732589,2020-08-24,Ingeniero,Mantenimiento,OilTech Institute,No,Sí
+110,Otilia,Goñi,27480073,2015-11-10,Administrativo,Perforación,OilTech Institute,Sí,Sí
+111,Georgina,Ferrando,33370299,2021-01-14,Operador,Producción,SafeOil Academy,Sí,No
+112,León,Baños,29365880,2021-06-05,Ingeniero,Producción,PetroCapacitaciones S.A.,Sí,No
+113,Felipa,Vergara,33410981,2024-07-29,Ingeniero,Mantenimiento,OilTech Institute,Sí,No
+114,Natanael,Amorós,23870226,2019-11-25,Supervisor,Perforación,SafeOil Academy,No,Sí
+115,Gaspar,Lara,21283698,2017-04-19,Administrativo,Producción,TecnoOil Training,Sí,No
+116,Débora,Rovira,31599334,2020-10-16,Operador,Mantenimiento,PetroCapacitaciones S.A.,Sí,No
+117,Tristán,Vidal,23880428,2022-01-03,Ingeniero,Logística,Energía & Seguridad,Sí,No
+118,Trinidad,Falcón,28547069,2016-03-17,Técnico,Mantenimiento,PetroCapacitaciones S.A.,Sí,Sí
+119,Leandra,Rubio,20056749,2024-04-19,Ingeniero,Seguridad,PetroCapacitaciones S.A.,Sí,Sí
+120,Ángela,Figueras,32221244,2022-10-16,Ingeniero,Mantenimiento,Digital Oil Academy,No,Sí
+121,Buenaventura,Murillo,30533261,2017-07-29,Operador,Seguridad,SafeOil Academy,No,No
+122,Lola,Mas,37016207,2020-09-18,Administrativo,Mantenimiento,Digital Oil Academy,Sí,No
+123,Griselda,Real,30944882,2022-04-20,Supervisor,Mantenimiento,SafeOil Academy,Sí,No
+124,Josefina,Marqués,38602995,2017-08-14,Operador,Mantenimiento,PetroBusiness School,Sí,No
+125,Gregorio,Rivero,32722004,2018-06-01,Técnico,Mantenimiento,OilTech Institute,No,Sí
+126,Encarnación,Mascaró,33625621,2024-10-10,Supervisor,Producción,SafeOil Academy,Sí,No
+127,Perla,Abad,30196351,2020-05-02,Operador,Perforación,Digital Oil Academy,Sí,No
+128,Humberto,Ropero,39461059,2020-12-08,Supervisor,Perforación,PetroBusiness School,Sí,Sí
+129,Adela,Sala,34836420,2019-02-02,Ingeniero,Mantenimiento,Digital Oil Academy,No,No
+130,Ariadna,Sáenz,25693898,2016-11-23,Operador,Mantenimiento,SafeOil Academy,No,No
+131,Loreto,Villalba,31247051,2017-01-16,Ingeniero,Seguridad,TecnoOil Training,No,Sí
+132,Olivia,Gutierrez,30415948,2019-04-11,Ingeniero,Seguridad,SafeOil Academy,Sí,No
+133,Noelia,Flor,24944378,2015-11-14,Administrativo,Seguridad,PetroCapacitaciones S.A.,Sí,No
+134,Arturo,Hierro,35942930,2016-09-10,Operador,Seguridad,Energía & Seguridad,No,No
+135,Xavier,Ribas,39316310,2018-10-06,Administrativo,Seguridad,PetroCapacitaciones S.A.,Sí,No
+136,Lina,Plana,36588545,2022-04-03,Operador,Logística,SafeOil Academy,Sí,No
+137,Jose Francisco,Coloma,20186053,2017-04-08,Ingeniero,Seguridad,SafeOil Academy,Sí,Sí
+138,Melania,Rodríguez,27343090,2018-06-12,Administrativo,Logística,TecnoOil Training,No,No
+139,Nilda,Villaverde,35587707,2016-04-23,Técnico,Logística,Digital Oil Academy,No,No
+140,Cecilia,Ibañez,24072118,2023-03-22,Ingeniero,Producción,SafeOil Academy,Sí,Sí
+141,Eliseo,Sobrino,37821828,2024-12-18,Operador,Logística,Digital Oil Academy,Sí,Sí
+142,Dulce,Molins,34850299,2024-01-16,Ingeniero,Perforación,TecnoOil Training,No,No
+143,Teodosio,Salmerón,25340453,2023-07-13,Ingeniero,Logística,PetroBusiness School,Sí,No
+144,Vinicio,Jove,28295988,2020-03-04,Operador,Seguridad,OilTech Institute,Sí,Sí
+145,María Dolores,Vázquez,36260377,2019-07-11,Técnico,Seguridad,SafeOil Academy,Sí,Sí
+146,Leonardo,Sabater,22599909,2020-04-25,Ingeniero,Logística,Energía & Seguridad,Sí,No
+147,Joel,Llabrés,31269173,2020-11-22,Supervisor,Perforación,SafeOil Academy,Sí,Sí
+148,Teodora,Berrocal,24643063,2018-01-08,Supervisor,Logística,OilTech Institute,Sí,Sí
+149,Jerónimo,Piñol,25127293,2019-02-04,Técnico,Logística,PetroCapacitaciones S.A.,No,No
+150,Bernardo,Ribera,33676765,2021-01-31,Ingeniero,Seguridad,Digital Oil Academy,No,No
+151,Candela,Solano,33951068,2016-07-06,Técnico,Logística,PetroBusiness School,No,Sí
+152,Hilario,Rivera,33068673,2025-05-23,Técnico,Perforación,TechEnergy Training,Sí,Sí
+153,Josefa,Aller,39316962,2021-12-04,Supervisor,Logística,TechEnergy Training,No,Sí
+154,Albina,Aguado,31803066,2020-07-14,Supervisor,Producción,OilTech Institute,No,No
+155,Marisa,Porta,34060021,2024-08-11,Administrativo,Logística,PetroBusiness School,Sí,No
+156,Mariana,Giménez,36382262,2019-03-10,Operador,Mantenimiento,OilTech Institute,Sí,Sí
+157,Leandro,Ruano,36295441,2015-12-13,Supervisor,Mantenimiento,Energía & Seguridad,No,Sí
+158,Roque,Navarrete,33566616,2018-04-06,Operador,Producción,Digital Oil Academy,Sí,Sí
+159,Priscila,Solsona,24282478,2024-07-16,Técnico,Logística,TecnoOil Training,Sí,No
+160,Amando,Prada,39860625,2025-01-21,Técnico,Perforación,Digital Oil Academy,Sí,No
+161,Gloria,Amores,22816809,2022-09-30,Técnico,Perforación,SafeOil Academy,Sí,Sí
+162,Elpidio,Serrano,26097814,2016-04-23,Supervisor,Mantenimiento,PetroCapacitaciones S.A.,No,No
+163,Juan Bautista,Pinilla,30984132,2019-01-21,Operador,Perforación,Digital Oil Academy,Sí,Sí
+164,Wálter,Morillo,31324639,2021-11-26,Supervisor,Logística,TechEnergy Training,Sí,No
+165,Leopoldo,Robles,28464827,2016-11-05,Operador,Logística,Digital Oil Academy,Sí,No
+166,Adoración,Aliaga,38099899,2016-05-04,Operador,Perforación,Energía & Seguridad,Sí,Sí
+167,Pancho,Gomez,22302450,2016-02-21,Técnico,Logística,PetroBusiness School,Sí,Sí
+168,Marisela,Anguita,28297450,2018-11-05,Técnico,Logística,SafeOil Academy,Sí,No
+169,Primitiva,Almagro,25113103,2019-07-07,Administrativo,Perforación,Energía & Seguridad,Sí,Sí
+170,Edmundo,Sáenz,23838272,2025-01-18,Técnico,Perforación,OilTech Institute,No,Sí
+171,Isaías,Sola,28598111,2021-09-24,Supervisor,Seguridad,TechEnergy Training,Sí,No
+172,Florencio,Carbó,25495068,2020-09-29,Supervisor,Seguridad,TechEnergy Training,No,No
+173,Cándido,Amigó,30467548,2025-04-01,Operador,Seguridad,Digital Oil Academy,No,No
+174,Inés,Perez,33309514,2018-10-30,Ingeniero,Seguridad,PetroBusiness School,Sí,Sí
+175,Carlos,Herrero,23419240,2020-08-01,Administrativo,Producción,Energía & Seguridad,No,No
+176,Remedios,Carrillo,38989545,2016-02-26,Supervisor,Mantenimiento,SafeOil Academy,Sí,No
+177,Ovidio,Romero,32434295,2016-08-17,Supervisor,Mantenimiento,TecnoOil Training,Sí,Sí
+178,Antonia,Nogueira,20424535,2022-08-08,Técnico,Perforación,PetroBusiness School,No,Sí
+179,Pacífica,Trillo,23541296,2022-10-30,Administrativo,Perforación,SafeOil Academy,Sí,Sí
+180,Porfirio,Segura,25133531,2022-11-12,Operador,Mantenimiento,SafeOil Academy,Sí,No
+181,Gabriel,Vélez,29062461,2024-08-11,Técnico,Logística,PetroCapacitaciones S.A.,Sí,Sí
+182,Matilde,Tomás,35598575,2022-11-12,Administrativo,Perforación,TechEnergy Training,Sí,No
+183,Paola,Ledesma,30814747,2019-08-19,Operador,Seguridad,OilTech Institute,Sí,Sí
+184,Paulina,Bolaños,29359278,2023-02-15,Técnico,Perforación,Digital Oil Academy,Sí,Sí
+185,Jose Francisco,Sobrino,39120981,2021-11-25,Técnico,Mantenimiento,OilTech Institute,No,No
+186,Nicodemo,Andrade,36586173,2020-12-25,Técnico,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+187,Germán,Torrent,27117561,2021-06-28,Técnico,Seguridad,SafeOil Academy,No,No
+188,Nayara,Jordán,31419876,2020-03-18,Supervisor,Perforación,Energía & Seguridad,Sí,Sí
+189,Silvia,Llorente,38649252,2015-08-18,Administrativo,Logística,PetroCapacitaciones S.A.,No,No
+190,Asunción,Feijoo,22872694,2019-07-24,Técnico,Logística,PetroCapacitaciones S.A.,Sí,No
+191,Lola,Ramos,36393952,2024-11-24,Operador,Perforación,Energía & Seguridad,No,Sí
+192,Marta,Hernandez,35975033,2023-10-21,Técnico,Mantenimiento,PetroCapacitaciones S.A.,Sí,No
+193,Victorino,Alemany,23122352,2020-06-17,Ingeniero,Perforación,PetroBusiness School,Sí,Sí
+194,Ismael,Quiroga,28163966,2020-08-30,Supervisor,Perforación,PetroBusiness School,Sí,Sí
+195,Gracia,Peinado,35879986,2024-11-14,Ingeniero,Perforación,OilTech Institute,No,Sí
+196,Bernarda,Núñez,34277538,2024-10-25,Técnico,Seguridad,TecnoOil Training,Sí,No
+197,Natalio,Ortiz,35225164,2020-01-24,Técnico,Producción,PetroCapacitaciones S.A.,No,Sí
+198,Mariano,Iglesias,27735573,2017-07-04,Ingeniero,Mantenimiento,TecnoOil Training,Sí,No
+199,Lorena,Fernández,30588032,2017-06-27,Operador,Producción,Digital Oil Academy,Sí,No
+200,Manuelita,Esteve,26427048,2019-02-19,Supervisor,Producción,Energía & Seguridad,No,No
+201,Mamen,Tomé,29277787,2024-05-18,Supervisor,Mantenimiento,TechEnergy Training,Sí,Sí
+202,Edelmira,Luna,23373096,2018-10-04,Operador,Logística,Digital Oil Academy,No,Sí
+203,Manu,Gordillo,32109159,2018-07-05,Técnico,Seguridad,PetroBusiness School,Sí,No
+204,Marciano,Alcalá,37922599,2017-08-10,Supervisor,Logística,TecnoOil Training,Sí,No
+205,Leocadio,Arroyo,21829589,2024-11-13,Supervisor,Seguridad,TecnoOil Training,Sí,No
+206,Luís,Cases,36471155,2017-03-14,Administrativo,Producción,OilTech Institute,No,Sí
+207,Salud,Alberola,39262398,2020-04-16,Administrativo,Perforación,SafeOil Academy,No,Sí
+208,Adora,Tejero,34779680,2021-04-02,Supervisor,Producción,Digital Oil Academy,No,Sí
+209,Gerónimo,Aznar,28471768,2023-08-01,Operador,Seguridad,TecnoOil Training,No,No
+210,Danilo,Bas,33445510,2023-10-27,Administrativo,Producción,PetroBusiness School,Sí,Sí
+211,Candelario,Baeza,25091113,2017-12-29,Administrativo,Perforación,PetroBusiness School,Sí,Sí
+212,Obdulia,Mateu,22858196,2019-09-05,Operador,Logística,PetroBusiness School,Sí,No
+213,Diego,Rico,27572803,2024-05-06,Operador,Perforación,TechEnergy Training,Sí,No
+214,Ricardo,Sanjuan,34855251,2020-07-06,Operador,Perforación,PetroBusiness School,Sí,No
+215,Rosalina,Romeu,30246860,2025-02-16,Técnico,Mantenimiento,SafeOil Academy,Sí,Sí
+216,Estela,Barrena,23329726,2018-12-28,Supervisor,Logística,OilTech Institute,No,Sí
+217,Eufemia,Galván,28880050,2016-11-01,Administrativo,Logística,TechEnergy Training,No,No
+218,Faustino,Heredia,25832214,2024-11-04,Técnico,Perforación,OilTech Institute,Sí,Sí
+219,Carlito,Crespi,20089782,2022-05-28,Ingeniero,Mantenimiento,TecnoOil Training,Sí,Sí
+220,Virgilio,Soriano,29773040,2016-01-04,Ingeniero,Perforación,Digital Oil Academy,No,Sí
+221,Jesús,Maldonado,29486454,2023-03-07,Técnico,Logística,SafeOil Academy,Sí,No
+222,Calisto,Guillen,28876980,2018-10-27,Ingeniero,Producción,TechEnergy Training,Sí,Sí
+223,Teodoro,Cardona,38272481,2019-04-12,Ingeniero,Mantenimiento,TechEnergy Training,Sí,No
+224,Flora,Company,28913146,2017-11-15,Supervisor,Seguridad,OilTech Institute,Sí,No
+225,Calixto,Barreda,25567444,2020-09-08,Ingeniero,Seguridad,OilTech Institute,Sí,No
+226,Dulce,Malo,34735544,2017-07-27,Administrativo,Producción,Digital Oil Academy,Sí,No
+227,Adelina,Mateu,33505944,2020-02-01,Operador,Mantenimiento,SafeOil Academy,Sí,Sí
+228,Angelita,Uribe,34688750,2016-10-27,Técnico,Logística,Digital Oil Academy,Sí,No
+229,Elba,Ariño,34496476,2020-12-08,Técnico,Perforación,TechEnergy Training,Sí,Sí
+230,Elisabet,Ibáñez,20867881,2017-01-03,Operador,Producción,OilTech Institute,No,Sí
+231,Jenaro,Almansa,29043289,2025-04-04,Supervisor,Perforación,Digital Oil Academy,Sí,Sí
+232,Apolinar,Díez,35787387,2024-04-13,Ingeniero,Logística,PetroBusiness School,No,Sí
+233,Florinda,Salamanca,29333385,2018-07-17,Técnico,Logística,PetroBusiness School,Sí,No
+234,Delfina,Ruano,36499579,2017-01-02,Técnico,Logística,PetroBusiness School,No,Sí
+235,Adoración,Oliveras,33701888,2021-02-15,Ingeniero,Perforación,OilTech Institute,Sí,Sí
+236,Miguel Ángel,Calvo,25396386,2021-01-24,Ingeniero,Seguridad,Digital Oil Academy,Sí,No
+237,Sergio,Valbuena,29670984,2022-04-08,Operador,Mantenimiento,PetroBusiness School,Sí,Sí
+238,Odalys,Arco,35261425,2016-12-14,Operador,Logística,Energía & Seguridad,No,Sí
+239,Maxi,Iniesta,30847268,2017-06-05,Supervisor,Mantenimiento,TechEnergy Training,No,Sí
+240,María Teresa,Quintero,37266984,2015-06-23,Ingeniero,Logística,OilTech Institute,No,Sí
+241,Gema,Sevilla,33866287,2016-05-17,Operador,Mantenimiento,OilTech Institute,No,No
+242,Godofredo,Villegas,32139300,2023-12-08,Supervisor,Seguridad,Energía & Seguridad,Sí,Sí
+243,Eufemia,Salamanca,21731803,2018-12-01,Ingeniero,Producción,Energía & Seguridad,Sí,No
+244,Juanito,Castro,29664654,2022-11-28,Ingeniero,Producción,PetroCapacitaciones S.A.,Sí,No
+245,Silvia,Tormo,24074383,2015-12-12,Administrativo,Seguridad,Energía & Seguridad,No,No
+246,Eva María,Heras,25314289,2020-09-27,Técnico,Producción,PetroCapacitaciones S.A.,Sí,Sí
+247,Carmen,Alcalá,38530482,2022-05-25,Administrativo,Seguridad,TechEnergy Training,Sí,No
+248,Ciro,Gomila,23807123,2023-04-22,Técnico,Perforación,PetroBusiness School,Sí,Sí
+249,Desiderio,Correa,36722706,2020-06-02,Supervisor,Producción,OilTech Institute,No,Sí
+250,Araceli,Llano,33941542,2023-08-31,Técnico,Producción,TecnoOil Training,Sí,Sí
+251,Agustina,Hervás,35327210,2024-10-31,Técnico,Perforación,TecnoOil Training,Sí,Sí
+252,Espiridión,Pla,26395822,2024-02-07,Administrativo,Producción,Energía & Seguridad,No,Sí
+253,Margarita,Cerezo,22342437,2020-02-26,Supervisor,Logística,OilTech Institute,No,No
+254,María Teresa,Ribera,31404320,2024-02-03,Operador,Mantenimiento,TecnoOil Training,Sí,Sí
+255,Juanito,Acedo,29490501,2020-07-14,Administrativo,Perforación,Digital Oil Academy,Sí,Sí
+256,Pilar,Tovar,24986034,2023-01-19,Administrativo,Perforación,TechEnergy Training,Sí,No
+257,Bárbara,Tomé,31580437,2021-02-09,Técnico,Seguridad,SafeOil Academy,Sí,No
+258,Carmina,Pi,35278829,2020-12-05,Ingeniero,Logística,PetroCapacitaciones S.A.,No,No
+259,Ruth,Fabregat,28012984,2025-03-08,Administrativo,Producción,Digital Oil Academy,Sí,Sí
+260,Rodolfo,Guillen,33783325,2016-03-13,Supervisor,Seguridad,TecnoOil Training,No,No
+261,Maximino,Suárez,32791994,2022-01-09,Supervisor,Mantenimiento,Energía & Seguridad,Sí,Sí
+262,Gracia,Cornejo,36620471,2016-02-01,Administrativo,Producción,Energía & Seguridad,Sí,Sí
+263,Edmundo,Vallés,39803169,2021-02-06,Operador,Perforación,TechEnergy Training,Sí,No
+264,Ruth,Cabrera,34774224,2017-02-24,Administrativo,Perforación,OilTech Institute,Sí,Sí
+265,Begoña,Saura,20514979,2017-11-27,Operador,Mantenimiento,OilTech Institute,Sí,No
+266,Sebastián,Cortes,22510819,2023-06-11,Ingeniero,Perforación,TecnoOil Training,Sí,Sí
+267,Merche,Landa,31360229,2022-03-20,Supervisor,Seguridad,Digital Oil Academy,Sí,Sí
+268,Florentina,Bernat,31024831,2024-07-13,Técnico,Producción,Digital Oil Academy,Sí,No
+269,Ricardo,Moliner,36372800,2024-08-28,Supervisor,Seguridad,Energía & Seguridad,Sí,No
+270,Andrés Felipe,Bayona,27877582,2020-05-05,Operador,Producción,Energía & Seguridad,No,No
+271,Javi,Botella,34561666,2017-02-16,Ingeniero,Logística,OilTech Institute,Sí,Sí
+272,Martirio,Cabrera,34887381,2018-04-14,Técnico,Producción,TechEnergy Training,Sí,Sí
+273,Joaquina,Marí,20971308,2016-03-27,Ingeniero,Perforación,OilTech Institute,Sí,No
+274,Moreno,Barba,29843789,2021-07-21,Administrativo,Logística,TechEnergy Training,No,No
+275,Reinaldo,Rosa,24884511,2019-08-11,Técnico,Producción,PetroCapacitaciones S.A.,Sí,No
+276,Bernarda,Requena,38989394,2018-07-08,Técnico,Seguridad,OilTech Institute,Sí,Sí
+277,Francisco,Díez,22649738,2021-12-18,Operador,Producción,Digital Oil Academy,No,No
+278,Estefanía,Hernando,36698941,2025-05-17,Administrativo,Logística,PetroCapacitaciones S.A.,No,Sí
+279,Eric,Guerra,35473623,2019-10-11,Ingeniero,Logística,PetroCapacitaciones S.A.,No,No
+280,Ángel,Jara,20315325,2023-05-15,Supervisor,Perforación,TechEnergy Training,Sí,Sí
+281,Valentina,Maestre,38340790,2018-02-21,Ingeniero,Mantenimiento,SafeOil Academy,No,Sí
+282,Candelario,Sala,31595258,2025-06-14,Técnico,Producción,TechEnergy Training,Sí,Sí
+283,Marcelino,Rodrigo,28391903,2023-03-24,Ingeniero,Perforación,PetroBusiness School,Sí,Sí
+284,Ramona,Matas,26684613,2021-12-31,Ingeniero,Producción,Energía & Seguridad,Sí,No
+285,Reyna,Tomas,23578689,2019-06-28,Ingeniero,Perforación,TechEnergy Training,Sí,Sí
+286,Rico,Palomar,39287487,2020-06-27,Ingeniero,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+287,Juana,Marquez,20736170,2022-03-10,Técnico,Producción,PetroBusiness School,Sí,Sí
+288,Leonardo,Aguiló,38989426,2016-04-15,Ingeniero,Seguridad,TecnoOil Training,No,No
+289,Visitación,Valdés,29603082,2019-05-15,Técnico,Logística,PetroCapacitaciones S.A.,Sí,No
+290,Elvira,Ortuño,27348572,2018-09-09,Administrativo,Perforación,SafeOil Academy,Sí,Sí
+291,Estela,Iglesia,24589549,2017-02-08,Operador,Mantenimiento,PetroBusiness School,No,No
+292,Vera,Ariza,30366067,2022-12-15,Administrativo,Perforación,TechEnergy Training,Sí,No
+293,Anastasio,Patiño,24409448,2016-12-27,Operador,Mantenimiento,OilTech Institute,No,No
+294,Virginia,Marquez,30962874,2022-07-10,Administrativo,Mantenimiento,OilTech Institute,Sí,No
+295,Gabino,Font,24434546,2024-08-18,Técnico,Perforación,TecnoOil Training,Sí,Sí
+296,Sarita,Paz,37812449,2023-12-29,Operador,Logística,Digital Oil Academy,Sí,No
+297,Xiomara,Llamas,25521194,2019-10-29,Supervisor,Seguridad,PetroCapacitaciones S.A.,No,No
+298,Xiomara,Tirado,29903303,2021-03-20,Administrativo,Perforación,TecnoOil Training,Sí,Sí
+299,Nilda,Cardona,35714593,2016-09-25,Supervisor,Producción,TechEnergy Training,No,No
+300,Epifanio,Gonzalez,33334916,2024-12-08,Operador,Mantenimiento,TechEnergy Training,Sí,No
+301,Pío,Bosch,33239725,2015-09-10,Ingeniero,Logística,OilTech Institute,No,Sí
+302,Juan Luis,Casals,35260086,2021-09-22,Técnico,Perforación,TechEnergy Training,Sí,No
+303,Hortensia,Juárez,39614581,2021-12-08,Supervisor,Perforación,Energía & Seguridad,Sí,Sí
+304,Pacífica,Pera,23635491,2019-06-07,Técnico,Mantenimiento,Energía & Seguridad,No,Sí
+305,Adriana,Amaya,38837705,2021-01-13,Operador,Seguridad,SafeOil Academy,No,Sí
+306,Yolanda,Giralt,22121211,2023-05-09,Ingeniero,Logística,OilTech Institute,Sí,Sí
+307,Virginia,Matas,33700135,2017-06-09,Operador,Seguridad,OilTech Institute,Sí,No
+308,Enrique,Arrieta,21248631,2020-08-19,Administrativo,Logística,TechEnergy Training,Sí,No
+309,América,Carmona,23261222,2019-06-13,Supervisor,Perforación,TechEnergy Training,Sí,Sí
+310,Susana,Cerdá,33040790,2023-03-04,Ingeniero,Seguridad,SafeOil Academy,No,No
+311,Raimundo,Rius,39707871,2018-01-31,Técnico,Seguridad,Digital Oil Academy,Sí,Sí
+312,Sonia,Ribera,23322614,2023-10-12,Supervisor,Logística,SafeOil Academy,No,Sí
+313,Encarnación,Raya,29386521,2016-01-05,Supervisor,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+314,Jenny,Pellicer,27290360,2022-12-31,Ingeniero,Perforación,SafeOil Academy,Sí,Sí
+315,Victor,Guzman,32169724,2017-02-22,Técnico,Mantenimiento,TechEnergy Training,No,Sí
+316,Itziar,Pedrero,38269242,2021-07-22,Operador,Mantenimiento,PetroBusiness School,Sí,No
+317,Benjamín,Puig,29257045,2018-09-07,Operador,Perforación,TecnoOil Training,Sí,Sí
+318,Donato,Sanz,23076049,2019-01-23,Administrativo,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+319,Felisa,Almazán,21697133,2021-02-16,Supervisor,Perforación,Energía & Seguridad,Sí,Sí
+320,Jose Francisco,Casas,38944093,2018-12-12,Operador,Perforación,OilTech Institute,Sí,Sí
+321,Bruno,Galan,39675751,2019-02-16,Ingeniero,Logística,SafeOil Academy,No,No
+322,Odalis,Guijarro,31024629,2017-12-18,Operador,Seguridad,SafeOil Academy,Sí,Sí
+323,Modesta,Acedo,29303799,2017-12-01,Ingeniero,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+324,Eladio,Iglesia,25855151,2017-04-29,Administrativo,Producción,Digital Oil Academy,No,No
+325,Gertrudis,Amigó,24422582,2015-09-16,Ingeniero,Mantenimiento,TecnoOil Training,Sí,No
+326,Pepito,Gárate,39758625,2020-12-17,Técnico,Producción,TecnoOil Training,No,No
+327,Alcides,Dávila,28904256,2016-05-06,Técnico,Mantenimiento,OilTech Institute,No,Sí
+328,Edmundo,Robledo,37652501,2017-05-22,Operador,Producción,PetroBusiness School,Sí,Sí
+329,Marcia,Bartolomé,35980162,2023-01-30,Operador,Seguridad,PetroBusiness School,Sí,No
+330,Mayte,Paredes,37221408,2017-04-23,Ingeniero,Perforación,Energía & Seguridad,Sí,Sí
+331,Vito,Vara,27433976,2016-03-11,Supervisor,Logística,SafeOil Academy,Sí,No
+332,Lucía,Vázquez,30121034,2023-04-01,Administrativo,Mantenimiento,Energía & Seguridad,Sí,Sí
+333,Fernanda,Anguita,22040961,2023-08-09,Supervisor,Producción,SafeOil Academy,No,Sí
+334,Rebeca,Querol,34303369,2017-04-16,Administrativo,Mantenimiento,TechEnergy Training,Sí,Sí
+335,Amor,Salcedo,22465939,2016-10-30,Administrativo,Mantenimiento,Digital Oil Academy,No,Sí
+336,Modesto,Colomer,22203930,2017-08-08,Técnico,Seguridad,TechEnergy Training,Sí,No
+337,Leonardo,Morcillo,32781030,2024-06-24,Ingeniero,Producción,TechEnergy Training,Sí,Sí
+338,Macario,Santiago,36963479,2022-10-10,Ingeniero,Logística,Energía & Seguridad,Sí,Sí
+339,Conrado,Carbó,38499740,2019-02-11,Operador,Perforación,PetroBusiness School,Sí,Sí
+340,Tito,Sanmiguel,27666972,2022-06-30,Administrativo,Seguridad,SafeOil Academy,Sí,No
+341,Norberto,Santana,33379164,2022-07-13,Ingeniero,Perforación,OilTech Institute,Sí,Sí
+342,Luna,Bustamante,30487382,2022-09-18,Supervisor,Perforación,TechEnergy Training,Sí,Sí
+343,Matías,Jara,32559458,2018-01-19,Operador,Mantenimiento,SafeOil Academy,Sí,No
+344,Jacinta,Sánchez,22252620,2017-01-02,Administrativo,Seguridad,OilTech Institute,Sí,No
+345,Paz,Blázquez,23128283,2022-10-20,Ingeniero,Producción,SafeOil Academy,No,No
+346,Clemente,Peralta,24365950,2024-12-02,Ingeniero,Producción,PetroCapacitaciones S.A.,Sí,Sí
+347,Benito,Murcia,24101401,2022-06-11,Administrativo,Perforación,OilTech Institute,Sí,No
+348,Paulino,Rocha,21726243,2020-05-07,Supervisor,Logística,PetroBusiness School,Sí,No
+349,Eli,Miguel,31799288,2017-03-20,Supervisor,Mantenimiento,OilTech Institute,Sí,Sí
+350,Crescencia,Vera,27138329,2018-02-01,Supervisor,Producción,PetroCapacitaciones S.A.,Sí,Sí
+351,Gala,Toledo,27524409,2017-04-18,Ingeniero,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+352,Pancho,Pedrero,23854911,2020-03-11,Administrativo,Seguridad,Energía & Seguridad,Sí,Sí
+353,Consuela,Gonzalo,34398623,2024-12-30,Operador,Seguridad,PetroBusiness School,Sí,Sí
+354,María Fernanda,Amo,28974056,2015-12-12,Técnico,Mantenimiento,Digital Oil Academy,Sí,No
+355,Geraldo,Llano,30367805,2021-03-27,Supervisor,Logística,PetroBusiness School,No,Sí
+356,Pascual,Aguado,26086960,2017-11-22,Administrativo,Logística,OilTech Institute,Sí,Sí
+357,Clarisa,Pérez,22334899,2017-11-13,Supervisor,Seguridad,TechEnergy Training,Sí,No
+358,Manu,Anglada,23078876,2024-06-24,Ingeniero,Seguridad,TecnoOil Training,Sí,No
+359,Ildefonso,Peñalver,34087240,2023-03-04,Técnico,Producción,Energía & Seguridad,Sí,Sí
+360,Néstor,Criado,32416921,2020-10-03,Supervisor,Perforación,PetroBusiness School,Sí,Sí
+361,Lorena,Morata,39045279,2016-11-24,Operador,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+362,Sol,Badía,25220395,2018-02-18,Ingeniero,Logística,TecnoOil Training,Sí,No
+363,Marisela,Ayala,22737421,2020-01-31,Técnico,Seguridad,OilTech Institute,Sí,Sí
+364,Venceslás,Rodrigo,36296102,2022-12-22,Administrativo,Perforación,PetroBusiness School,Sí,Sí
+365,Severino,Llano,27233294,2024-03-03,Operador,Mantenimiento,TechEnergy Training,Sí,No
+366,Danilo,Ochoa,34425507,2017-05-05,Operador,Logística,PetroBusiness School,No,Sí
+367,Loreto,Torrecilla,37680974,2020-09-13,Administrativo,Mantenimiento,TecnoOil Training,Sí,Sí
+368,Artemio,Giménez,33262838,2016-05-21,Técnico,Seguridad,SafeOil Academy,Sí,Sí
+369,Adrián,Fuente,30113955,2019-01-18,Operador,Mantenimiento,PetroCapacitaciones S.A.,No,No
+370,María Fernanda,Cervantes,28573811,2020-05-18,Operador,Seguridad,TechEnergy Training,Sí,No
+371,Nacio,Carretero,20259372,2023-12-01,Operador,Producción,Digital Oil Academy,No,Sí
+372,Margarita,Ros,25895339,2017-08-26,Administrativo,Mantenimiento,SafeOil Academy,Sí,Sí
+373,Ricardo,Grau,36786018,2024-12-16,Técnico,Seguridad,SafeOil Academy,No,No
+374,Perla,Pablo,22418452,2022-03-18,Administrativo,Mantenimiento,SafeOil Academy,Sí,No
+375,Rosalva,Arnal,34637100,2015-10-10,Operador,Perforación,SafeOil Academy,Sí,No
+376,Ángel,Bermejo,30504571,2025-04-01,Ingeniero,Producción,PetroBusiness School,Sí,No
+377,Timoteo,Quiroga,34015483,2020-05-18,Supervisor,Perforación,TechEnergy Training,Sí,Sí
+378,Darío,Quirós,20699829,2020-12-24,Supervisor,Seguridad,TecnoOil Training,Sí,No
+379,Francisco Javier,Seguí,32141761,2016-12-14,Ingeniero,Logística,PetroBusiness School,Sí,No
+380,Ulises,Camacho,28164346,2022-11-13,Operador,Perforación,OilTech Institute,Sí,Sí
+381,Dolores,Pérez,37581265,2016-10-16,Supervisor,Producción,TechEnergy Training,Sí,Sí
+382,Ruy,Menéndez,31392175,2019-03-23,Operador,Mantenimiento,PetroCapacitaciones S.A.,Sí,Sí
+383,Nazario,Diéguez,22562866,2024-02-21,Operador,Seguridad,Digital Oil Academy,No,No
+384,Evita,Carbonell,37804143,2024-02-17,Supervisor,Logística,Digital Oil Academy,Sí,Sí
+385,Guillermo,Olmedo,31780952,2017-12-19,Operador,Logística,Digital Oil Academy,Sí,No
+386,Jonatan,Calderon,24913852,2019-10-23,Administrativo,Mantenimiento,Digital Oil Academy,Sí,Sí
+387,Hector,Durán,25129458,2016-09-26,Ingeniero,Mantenimiento,PetroCapacitaciones S.A.,Sí,No
+388,Galo,Uribe,35567681,2025-01-16,Ingeniero,Mantenimiento,Energía & Seguridad,No,No
+389,Martirio,Sanchez,38941201,2020-12-14,Administrativo,Seguridad,Energía & Seguridad,Sí,No
+390,Rosario,Molina,25065289,2022-12-08,Operador,Producción,Energía & Seguridad,Sí,Sí
+391,Borja,Somoza,34838040,2020-08-09,Operador,Seguridad,Digital Oil Academy,No,No
+392,Natividad,Llobet,39844754,2016-05-30,Administrativo,Seguridad,PetroCapacitaciones S.A.,Sí,No
+393,Pastor,Vera,22489425,2020-09-25,Supervisor,Seguridad,PetroCapacitaciones S.A.,Sí,No
+394,Íñigo,Sans,21261889,2016-06-03,Supervisor,Perforación,TecnoOil Training,Sí,No
+395,Rafa,Madrid,22574665,2016-12-28,Operador,Perforación,TechEnergy Training,Sí,Sí
+396,Encarnacion,Vendrell,32901091,2023-04-30,Ingeniero,Logística,TecnoOil Training,No,No
+397,Custodia,Armengol,35090558,2025-03-07,Técnico,Logística,Digital Oil Academy,Sí,Sí
+398,Florinda,Fabra,30788647,2023-07-19,Administrativo,Producción,OilTech Institute,Sí,Sí
+399,Angélica,Contreras,22076136,2023-02-13,Técnico,Producción,PetroCapacitaciones S.A.,No,No
+400,Cristian,Nuñez,22829616,2024-01-15,Técnico,Perforación,SafeOil Academy,Sí,Sí
+401,Flavia,Duque,21313391,2019-09-02,Operador,Perforación,TechEnergy Training,Sí,Sí
+402,Laura,Río,34744548,2024-05-15,Operador,Producción,PetroBusiness School,No,Sí
+403,Azeneth,Cuenca,32210389,2021-10-18,Administrativo,Mantenimiento,TecnoOil Training,Sí,Sí
+404,Yéssica,Luna,32999542,2022-05-30,Supervisor,Seguridad,PetroBusiness School,Sí,No
+405,Matilde,Neira,21757095,2021-02-23,Técnico,Logística,OilTech Institute,Sí,No
+406,Blas,Murcia,23171093,2024-12-12,Técnico,Logística,SafeOil Academy,No,No
+407,Irene,Pomares,29534390,2019-09-28,Operador,Producción,Digital Oil Academy,No,Sí
+408,Lourdes,Conesa,31185773,2016-11-03,Técnico,Perforación,Digital Oil Academy,Sí,Sí
+409,Dafne,Cid,31738037,2020-09-24,Técnico,Seguridad,TechEnergy Training,Sí,Sí
+410,Gabriela,Pou,24326899,2016-11-23,Técnico,Perforación,TecnoOil Training,Sí,Sí
+411,Martín,Peñas,31021844,2017-08-18,Ingeniero,Perforación,PetroBusiness School,Sí,No
+412,Herminia,Zurita,23135761,2022-08-28,Ingeniero,Seguridad,Energía & Seguridad,No,No
+413,Apolonia,Paredes,20611715,2021-08-16,Técnico,Producción,TecnoOil Training,Sí,No
+414,Martin,Escribano,27187113,2021-04-08,Operador,Producción,SafeOil Academy,Sí,Sí
+415,María Dolores,Torre,26442626,2019-04-23,Operador,Seguridad,Energía & Seguridad,Sí,Sí
+416,Emigdio,Cortina,22589230,2020-06-26,Administrativo,Producción,PetroBusiness School,No,No
+417,Rafaela,Cadenas,37035239,2024-08-21,Operador,Perforación,PetroBusiness School,Sí,Sí
+418,Petrona,Zurita,21266595,2021-03-08,Técnico,Producción,OilTech Institute,Sí,No
+419,Sarita,Castro,32640621,2018-01-29,Administrativo,Seguridad,PetroBusiness School,Sí,No
+420,Fermín,Escrivá,25554572,2022-11-25,Operador,Logística,Digital Oil Academy,No,Sí
+421,Armando,Reig,32223859,2019-06-30,Supervisor,Perforación,Digital Oil Academy,Sí,Sí
+422,Vicente,López,35063522,2019-06-09,Operador,Seguridad,PetroBusiness School,Sí,No
+423,Bibiana,Haro,30384019,2023-06-08,Operador,Seguridad,Digital Oil Academy,Sí,No
+424,Vera,Ferrera,32342694,2025-02-27,Técnico,Logística,PetroCapacitaciones S.A.,Sí,No
+425,Valero,Serrano,29454690,2021-12-13,Administrativo,Seguridad,PetroCapacitaciones S.A.,Sí,No
+426,Ani,Álamo,34047926,2018-03-18,Supervisor,Seguridad,OilTech Institute,Sí,No
+427,Olga,Flores,24643884,2019-09-16,Ingeniero,Seguridad,PetroCapacitaciones S.A.,Sí,Sí
+428,Baldomero,Terrón,32455811,2024-11-20,Supervisor,Mantenimiento,SafeOil Academy,Sí,Sí
+429,Cristian,Villalobos,24183491,2020-04-21,Operador,Mantenimiento,PetroCapacitaciones S.A.,Sí,No
+430,Celso,Cueto,29153357,2023-02-05,Operador,Logística,Digital Oil Academy,Sí,No
+431,Vicenta,Vilanova,24944200,2022-11-24,Técnico,Perforación,TechEnergy Training,Sí,Sí
+432,Ciriaco,Girona,35137343,2021-05-27,Ingeniero,Mantenimiento,PetroBusiness School,Sí,No
+433,Amando,Ribera,21787004,2022-03-14,Ingeniero,Seguridad,TecnoOil Training,Sí,No
+434,Ani,Pereira,27911399,2022-01-09,Operador,Mantenimiento,Energía & Seguridad,Sí,Sí
+435,Ceferino,Perera,27534270,2015-12-08,Administrativo,Producción,TecnoOil Training,Sí,Sí
+436,Melchor,Cabeza,31250477,2017-12-09,Ingeniero,Perforación,SafeOil Academy,Sí,Sí
+437,Emigdio,Arenas,29626075,2023-06-29,Técnico,Logística,TechEnergy Training,No,No
+438,Josefa,Chamorro,35740723,2023-02-01,Técnico,Seguridad,Digital Oil Academy,Sí,Sí
+439,Encarnación,Adadia,22658375,2015-10-12,Administrativo,Producción,PetroBusiness School,No,No
+440,José María,Garriga,25017045,2024-10-16,Técnico,Producción,OilTech Institute,Sí,Sí
+441,Lucía,Álamo,34202073,2017-05-06,Administrativo,Perforación,OilTech Institute,Sí,Sí
+442,Maura,Maldonado,27973882,2020-07-30,Operador,Mantenimiento,SafeOil Academy,Sí,Sí
+443,Domingo,Asenjo,28000702,2022-08-06,Administrativo,Producción,PetroCapacitaciones S.A.,No,Sí
+444,Feliciana,Sebastián,22107458,2017-05-04,Supervisor,Seguridad,Digital Oil Academy,Sí,Sí
+445,Piedad,Valero,37986980,2015-09-26,Supervisor,Seguridad,OilTech Institute,Sí,Sí
+446,Evelia,Villalba,39295390,2019-07-28,Ingeniero,Producción,PetroCapacitaciones S.A.,Sí,Sí
+447,Lina,Cobo,29773466,2022-10-04,Técnico,Perforación,Energía & Seguridad,Sí,No
+448,Abel,Osorio,28071996,2025-02-28,Supervisor,Perforación,Digital Oil Academy,No,Sí
+449,Sigfrido,Exposito,22872727,2024-05-11,Administrativo,Logística,PetroBusiness School,No,No
+450,Poncio,Bauzà,37651625,2024-09-16,Operador,Perforación,PetroCapacitaciones S.A.,Sí,Sí
+451,Anunciación,Vera,38594254,2015-10-20,Técnico,Producción,TechEnergy Training,Sí,Sí
+452,Rosario,Soriano,21460772,2022-01-13,Operador,Seguridad,SafeOil Academy,Sí,No
+453,Raúl,Izaguirre,20544998,2021-07-12,Administrativo,Perforación,SafeOil Academy,Sí,Sí
+454,Modesta,Bauzà,31569651,2019-07-23,Ingeniero,Producción,SafeOil Academy,No,Sí
+455,Luz,Calleja,39525435,2021-02-10,Operador,Seguridad,Energía & Seguridad,Sí,No
+456,Eliseo,Arregui,31821194,2024-09-28,Administrativo,Perforación,PetroBusiness School,No,Sí
+457,Nilo,Díez,35590157,2023-08-06,Operador,Perforación,TecnoOil Training,Sí,No
+458,Evangelina,Esparza,24524901,2016-07-12,Supervisor,Perforación,SafeOil Academy,Sí,No
+459,Lilia,Seco,21240970,2020-06-12,Administrativo,Producción,SafeOil Academy,No,Sí
+460,Heriberto,Arranz,26693096,2016-03-02,Ingeniero,Seguridad,Digital Oil Academy,Sí,No
+461,Maximiano,Menéndez,37293403,2022-03-25,Ingeniero,Mantenimiento,TecnoOil Training,Sí,Sí
+462,Ofelia,Sáenz,28499799,2016-01-29,Administrativo,Producción,Digital Oil Academy,No,Sí
+463,Marisa,Feijoo,29600288,2021-07-12,Ingeniero,Seguridad,Energía & Seguridad,Sí,No
+464,Rosalva,Asenjo,31137544,2020-02-07,Supervisor,Producción,Energía & Seguridad,Sí,Sí
+465,Edelmiro,Pedro,34661655,2022-04-05,Ingeniero,Mantenimiento,Energía & Seguridad,Sí,No
+466,Mar,Sabater,32973645,2021-03-22,Administrativo,Mantenimiento,TecnoOil Training,Sí,No
+467,Glauco,Valderrama,36694114,2021-09-14,Supervisor,Perforación,TechEnergy Training,Sí,Sí
+468,Ámbar,Vives,28949661,2016-11-10,Administrativo,Logística,TechEnergy Training,No,No
+469,Lucía,Rodriguez,22648350,2022-10-12,Administrativo,Logística,PetroBusiness School,No,Sí
+470,Eligia,Escribano,38303083,2020-06-14,Ingeniero,Mantenimiento,TechEnergy Training,No,Sí
+471,Miguel Ángel,Calderon,22686666,2021-01-12,Operador,Perforación,TechEnergy Training,Sí,Sí
+472,Gertrudis,Marqués,30284294,2023-01-15,Ingeniero,Seguridad,PetroCapacitaciones S.A.,Sí,Sí
+473,Elisa,Rojas,25591670,2023-01-03,Ingeniero,Logística,TecnoOil Training,Sí,No
+474,Pascual,Salvador,21421203,2021-06-14,Ingeniero,Perforación,TechEnergy Training,Sí,No
+475,Encarnacion,Royo,29212549,2016-06-06,Operador,Producción,PetroBusiness School,No,Sí
+476,Carlito,Ramis,32190698,2024-03-08,Ingeniero,Producción,TecnoOil Training,Sí,No
+477,Nicolasa,Cuesta,21044905,2017-11-19,Administrativo,Logística,SafeOil Academy,No,No
+478,Reina,Ríos,21167659,2017-08-08,Técnico,Logística,PetroCapacitaciones S.A.,Sí,No
+479,Bonifacio,Guzman,32291943,2021-08-13,Técnico,Logística,Digital Oil Academy,Sí,No
+480,Rodolfo,Antúnez,25148530,2023-02-09,Ingeniero,Logística,TechEnergy Training,Sí,Sí
+481,Raimundo,Peral,34896130,2016-10-05,Administrativo,Mantenimiento,PetroCapacitaciones S.A.,No,No
+482,Consuela,Cervantes,37765725,2021-09-12,Técnico,Producción,PetroBusiness School,Sí,No
+483,Rómulo,Miralles,29351276,2019-09-14,Operador,Logística,Energía & Seguridad,Sí,Sí
+484,Danilo,Amo,26242736,2023-12-11,Operador,Mantenimiento,TechEnergy Training,Sí,No
+485,Aura,Pombo,38846608,2017-06-16,Técnico,Logística,Energía & Seguridad,No,No
+486,Juan Francisco,Juliá,34974440,2019-02-08,Ingeniero,Seguridad,OilTech Institute,Sí,No
+487,Emma,Machado,36481943,2018-11-10,Técnico,Perforación,PetroBusiness School,No,Sí
+488,Donato,Cerdá,22484774,2023-02-22,Administrativo,Producción,PetroBusiness School,No,Sí
+489,Francisco Jose,Salgado,22945768,2020-11-21,Operador,Seguridad,TecnoOil Training,Sí,No
+490,Guadalupe,Olivera,22178993,2024-10-23,Administrativo,Perforación,OilTech Institute,Sí,Sí
+491,Candela,Manrique,30064875,2018-02-18,Ingeniero,Logística,Energía & Seguridad,Sí,No
+492,Leonor,Dávila,32129664,2024-02-10,Ingeniero,Producción,Energía & Seguridad,Sí,Sí
+493,Jacobo,Carrión,26743782,2017-10-25,Ingeniero,Seguridad,SafeOil Academy,Sí,Sí
+494,Jordi,Uribe,20881945,2021-08-05,Supervisor,Logística,TecnoOil Training,Sí,No
+495,Casandra,Peinado,35683537,2024-11-02,Ingeniero,Logística,SafeOil Academy,Sí,Sí
+496,Efraín,Boix,22206140,2020-09-18,Ingeniero,Mantenimiento,TecnoOil Training,Sí,No
+497,Rómulo,Tejero,37639419,2022-06-11,Técnico,Logística,PetroBusiness School,Sí,No
+498,María José,Recio,39290460,2016-09-16,Operador,Seguridad,OilTech Institute,Sí,Sí
+499,Edgardo,Molins,22488565,2023-02-10,Supervisor,Mantenimiento,PetroBusiness School,Sí,No
+500,Adelaida,Villar,31559997,2017-08-21,Técnico,Mantenimiento,Digital Oil Academy,No,Sí

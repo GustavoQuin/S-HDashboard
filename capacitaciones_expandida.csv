@@ -1,0 +1,658 @@
+CapacitacionID,EmpleadoID,Fecha,Tema
+1,87,2024-02-07,Trabajo en altura
+1,49,2024-02-07,Trabajo en altura
+1,6,2024-02-07,Trabajo en altura
+1,100,2024-02-07,Trabajo en altura
+1,20,2024-02-07,Trabajo en altura
+1,9,2024-02-07,Trabajo en altura
+1,14,2024-02-07,Trabajo en altura
+1,84,2024-02-07,Trabajo en altura
+1,45,2024-02-07,Trabajo en altura
+1,52,2024-02-07,Trabajo en altura
+1,57,2024-02-07,Trabajo en altura
+1,80,2024-02-07,Trabajo en altura
+1,4,2024-02-07,Trabajo en altura
+1,60,2024-02-07,Trabajo en altura
+1,34,2024-02-07,Trabajo en altura
+1,37,2024-02-07,Trabajo en altura
+1,41,2024-02-07,Trabajo en altura
+1,1,2024-02-07,Trabajo en altura
+1,56,2024-02-07,Trabajo en altura
+1,93,2024-02-07,Trabajo en altura
+1,89,2024-02-07,Trabajo en altura
+1,63,2024-02-07,Trabajo en altura
+1,26,2024-02-07,Trabajo en altura
+1,5,2024-02-07,Trabajo en altura
+1,75,2024-02-07,Trabajo en altura
+1,71,2024-02-07,Trabajo en altura
+1,70,2024-02-07,Trabajo en altura
+1,81,2024-02-07,Trabajo en altura
+1,38,2024-02-07,Trabajo en altura
+1,19,2024-02-07,Trabajo en altura
+2,23,2024-04-20,Uso de EPP
+2,8,2024-04-20,Uso de EPP
+2,80,2024-04-20,Uso de EPP
+2,65,2024-04-20,Uso de EPP
+2,2,2024-04-20,Uso de EPP
+2,83,2024-04-20,Uso de EPP
+2,35,2024-04-20,Uso de EPP
+2,98,2024-04-20,Uso de EPP
+2,5,2024-04-20,Uso de EPP
+2,96,2024-04-20,Uso de EPP
+2,99,2024-04-20,Uso de EPP
+2,32,2024-04-20,Uso de EPP
+2,40,2024-04-20,Uso de EPP
+2,49,2024-04-20,Uso de EPP
+2,89,2024-04-20,Uso de EPP
+2,25,2024-04-20,Uso de EPP
+2,73,2024-04-20,Uso de EPP
+2,85,2024-04-20,Uso de EPP
+2,51,2024-04-20,Uso de EPP
+2,6,2024-04-20,Uso de EPP
+2,79,2024-04-20,Uso de EPP
+2,1,2024-04-20,Uso de EPP
+2,97,2024-04-20,Uso de EPP
+2,42,2024-04-20,Uso de EPP
+2,11,2024-04-20,Uso de EPP
+2,15,2024-04-20,Uso de EPP
+2,28,2024-04-20,Uso de EPP
+2,100,2024-04-20,Uso de EPP
+2,62,2024-04-20,Uso de EPP
+2,63,2024-04-20,Uso de EPP
+2,71,2024-04-20,Uso de EPP
+2,47,2024-04-20,Uso de EPP
+2,33,2024-04-20,Uso de EPP
+2,39,2024-04-20,Uso de EPP
+2,43,2024-04-20,Uso de EPP
+2,95,2024-04-20,Uso de EPP
+3,90,2024-08-07,Espacios confinados
+3,2,2024-08-07,Espacios confinados
+3,93,2024-08-07,Espacios confinados
+3,58,2024-08-07,Espacios confinados
+3,48,2024-08-07,Espacios confinados
+3,61,2024-08-07,Espacios confinados
+3,99,2024-08-07,Espacios confinados
+3,56,2024-08-07,Espacios confinados
+3,45,2024-08-07,Espacios confinados
+3,62,2024-08-07,Espacios confinados
+3,17,2024-08-07,Espacios confinados
+3,79,2024-08-07,Espacios confinados
+3,8,2024-08-07,Espacios confinados
+3,97,2024-08-07,Espacios confinados
+3,23,2024-08-07,Espacios confinados
+3,88,2024-08-07,Espacios confinados
+3,3,2024-08-07,Espacios confinados
+3,29,2024-08-07,Espacios confinados
+3,38,2024-08-07,Espacios confinados
+3,89,2024-08-07,Espacios confinados
+3,76,2024-08-07,Espacios confinados
+3,12,2024-08-07,Espacios confinados
+3,86,2024-08-07,Espacios confinados
+3,40,2024-08-07,Espacios confinados
+3,73,2024-08-07,Espacios confinados
+3,52,2024-08-07,Espacios confinados
+3,34,2024-08-07,Espacios confinados
+3,98,2024-08-07,Espacios confinados
+3,50,2024-08-07,Espacios confinados
+3,11,2024-08-07,Espacios confinados
+3,65,2024-08-07,Espacios confinados
+3,32,2024-08-07,Espacios confinados
+3,75,2024-08-07,Espacios confinados
+3,15,2024-08-07,Espacios confinados
+3,47,2024-08-07,Espacios confinados
+3,59,2024-08-07,Espacios confinados
+3,27,2024-08-07,Espacios confinados
+3,33,2024-08-07,Espacios confinados
+3,82,2024-08-07,Espacios confinados
+4,30,2024-12-02,Uso de EPP
+4,1,2024-12-02,Uso de EPP
+4,31,2024-12-02,Uso de EPP
+4,44,2024-12-02,Uso de EPP
+4,88,2024-12-02,Uso de EPP
+4,50,2024-12-02,Uso de EPP
+4,45,2024-12-02,Uso de EPP
+4,62,2024-12-02,Uso de EPP
+4,13,2024-12-02,Uso de EPP
+4,36,2024-12-02,Uso de EPP
+4,37,2024-12-02,Uso de EPP
+4,47,2024-12-02,Uso de EPP
+4,42,2024-12-02,Uso de EPP
+5,29,2024-08-10,Uso de EPP
+5,53,2024-08-10,Uso de EPP
+5,76,2024-08-10,Uso de EPP
+5,39,2024-08-10,Uso de EPP
+5,81,2024-08-10,Uso de EPP
+5,60,2024-08-10,Uso de EPP
+5,10,2024-08-10,Uso de EPP
+5,14,2024-08-10,Uso de EPP
+5,31,2024-08-10,Uso de EPP
+5,37,2024-08-10,Uso de EPP
+5,62,2024-08-10,Uso de EPP
+5,41,2024-08-10,Uso de EPP
+5,79,2024-08-10,Uso de EPP
+5,64,2024-08-10,Uso de EPP
+5,66,2024-08-10,Uso de EPP
+5,7,2024-08-10,Uso de EPP
+5,40,2024-08-10,Uso de EPP
+5,97,2024-08-10,Uso de EPP
+5,71,2024-08-10,Uso de EPP
+5,84,2024-08-10,Uso de EPP
+5,56,2024-08-10,Uso de EPP
+5,91,2024-08-10,Uso de EPP
+5,93,2024-08-10,Uso de EPP
+5,85,2024-08-10,Uso de EPP
+5,55,2024-08-10,Uso de EPP
+5,15,2024-08-10,Uso de EPP
+5,36,2024-08-10,Uso de EPP
+5,87,2024-08-10,Uso de EPP
+5,67,2024-08-10,Uso de EPP
+5,17,2024-08-10,Uso de EPP
+5,95,2024-08-10,Uso de EPP
+5,86,2024-08-10,Uso de EPP
+5,23,2024-08-10,Uso de EPP
+5,58,2024-08-10,Uso de EPP
+5,18,2024-08-10,Uso de EPP
+5,49,2024-08-10,Uso de EPP
+5,35,2024-08-10,Uso de EPP
+5,42,2024-08-10,Uso de EPP
+5,100,2024-08-10,Uso de EPP
+5,43,2024-08-10,Uso de EPP
+5,45,2024-08-10,Uso de EPP
+5,51,2024-08-10,Uso de EPP
+5,72,2024-08-10,Uso de EPP
+5,82,2024-08-10,Uso de EPP
+5,78,2024-08-10,Uso de EPP
+5,89,2024-08-10,Uso de EPP
+5,73,2024-08-10,Uso de EPP
+5,22,2024-08-10,Uso de EPP
+5,75,2024-08-10,Uso de EPP
+6,86,2024-05-15,Uso de EPP
+6,88,2024-05-15,Uso de EPP
+6,10,2024-05-15,Uso de EPP
+6,31,2024-05-15,Uso de EPP
+6,91,2024-05-15,Uso de EPP
+6,67,2024-05-15,Uso de EPP
+6,34,2024-05-15,Uso de EPP
+6,100,2024-05-15,Uso de EPP
+6,69,2024-05-15,Uso de EPP
+6,37,2024-05-15,Uso de EPP
+6,56,2024-05-15,Uso de EPP
+6,32,2024-05-15,Uso de EPP
+6,13,2024-05-15,Uso de EPP
+6,83,2024-05-15,Uso de EPP
+6,1,2024-05-15,Uso de EPP
+6,80,2024-05-15,Uso de EPP
+6,99,2024-05-15,Uso de EPP
+6,64,2024-05-15,Uso de EPP
+6,27,2024-05-15,Uso de EPP
+6,5,2024-05-15,Uso de EPP
+6,98,2024-05-15,Uso de EPP
+6,18,2024-05-15,Uso de EPP
+6,50,2024-05-15,Uso de EPP
+6,43,2024-05-15,Uso de EPP
+6,68,2024-05-15,Uso de EPP
+6,12,2024-05-15,Uso de EPP
+6,29,2024-05-15,Uso de EPP
+6,49,2024-05-15,Uso de EPP
+6,16,2024-05-15,Uso de EPP
+6,85,2024-05-15,Uso de EPP
+6,24,2024-05-15,Uso de EPP
+6,58,2024-05-15,Uso de EPP
+6,71,2024-05-15,Uso de EPP
+6,2,2024-05-15,Uso de EPP
+6,8,2024-05-15,Uso de EPP
+6,65,2024-05-15,Uso de EPP
+6,54,2024-05-15,Uso de EPP
+6,4,2024-05-15,Uso de EPP
+6,70,2024-05-15,Uso de EPP
+6,44,2024-05-15,Uso de EPP
+6,41,2024-05-15,Uso de EPP
+6,78,2024-05-15,Uso de EPP
+6,11,2024-05-15,Uso de EPP
+6,96,2024-05-15,Uso de EPP
+6,75,2024-05-15,Uso de EPP
+6,33,2024-05-15,Uso de EPP
+6,60,2024-05-15,Uso de EPP
+7,59,2024-09-12,Trabajo en altura
+7,65,2024-09-12,Trabajo en altura
+7,82,2024-09-12,Trabajo en altura
+7,96,2024-09-12,Trabajo en altura
+7,10,2024-09-12,Trabajo en altura
+7,80,2024-09-12,Trabajo en altura
+7,2,2024-09-12,Trabajo en altura
+7,81,2024-09-12,Trabajo en altura
+7,31,2024-09-12,Trabajo en altura
+7,18,2024-09-12,Trabajo en altura
+7,5,2024-09-12,Trabajo en altura
+7,56,2024-09-12,Trabajo en altura
+7,50,2024-09-12,Trabajo en altura
+7,16,2024-09-12,Trabajo en altura
+7,3,2024-09-12,Trabajo en altura
+7,79,2024-09-12,Trabajo en altura
+7,44,2024-09-12,Trabajo en altura
+7,58,2024-09-12,Trabajo en altura
+7,41,2024-09-12,Trabajo en altura
+7,75,2024-09-12,Trabajo en altura
+7,93,2024-09-12,Trabajo en altura
+8,72,2024-12-25,Uso de EPP
+8,13,2024-12-25,Uso de EPP
+8,97,2024-12-25,Uso de EPP
+8,78,2024-12-25,Uso de EPP
+8,6,2024-12-25,Uso de EPP
+8,59,2024-12-25,Uso de EPP
+8,52,2024-12-25,Uso de EPP
+8,48,2024-12-25,Uso de EPP
+8,20,2024-12-25,Uso de EPP
+8,77,2024-12-25,Uso de EPP
+8,91,2024-12-25,Uso de EPP
+8,60,2024-12-25,Uso de EPP
+8,73,2024-12-25,Uso de EPP
+8,54,2024-12-25,Uso de EPP
+8,92,2024-12-25,Uso de EPP
+8,88,2024-12-25,Uso de EPP
+8,71,2024-12-25,Uso de EPP
+8,42,2024-12-25,Uso de EPP
+8,5,2024-12-25,Uso de EPP
+8,61,2024-12-25,Uso de EPP
+8,7,2024-12-25,Uso de EPP
+8,55,2024-12-25,Uso de EPP
+8,4,2024-12-25,Uso de EPP
+8,22,2024-12-25,Uso de EPP
+8,64,2024-12-25,Uso de EPP
+8,11,2024-12-25,Uso de EPP
+8,8,2024-12-25,Uso de EPP
+8,46,2024-12-25,Uso de EPP
+8,44,2024-12-25,Uso de EPP
+8,53,2024-12-25,Uso de EPP
+8,58,2024-12-25,Uso de EPP
+8,56,2024-12-25,Uso de EPP
+8,62,2024-12-25,Uso de EPP
+8,65,2024-12-25,Uso de EPP
+8,32,2024-12-25,Uso de EPP
+8,34,2024-12-25,Uso de EPP
+8,79,2024-12-25,Uso de EPP
+8,9,2024-12-25,Uso de EPP
+8,57,2024-12-25,Uso de EPP
+9,53,2024-11-24,Espacios confinados
+9,44,2024-11-24,Espacios confinados
+9,20,2024-11-24,Espacios confinados
+9,54,2024-11-24,Espacios confinados
+9,16,2024-11-24,Espacios confinados
+9,14,2024-11-24,Espacios confinados
+9,9,2024-11-24,Espacios confinados
+9,12,2024-11-24,Espacios confinados
+9,10,2024-11-24,Espacios confinados
+9,74,2024-11-24,Espacios confinados
+9,2,2024-11-24,Espacios confinados
+9,81,2024-11-24,Espacios confinados
+9,33,2024-11-24,Espacios confinados
+9,36,2024-11-24,Espacios confinados
+9,68,2024-11-24,Espacios confinados
+9,43,2024-11-24,Espacios confinados
+9,79,2024-11-24,Espacios confinados
+9,73,2024-11-24,Espacios confinados
+9,25,2024-11-24,Espacios confinados
+9,82,2024-11-24,Espacios confinados
+9,7,2024-11-24,Espacios confinados
+9,55,2024-11-24,Espacios confinados
+9,92,2024-11-24,Espacios confinados
+9,89,2024-11-24,Espacios confinados
+9,58,2024-11-24,Espacios confinados
+9,98,2024-11-24,Espacios confinados
+9,86,2024-11-24,Espacios confinados
+9,80,2024-11-24,Espacios confinados
+9,61,2024-11-24,Espacios confinados
+9,66,2024-11-24,Espacios confinados
+9,19,2024-11-24,Espacios confinados
+9,38,2024-11-24,Espacios confinados
+9,40,2024-11-24,Espacios confinados
+9,78,2024-11-24,Espacios confinados
+9,24,2024-11-24,Espacios confinados
+9,28,2024-11-24,Espacios confinados
+9,1,2024-11-24,Espacios confinados
+9,95,2024-11-24,Espacios confinados
+9,39,2024-11-24,Espacios confinados
+9,11,2024-11-24,Espacios confinados
+9,63,2024-11-24,Espacios confinados
+9,21,2024-11-24,Espacios confinados
+9,93,2024-11-24,Espacios confinados
+9,77,2024-11-24,Espacios confinados
+9,70,2024-11-24,Espacios confinados
+9,3,2024-11-24,Espacios confinados
+9,23,2024-11-24,Espacios confinados
+10,14,2024-02-18,Uso de EPP
+10,82,2024-02-18,Uso de EPP
+10,54,2024-02-18,Uso de EPP
+10,20,2024-02-18,Uso de EPP
+10,11,2024-02-18,Uso de EPP
+10,77,2024-02-18,Uso de EPP
+10,40,2024-02-18,Uso de EPP
+10,72,2024-02-18,Uso de EPP
+10,18,2024-02-18,Uso de EPP
+10,6,2024-02-18,Uso de EPP
+10,39,2024-02-18,Uso de EPP
+10,96,2024-02-18,Uso de EPP
+10,49,2024-02-18,Uso de EPP
+10,34,2024-02-18,Uso de EPP
+10,86,2024-02-18,Uso de EPP
+10,84,2024-02-18,Uso de EPP
+10,69,2024-02-18,Uso de EPP
+10,88,2024-02-18,Uso de EPP
+10,87,2024-02-18,Uso de EPP
+10,28,2024-02-18,Uso de EPP
+10,9,2024-02-18,Uso de EPP
+10,37,2024-02-18,Uso de EPP
+10,44,2024-02-18,Uso de EPP
+10,68,2024-02-18,Uso de EPP
+10,65,2024-02-18,Uso de EPP
+10,60,2024-02-18,Uso de EPP
+10,85,2024-02-18,Uso de EPP
+10,57,2024-02-18,Uso de EPP
+10,5,2024-02-18,Uso de EPP
+11,7,2024-10-18,Espacios confinados
+11,87,2024-10-18,Espacios confinados
+11,71,2024-10-18,Espacios confinados
+11,47,2024-10-18,Espacios confinados
+11,43,2024-10-18,Espacios confinados
+11,2,2024-10-18,Espacios confinados
+11,58,2024-10-18,Espacios confinados
+11,59,2024-10-18,Espacios confinados
+11,3,2024-10-18,Espacios confinados
+11,1,2024-10-18,Espacios confinados
+11,29,2024-10-18,Espacios confinados
+11,33,2024-10-18,Espacios confinados
+11,92,2024-10-18,Espacios confinados
+11,42,2024-10-18,Espacios confinados
+11,68,2024-10-18,Espacios confinados
+11,37,2024-10-18,Espacios confinados
+11,5,2024-10-18,Espacios confinados
+11,41,2024-10-18,Espacios confinados
+11,69,2024-10-18,Espacios confinados
+11,95,2024-10-18,Espacios confinados
+11,49,2024-10-18,Espacios confinados
+11,79,2024-10-18,Espacios confinados
+11,6,2024-10-18,Espacios confinados
+11,100,2024-10-18,Espacios confinados
+11,35,2024-10-18,Espacios confinados
+11,26,2024-10-18,Espacios confinados
+11,44,2024-10-18,Espacios confinados
+11,89,2024-10-18,Espacios confinados
+11,48,2024-10-18,Espacios confinados
+11,64,2024-10-18,Espacios confinados
+11,38,2024-10-18,Espacios confinados
+11,9,2024-10-18,Espacios confinados
+11,11,2024-10-18,Espacios confinados
+11,77,2024-10-18,Espacios confinados
+11,85,2024-10-18,Espacios confinados
+11,51,2024-10-18,Espacios confinados
+11,76,2024-10-18,Espacios confinados
+11,12,2024-10-18,Espacios confinados
+11,18,2024-10-18,Espacios confinados
+11,98,2024-10-18,Espacios confinados
+11,62,2024-10-18,Espacios confinados
+11,72,2024-10-18,Espacios confinados
+11,4,2024-10-18,Espacios confinados
+12,52,2024-11-19,Uso de EPP
+12,19,2024-11-19,Uso de EPP
+12,92,2024-11-19,Uso de EPP
+12,40,2024-11-19,Uso de EPP
+12,39,2024-11-19,Uso de EPP
+12,26,2024-11-19,Uso de EPP
+12,62,2024-11-19,Uso de EPP
+12,15,2024-11-19,Uso de EPP
+12,20,2024-11-19,Uso de EPP
+12,91,2024-11-19,Uso de EPP
+12,86,2024-11-19,Uso de EPP
+12,99,2024-11-19,Uso de EPP
+12,5,2024-11-19,Uso de EPP
+12,85,2024-11-19,Uso de EPP
+12,63,2024-11-19,Uso de EPP
+12,30,2024-11-19,Uso de EPP
+12,96,2024-11-19,Uso de EPP
+12,95,2024-11-19,Uso de EPP
+12,32,2024-11-19,Uso de EPP
+12,43,2024-11-19,Uso de EPP
+12,27,2024-11-19,Uso de EPP
+12,4,2024-11-19,Uso de EPP
+13,2,2024-03-18,Espacios confinados
+13,74,2024-03-18,Espacios confinados
+13,1,2024-03-18,Espacios confinados
+13,69,2024-03-18,Espacios confinados
+13,19,2024-03-18,Espacios confinados
+13,31,2024-03-18,Espacios confinados
+13,96,2024-03-18,Espacios confinados
+13,14,2024-03-18,Espacios confinados
+13,30,2024-03-18,Espacios confinados
+13,88,2024-03-18,Espacios confinados
+13,63,2024-03-18,Espacios confinados
+13,75,2024-03-18,Espacios confinados
+13,46,2024-03-18,Espacios confinados
+13,64,2024-03-18,Espacios confinados
+13,49,2024-03-18,Espacios confinados
+13,21,2024-03-18,Espacios confinados
+13,10,2024-03-18,Espacios confinados
+13,78,2024-03-18,Espacios confinados
+13,66,2024-03-18,Espacios confinados
+13,98,2024-03-18,Espacios confinados
+13,44,2024-03-18,Espacios confinados
+13,35,2024-03-18,Espacios confinados
+13,62,2024-03-18,Espacios confinados
+13,18,2024-03-18,Espacios confinados
+13,20,2024-03-18,Espacios confinados
+13,95,2024-03-18,Espacios confinados
+13,5,2024-03-18,Espacios confinados
+13,38,2024-03-18,Espacios confinados
+13,70,2024-03-18,Espacios confinados
+13,48,2024-03-18,Espacios confinados
+13,56,2024-03-18,Espacios confinados
+13,67,2024-03-18,Espacios confinados
+13,26,2024-03-18,Espacios confinados
+13,50,2024-03-18,Espacios confinados
+13,15,2024-03-18,Espacios confinados
+13,91,2024-03-18,Espacios confinados
+13,87,2024-03-18,Espacios confinados
+13,39,2024-03-18,Espacios confinados
+13,82,2024-03-18,Espacios confinados
+13,79,2024-03-18,Espacios confinados
+13,41,2024-03-18,Espacios confinados
+13,94,2024-03-18,Espacios confinados
+13,99,2024-03-18,Espacios confinados
+13,40,2024-03-18,Espacios confinados
+14,51,2024-04-14,Espacios confinados
+14,45,2024-04-14,Espacios confinados
+14,42,2024-04-14,Espacios confinados
+14,89,2024-04-14,Espacios confinados
+14,14,2024-04-14,Espacios confinados
+14,71,2024-04-14,Espacios confinados
+14,91,2024-04-14,Espacios confinados
+14,96,2024-04-14,Espacios confinados
+14,97,2024-04-14,Espacios confinados
+14,90,2024-04-14,Espacios confinados
+14,39,2024-04-14,Espacios confinados
+14,63,2024-04-14,Espacios confinados
+14,56,2024-04-14,Espacios confinados
+14,67,2024-04-14,Espacios confinados
+14,81,2024-04-14,Espacios confinados
+14,49,2024-04-14,Espacios confinados
+14,64,2024-04-14,Espacios confinados
+14,10,2024-04-14,Espacios confinados
+14,92,2024-04-14,Espacios confinados
+14,9,2024-04-14,Espacios confinados
+14,100,2024-04-14,Espacios confinados
+14,22,2024-04-14,Espacios confinados
+14,73,2024-04-14,Espacios confinados
+14,24,2024-04-14,Espacios confinados
+14,20,2024-04-14,Espacios confinados
+14,40,2024-04-14,Espacios confinados
+14,7,2024-04-14,Espacios confinados
+14,53,2024-04-14,Espacios confinados
+14,1,2024-04-14,Espacios confinados
+14,83,2024-04-14,Espacios confinados
+14,43,2024-04-14,Espacios confinados
+14,32,2024-04-14,Espacios confinados
+14,30,2024-04-14,Espacios confinados
+14,36,2024-04-14,Espacios confinados
+14,72,2024-04-14,Espacios confinados
+14,79,2024-04-14,Espacios confinados
+14,98,2024-04-14,Espacios confinados
+14,2,2024-04-14,Espacios confinados
+14,59,2024-04-14,Espacios confinados
+14,17,2024-04-14,Espacios confinados
+14,34,2024-04-14,Espacios confinados
+14,29,2024-04-14,Espacios confinados
+14,58,2024-04-14,Espacios confinados
+14,82,2024-04-14,Espacios confinados
+14,55,2024-04-14,Espacios confinados
+14,66,2024-04-14,Espacios confinados
+14,77,2024-04-14,Espacios confinados
+15,55,2024-06-17,Uso de EPP
+15,43,2024-06-17,Uso de EPP
+15,80,2024-06-17,Uso de EPP
+15,94,2024-06-17,Uso de EPP
+15,25,2024-06-17,Uso de EPP
+15,66,2024-06-17,Uso de EPP
+15,96,2024-06-17,Uso de EPP
+15,50,2024-06-17,Uso de EPP
+15,49,2024-06-17,Uso de EPP
+15,83,2024-06-17,Uso de EPP
+15,92,2024-06-17,Uso de EPP
+15,6,2024-06-17,Uso de EPP
+16,35,2024-08-04,Uso de EPP
+16,5,2024-08-04,Uso de EPP
+16,65,2024-08-04,Uso de EPP
+16,7,2024-08-04,Uso de EPP
+16,64,2024-08-04,Uso de EPP
+16,14,2024-08-04,Uso de EPP
+16,43,2024-08-04,Uso de EPP
+16,8,2024-08-04,Uso de EPP
+16,84,2024-08-04,Uso de EPP
+16,18,2024-08-04,Uso de EPP
+16,66,2024-08-04,Uso de EPP
+16,19,2024-08-04,Uso de EPP
+16,89,2024-08-04,Uso de EPP
+16,46,2024-08-04,Uso de EPP
+16,88,2024-08-04,Uso de EPP
+16,90,2024-08-04,Uso de EPP
+16,61,2024-08-04,Uso de EPP
+16,71,2024-08-04,Uso de EPP
+16,28,2024-08-04,Uso de EPP
+16,26,2024-08-04,Uso de EPP
+16,45,2024-08-04,Uso de EPP
+16,55,2024-08-04,Uso de EPP
+16,44,2024-08-04,Uso de EPP
+16,74,2024-08-04,Uso de EPP
+16,12,2024-08-04,Uso de EPP
+16,85,2024-08-04,Uso de EPP
+16,77,2024-08-04,Uso de EPP
+16,3,2024-08-04,Uso de EPP
+16,56,2024-08-04,Uso de EPP
+16,75,2024-08-04,Uso de EPP
+16,20,2024-08-04,Uso de EPP
+17,36,2024-04-28,Espacios confinados
+17,91,2024-04-28,Espacios confinados
+17,52,2024-04-28,Espacios confinados
+17,38,2024-04-28,Espacios confinados
+17,31,2024-04-28,Espacios confinados
+17,78,2024-04-28,Espacios confinados
+17,45,2024-04-28,Espacios confinados
+17,3,2024-04-28,Espacios confinados
+17,77,2024-04-28,Espacios confinados
+17,61,2024-04-28,Espacios confinados
+17,86,2024-04-28,Espacios confinados
+17,1,2024-04-28,Espacios confinados
+17,70,2024-04-28,Espacios confinados
+18,14,2024-07-08,Primeros auxilios
+18,64,2024-07-08,Primeros auxilios
+18,69,2024-07-08,Primeros auxilios
+18,16,2024-07-08,Primeros auxilios
+18,40,2024-07-08,Primeros auxilios
+18,50,2024-07-08,Primeros auxilios
+18,100,2024-07-08,Primeros auxilios
+18,31,2024-07-08,Primeros auxilios
+18,12,2024-07-08,Primeros auxilios
+18,5,2024-07-08,Primeros auxilios
+18,42,2024-07-08,Primeros auxilios
+19,78,2024-09-11,Trabajo en altura
+19,44,2024-09-11,Trabajo en altura
+19,31,2024-09-11,Trabajo en altura
+19,42,2024-09-11,Trabajo en altura
+19,91,2024-09-11,Trabajo en altura
+19,87,2024-09-11,Trabajo en altura
+19,66,2024-09-11,Trabajo en altura
+19,27,2024-09-11,Trabajo en altura
+19,96,2024-09-11,Trabajo en altura
+19,26,2024-09-11,Trabajo en altura
+19,30,2024-09-11,Trabajo en altura
+19,76,2024-09-11,Trabajo en altura
+19,47,2024-09-11,Trabajo en altura
+19,23,2024-09-11,Trabajo en altura
+19,12,2024-09-11,Trabajo en altura
+19,93,2024-09-11,Trabajo en altura
+19,35,2024-09-11,Trabajo en altura
+19,32,2024-09-11,Trabajo en altura
+19,41,2024-09-11,Trabajo en altura
+19,25,2024-09-11,Trabajo en altura
+19,85,2024-09-11,Trabajo en altura
+19,20,2024-09-11,Trabajo en altura
+19,72,2024-09-11,Trabajo en altura
+19,80,2024-09-11,Trabajo en altura
+19,53,2024-09-11,Trabajo en altura
+19,69,2024-09-11,Trabajo en altura
+19,55,2024-09-11,Trabajo en altura
+19,49,2024-09-11,Trabajo en altura
+19,57,2024-09-11,Trabajo en altura
+19,88,2024-09-11,Trabajo en altura
+19,17,2024-09-11,Trabajo en altura
+19,5,2024-09-11,Trabajo en altura
+19,29,2024-09-11,Trabajo en altura
+19,64,2024-09-11,Trabajo en altura
+19,95,2024-09-11,Trabajo en altura
+19,14,2024-09-11,Trabajo en altura
+19,79,2024-09-11,Trabajo en altura
+19,1,2024-09-11,Trabajo en altura
+19,52,2024-09-11,Trabajo en altura
+19,92,2024-09-11,Trabajo en altura
+19,45,2024-09-11,Trabajo en altura
+19,24,2024-09-11,Trabajo en altura
+19,7,2024-09-11,Trabajo en altura
+20,79,2024-09-22,Primeros auxilios
+20,4,2024-09-22,Primeros auxilios
+20,88,2024-09-22,Primeros auxilios
+20,74,2024-09-22,Primeros auxilios
+20,21,2024-09-22,Primeros auxilios
+20,69,2024-09-22,Primeros auxilios
+20,25,2024-09-22,Primeros auxilios
+20,12,2024-09-22,Primeros auxilios
+20,59,2024-09-22,Primeros auxilios
+20,75,2024-09-22,Primeros auxilios
+20,31,2024-09-22,Primeros auxilios
+20,7,2024-09-22,Primeros auxilios
+20,44,2024-09-22,Primeros auxilios
+20,27,2024-09-22,Primeros auxilios
+20,84,2024-09-22,Primeros auxilios
+20,70,2024-09-22,Primeros auxilios
+20,20,2024-09-22,Primeros auxilios
+20,95,2024-09-22,Primeros auxilios
+20,60,2024-09-22,Primeros auxilios
+20,16,2024-09-22,Primeros auxilios
+20,26,2024-09-22,Primeros auxilios
+20,40,2024-09-22,Primeros auxilios
+20,63,2024-09-22,Primeros auxilios
+20,82,2024-09-22,Primeros auxilios
+20,99,2024-09-22,Primeros auxilios
+20,2,2024-09-22,Primeros auxilios
+20,65,2024-09-22,Primeros auxilios
+20,1,2024-09-22,Primeros auxilios
+20,77,2024-09-22,Primeros auxilios
+20,92,2024-09-22,Primeros auxilios
+20,38,2024-09-22,Primeros auxilios
+20,53,2024-09-22,Primeros auxilios
+20,3,2024-09-22,Primeros auxilios
+20,52,2024-09-22,Primeros auxilios
+20,50,2024-09-22,Primeros auxilios
+20,91,2024-09-22,Primeros auxilios
+20,48,2024-09-22,Primeros auxilios
+20,8,2024-09-22,Primeros auxilios
+20,24,2024-09-22,Primeros auxilios
+20,71,2024-09-22,Primeros auxilios
+20,15,2024-09-22,Primeros auxilios

@@ -1,0 +1,51 @@
+ProyectoID,NombreProyecto,FechaInicio,%Avance,%AvanceCostoUSD,%AvanceIngresosUSD,Fase,Auditado,ResultadoAuditoria,PresupuestoUSD,Responsable,Sector,PrecioFinalUSD
+PRJ_001,Seguridad - Proyecto Want,2024-12-26,46.18,39.37,45.59,1,Sí,No Aprobado,239344.94,Kevin Smith,Seguridad,300440.68
+PRJ_002,Perforación - Proyecto Contain,2025-06-19,26.85,18.45,19.13,3,No,,64511.74,Gregory Mitchell,Perforación,78372.35
+PRJ_003,Mantenimiento - Proyecto Rich,2025-03-17,38.14,32.58,28.26,5,Sí,Aprobado,66505.36,Michael Cain,Mantenimiento,84558.31
+PRJ_004,Seguridad - Proyecto Avoid,2025-06-05,93.32,87.47,87.46,3,No,,90905.44,Brandon Brown,Seguridad,115836.4
+PRJ_005,Seguridad - Proyecto Perhaps,2025-03-22,96.16,89.77,93.83,2,Sí,No Aprobado,219421.74,Cynthia Welch,Seguridad,242098.71
+PRJ_006,Logística - Proyecto Book,2025-02-05,62.81,62.23,54.87,2,Sí,No Aprobado,152896.13,Linda Ibarra,Logística,172691.81
+PRJ_007,Perforación - Proyecto Lot,2025-04-11,39.33,30.94,35.12,4,Sí,Aprobado,96694.62,Ronald Lewis,Perforación,107269.85
+PRJ_008,Mantenimiento - Proyecto Sell,2024-12-25,42.88,36.31,39.57,3,No,,99139.41,Austin Nelson,Mantenimiento,117863.62
+PRJ_009,Logística - Proyecto Company,2025-05-11,76.74,76.53,67.83,4,Sí,Aprobado,289235.13,Robin Wang,Logística,345954.41
+PRJ_010,Mantenimiento - Proyecto Main,2025-05-14,46.56,45.7,38.79,4,Sí,No Aprobado,147949.37,Hayden Dickerson,Mantenimiento,178101.28
+PRJ_011,Mantenimiento - Proyecto High,2025-05-22,18.87,15.28,14.45,3,No,,83796.88,John Reeves,Mantenimiento,106792.7
+PRJ_012,Logística - Proyecto Tell,2025-01-28,63.02,62.0,55.95,3,No,,191196.28,Lindsey Morgan,Logística,223983.33
+PRJ_013,Mantenimiento - Proyecto Ten,2025-03-06,43.32,35.69,41.25,5,Sí,Aprobado,166890.24,Tyrone Morris,Mantenimiento,195742.5
+PRJ_014,Seguridad - Proyecto Recently,2025-04-06,16.06,6.99,14.67,1,Sí,No Aprobado,238247.31,Taylor Jones,Seguridad,271929.51
+PRJ_015,Mantenimiento - Proyecto Admit,2025-04-13,42.47,33.55,34.77,5,No,,272741.81,Joe Pierce,Mantenimiento,308902.93
+PRJ_016,Logística - Proyecto Election,2025-01-12,97.0,88.09,91.47,3,No,,265468.89,Stephanie English,Logística,325937.82
+PRJ_017,Perforación - Proyecto Alone,2025-06-06,74.33,64.37,74.12,1,Sí,Aprobado,276649.58,Jeremy Wilson,Perforación,305159.29
+PRJ_018,Mantenimiento - Proyecto Return,2024-12-25,13.77,8.88,13.42,3,No,,166069.17,Mary Ballard,Mantenimiento,213823.53
+PRJ_019,Perforación - Proyecto Six,2025-03-29,63.89,59.03,54.96,3,Sí,Aprobado,158394.41,Ryan Davenport,Perforación,188060.9
+PRJ_020,Logística - Proyecto History,2025-01-28,23.28,17.07,21.44,5,No,,106856.6,Kim Thomas,Logística,123986.71
+PRJ_021,Producción - Proyecto Soldier,2025-03-14,43.39,40.23,39.35,1,No,,281825.23,Ashley White,Producción,333563.04
+PRJ_022,Producción - Proyecto South,2025-05-24,86.21,77.21,78.24,5,Sí,Aprobado,133586.52,Heather Benitez,Producción,164473.67
+PRJ_023,Producción - Proyecto Entire,2025-05-15,67.53,63.17,58.88,1,No,,121610.63,Christopher Evans,Producción,137807.27
+PRJ_024,Producción - Proyecto Hotel,2025-03-10,20.43,15.12,14.1,5,Sí,Aprobado,218947.42,Thomas Mcconnell,Producción,250925.92
+PRJ_025,Perforación - Proyecto Become,2025-04-05,56.27,47.6,56.09,1,No,,190455.97,Julie Macdonald,Perforación,233416.9
+PRJ_026,Producción - Proyecto Best,2025-04-29,40.5,35.84,32.1,5,Sí,Aprobado,220825.32,Michael Smith,Producción,265512.59
+PRJ_027,Producción - Proyecto Range,2025-05-27,86.1,83.58,83.82,3,Sí,Aprobado,112552.57,Miguel Franklin,Producción,131739.57
+PRJ_028,Perforación - Proyecto Nation,2025-02-12,52.01,43.25,48.5,4,No,,215052.21,Tammy Hart,Perforación,265377.86
+PRJ_029,Seguridad - Proyecto Vote,2025-05-24,39.49,36.95,30.76,5,Sí,Aprobado,81638.06,Tony Stephenson,Seguridad,94390.37
+PRJ_030,Mantenimiento - Proyecto Despite,2025-05-07,54.7,45.9,52.67,2,Sí,No Aprobado,209146.46,Laura Green,Mantenimiento,241372.33
+PRJ_031,Producción - Proyecto Traditional,2025-04-11,21.77,17.5,18.56,4,Sí,Aprobado,142727.62,Chelsea Hoffman,Producción,161819.46
+PRJ_032,Perforación - Proyecto His,2025-05-08,47.37,39.14,37.51,5,No,,217137.42,Yolanda Jacobs,Perforación,278878.13
+PRJ_033,Logística - Proyecto Reveal,2025-03-14,91.74,86.79,85.11,5,Sí,Aprobado,70000.71,Paula Young,Logística,83086.99
+PRJ_034,Seguridad - Proyecto Later,2025-02-28,98.53,94.51,97.13,4,No,,297406.17,Stephanie Booker,Seguridad,350727.79
+PRJ_035,Logística - Proyecto Begin,2024-12-28,56.75,53.59,47.58,3,Sí,No Aprobado,181703.58,Jeffery Pruitt,Logística,228475.2
+PRJ_036,Logística - Proyecto Doctor,2025-02-02,80.88,74.24,79.39,5,No,,160199.04,Tami Holmes,Logística,179746.2
+PRJ_037,Producción - Proyecto Reality,2025-02-27,89.95,79.97,86.53,4,Sí,Aprobado,232542.51,Amanda Ochoa,Producción,273864.92
+PRJ_038,Logística - Proyecto Sport,2025-01-21,80.61,77.93,75.23,3,Sí,No Aprobado,233996.52,Desiree Garza,Logística,282210.36
+PRJ_039,Producción - Proyecto Once,2025-04-13,94.38,86.13,88.24,5,No,,107370.14,Matthew Kennedy,Producción,135534.49
+PRJ_040,Logística - Proyecto Market,2025-02-07,90.1,88.12,81.92,4,Sí,No Aprobado,235271.89,Jason Boyd,Logística,260227.22
+PRJ_041,Seguridad - Proyecto East,2025-03-03,54.39,48.41,45.36,2,Sí,No Aprobado,229920.57,Jordan Garcia,Seguridad,254875.88
+PRJ_042,Seguridad - Proyecto Later,2025-05-21,13.04,11.92,5.2,1,No,,294846.5,Valerie Osborne,Seguridad,365573.49
+PRJ_043,Logística - Proyecto Arrive,2025-03-01,25.21,20.66,16.59,4,No,,133688.9,Anne Cook,Logística,160419.03
+PRJ_044,Seguridad - Proyecto Event,2025-02-15,75.49,70.25,68.1,3,No,,216438.27,Jamie Huerta,Seguridad,271686.9
+PRJ_045,Seguridad - Proyecto Various,2024-12-29,51.35,48.46,48.42,3,No,,62417.58,Sarah Vargas DVM,Seguridad,73890.6
+PRJ_046,Mantenimiento - Proyecto Say,2025-02-11,76.27,70.85,68.54,1,Sí,Aprobado,139765.38,Amber Weber,Mantenimiento,169059.81
+PRJ_047,Mantenimiento - Proyecto Moment,2025-03-01,89.82,82.63,82.03,5,No,,188309.87,Andrea Turner,Mantenimiento,222508.33
+PRJ_048,Seguridad - Proyecto Plan,2025-01-26,46.32,44.47,42.84,1,No,,104758.27,Jose Shaw,Seguridad,120806.27
+PRJ_049,Seguridad - Proyecto Myself,2025-03-03,69.14,64.51,60.16,3,Sí,No Aprobado,290106.73,Jo Roth,Seguridad,331181.16
+PRJ_050,Seguridad - Proyecto Allow,2025-02-05,24.7,23.9,21.1,1,Sí,Aprobado,89335.58,Christopher Turner,Seguridad,101406.24

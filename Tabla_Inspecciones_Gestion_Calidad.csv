@@ -1,0 +1,1721 @@
+EmpleadoID,Sector,Fecha,Proyecto,Producto,Inspecciones,NoConformes,UnidadesEntregadas
+1,Producción,2024-05-26,Planta Eléctrica Loma,Tubería,6,1,24
+1,Producción,2024-09-20,Gasoducto Sur,Bomba,25,2,125
+1,Producción,2024-05-27,Planta Eléctrica Loma,Tubería,21,4,63
+1,Producción,2024-04-06,Oleoducto Andino,Válvula,15,4,60
+2,Mantenimiento,2024-08-06,Oleoducto Andino,Bomba,13,2,52
+2,Mantenimiento,2024-01-21,Oleoducto Andino,Bomba,25,0,75
+3,Logística,2024-01-17,Refinería VacaMuerta,Tubería,15,0,60
+3,Logística,2024-02-28,Planta Separadora,Bomba,30,5,90
+3,Logística,2024-04-05,Planta Separadora,Tubería,9,2,45
+3,Logística,2024-09-02,Refinería VacaMuerta,Bomba,13,4,26
+4,Perforación,2024-02-20,Oleoducto Andino,Válvula,24,5,96
+4,Perforación,2024-04-19,Planta Separadora,Válvula,9,1,18
+4,Perforación,2024-11-03,Planta Separadora,Bomba,30,0,60
+4,Perforación,2024-11-11,Gasoducto Sur,Tanque,23,1,69
+5,Producción,2024-04-02,Planta Separadora,Bomba,9,1,18
+5,Producción,2024-11-24,Oleoducto Andino,Tanque,19,1,38
+5,Producción,2024-09-25,Planta Separadora,Tanque,19,3,76
+5,Producción,2024-02-22,Planta Separadora,Bomba,7,1,35
+6,Logística,2024-01-15,Gasoducto Sur,Bomba,30,10,120
+6,Logística,2024-01-12,Planta Eléctrica Loma,Válvula,27,3,135
+6,Logística,2024-05-03,Planta Eléctrica Loma,Filtro,7,1,28
+6,Logística,2024-12-14,Refinería VacaMuerta,Tanque,10,3,50
+6,Logística,2024-01-22,Gasoducto Sur,Tanque,16,3,32
+7,Mantenimiento,2024-10-22,Planta Separadora,Bomba,14,1,70
+7,Mantenimiento,2024-01-02,Oleoducto Andino,Bomba,24,4,48
+7,Mantenimiento,2024-09-07,Planta Eléctrica Loma,Bomba,21,5,105
+7,Mantenimiento,2024-02-07,Oleoducto Andino,Válvula,10,1,20
+7,Mantenimiento,2024-05-27,Planta Separadora,Válvula,10,3,30
+8,Perforación,2024-12-26,Oleoducto Andino,Válvula,10,2,50
+8,Perforación,2024-04-24,Refinería VacaMuerta,Filtro,15,5,60
+9,Mantenimiento,2024-04-09,Planta Separadora,Válvula,13,1,65
+9,Mantenimiento,2024-06-21,Refinería VacaMuerta,Filtro,28,5,140
+9,Mantenimiento,2024-08-02,Refinería VacaMuerta,Filtro,22,5,88
+10,Seguridad,2024-09-16,Planta Eléctrica Loma,Filtro,9,2,18
+10,Seguridad,2024-04-01,Refinería VacaMuerta,Bomba,11,3,33
+10,Seguridad,2024-03-12,Refinería VacaMuerta,Válvula,13,4,52
+11,Seguridad,2024-06-27,Planta Eléctrica Loma,Tubería,22,4,66
+11,Seguridad,2024-03-20,Oleoducto Andino,Tubería,13,0,26
+11,Seguridad,2024-02-04,Planta Eléctrica Loma,Válvula,28,0,56
+12,Perforación,2024-05-18,Planta Eléctrica Loma,Tubería,21,2,63
+12,Perforación,2024-03-21,Oleoducto Andino,Tanque,22,3,110
+13,Seguridad,2024-04-24,Refinería VacaMuerta,Filtro,26,0,52
+13,Seguridad,2024-06-04,Planta Eléctrica Loma,Válvula,9,0,45
+13,Seguridad,2024-06-14,Planta Eléctrica Loma,Bomba,7,1,28
+13,Seguridad,2024-08-22,Planta Separadora,Válvula,19,6,95
+13,Seguridad,2024-03-11,Oleoducto Andino,Tubería,7,2,28
+14,Perforación,2024-05-20,Gasoducto Sur,Válvula,22,2,66
+14,Perforación,2024-05-15,Gasoducto Sur,Bomba,7,1,28
+15,Producción,2024-03-16,Gasoducto Sur,Tubería,18,4,72
+15,Producción,2024-06-17,Oleoducto Andino,Válvula,14,4,70
+15,Producción,2024-02-12,Planta Separadora,Filtro,23,6,115
+16,Seguridad,2024-05-25,Gasoducto Sur,Tubería,9,0,27
+16,Seguridad,2024-07-01,Gasoducto Sur,Filtro,23,3,46
+17,Producción,2024-10-14,Oleoducto Andino,Válvula,19,3,38
+17,Producción,2024-07-12,Oleoducto Andino,Tubería,19,2,95
+17,Producción,2024-07-20,Oleoducto Andino,Bomba,29,2,116
+17,Producción,2024-05-19,Gasoducto Sur,Bomba,27,3,54
+18,Producción,2024-07-03,Planta Eléctrica Loma,Tanque,5,1,10
+18,Producción,2024-08-04,Planta Eléctrica Loma,Filtro,19,4,76
+18,Producción,2024-12-24,Refinería VacaMuerta,Tubería,19,4,38
+18,Producción,2024-12-21,Planta Separadora,Tanque,24,6,120
+18,Producción,2024-05-03,Planta Separadora,Tanque,23,1,115
+19,Perforación,2024-01-28,Oleoducto Andino,Válvula,14,4,42
+19,Perforación,2024-03-02,Planta Separadora,Válvula,27,0,54
+20,Seguridad,2024-11-11,Oleoducto Andino,Bomba,29,4,145
+20,Seguridad,2024-04-18,Oleoducto Andino,Tanque,13,0,26
+20,Seguridad,2024-12-21,Gasoducto Sur,Válvula,18,2,72
+20,Seguridad,2024-02-01,Refinería VacaMuerta,Válvula,19,5,57
+20,Seguridad,2024-07-21,Oleoducto Andino,Válvula,26,1,78
+21,Seguridad,2024-06-03,Planta Separadora,Tubería,25,3,75
+21,Seguridad,2024-04-26,Gasoducto Sur,Válvula,25,5,50
+21,Seguridad,2024-08-21,Gasoducto Sur,Tubería,11,3,22
+21,Seguridad,2024-02-14,Gasoducto Sur,Tanque,14,1,56
+22,Producción,2024-05-20,Planta Separadora,Tanque,20,1,100
+22,Producción,2024-07-07,Planta Separadora,Tubería,28,7,84
+22,Producción,2024-09-20,Oleoducto Andino,Tubería,30,10,150
+23,Mantenimiento,2024-09-06,Oleoducto Andino,Filtro,15,3,60
+23,Mantenimiento,2024-04-04,Planta Eléctrica Loma,Tubería,16,5,32
+24,Perforación,2024-11-23,Refinería VacaMuerta,Tanque,5,0,15
+24,Perforación,2024-12-18,Oleoducto Andino,Tubería,21,5,63
+24,Perforación,2024-07-20,Planta Separadora,Válvula,11,3,33
+25,Mantenimiento,2024-01-16,Planta Separadora,Bomba,21,6,42
+25,Mantenimiento,2024-06-10,Planta Eléctrica Loma,Tanque,26,1,52
+25,Mantenimiento,2024-07-14,Gasoducto Sur,Filtro,27,0,54
+25,Mantenimiento,2024-10-03,Gasoducto Sur,Válvula,27,5,54
+25,Mantenimiento,2024-06-27,Planta Eléctrica Loma,Bomba,13,2,52
+26,Mantenimiento,2024-03-28,Gasoducto Sur,Tanque,11,1,55
+26,Mantenimiento,2024-10-26,Refinería VacaMuerta,Tanque,7,2,21
+27,Perforación,2024-11-16,Oleoducto Andino,Tanque,20,6,100
+27,Perforación,2024-02-13,Oleoducto Andino,Bomba,11,1,55
+28,Mantenimiento,2024-03-08,Oleoducto Andino,Tubería,11,1,22
+28,Mantenimiento,2024-08-03,Refinería VacaMuerta,Bomba,16,5,48
+28,Mantenimiento,2024-10-15,Planta Separadora,Filtro,23,3,46
+28,Mantenimiento,2024-04-09,Planta Separadora,Filtro,8,2,24
+29,Perforación,2024-02-14,Refinería VacaMuerta,Válvula,25,4,125
+29,Perforación,2024-12-23,Planta Separadora,Válvula,17,2,68
+29,Perforación,2024-05-19,Planta Eléctrica Loma,Válvula,29,2,58
+30,Mantenimiento,2024-02-08,Planta Eléctrica Loma,Válvula,27,4,81
+30,Mantenimiento,2024-03-18,Refinería VacaMuerta,Filtro,22,7,88
+31,Mantenimiento,2024-07-27,Planta Separadora,Válvula,21,1,84
+31,Mantenimiento,2024-12-23,Gasoducto Sur,Bomba,7,0,28
+31,Mantenimiento,2024-01-03,Planta Eléctrica Loma,Filtro,27,8,108
+31,Mantenimiento,2024-11-01,Gasoducto Sur,Tubería,16,0,48
+32,Perforación,2024-12-24,Refinería VacaMuerta,Tanque,28,9,140
+32,Perforación,2024-06-12,Oleoducto Andino,Válvula,30,9,90
+33,Mantenimiento,2024-06-12,Planta Separadora,Válvula,30,6,120
+33,Mantenimiento,2024-12-09,Planta Separadora,Tanque,28,2,84
+33,Mantenimiento,2024-01-14,Oleoducto Andino,Tubería,21,2,84
+34,Perforación,2024-12-19,Gasoducto Sur,Tubería,21,1,105
+34,Perforación,2024-11-24,Gasoducto Sur,Tubería,27,9,108
+34,Perforación,2024-10-17,Planta Eléctrica Loma,Válvula,10,1,30
+35,Producción,2024-01-14,Planta Separadora,Válvula,22,2,88
+35,Producción,2024-09-15,Refinería VacaMuerta,Bomba,15,5,60
+36,Perforación,2024-11-05,Oleoducto Andino,Filtro,20,3,60
+36,Perforación,2024-07-01,Refinería VacaMuerta,Tubería,9,3,18
+36,Perforación,2024-08-08,Planta Separadora,Tubería,20,0,40
+37,Perforación,2024-11-17,Oleoducto Andino,Válvula,8,1,16
+37,Perforación,2024-05-20,Planta Eléctrica Loma,Tubería,23,3,46
+37,Perforación,2024-05-05,Refinería VacaMuerta,Bomba,14,1,28
+38,Seguridad,2024-01-02,Planta Eléctrica Loma,Filtro,19,4,76
+38,Seguridad,2024-07-12,Gasoducto Sur,Bomba,7,0,35
+38,Seguridad,2024-01-19,Gasoducto Sur,Tubería,7,0,28
+38,Seguridad,2024-07-20,Refinería VacaMuerta,Tanque,29,7,87
+39,Logística,2024-03-08,Gasoducto Sur,Bomba,16,2,32
+39,Logística,2024-07-06,Planta Eléctrica Loma,Tanque,29,9,58
+39,Logística,2024-11-07,Planta Separadora,Filtro,15,4,45
+40,Producción,2024-08-17,Gasoducto Sur,Bomba,9,0,18
+40,Producción,2024-10-22,Gasoducto Sur,Bomba,26,3,104
+40,Producción,2024-05-02,Gasoducto Sur,Filtro,25,2,100
+41,Mantenimiento,2024-03-25,Oleoducto Andino,Válvula,9,0,18
+41,Mantenimiento,2024-04-04,Refinería VacaMuerta,Bomba,6,2,24
+41,Mantenimiento,2024-10-15,Planta Separadora,Bomba,30,5,150
+41,Mantenimiento,2024-05-02,Planta Separadora,Tubería,7,2,28
+42,Seguridad,2024-02-11,Refinería VacaMuerta,Tubería,10,0,40
+42,Seguridad,2024-08-23,Gasoducto Sur,Válvula,14,2,56
+43,Producción,2024-05-23,Refinería VacaMuerta,Bomba,27,2,81
+43,Producción,2024-11-04,Planta Separadora,Tubería,13,2,52
+44,Logística,2024-03-01,Planta Eléctrica Loma,Válvula,25,6,125
+44,Logística,2024-10-03,Oleoducto Andino,Bomba,27,9,108
+45,Seguridad,2024-03-12,Gasoducto Sur,Válvula,9,0,18
+45,Seguridad,2024-07-04,Planta Eléctrica Loma,Bomba,26,3,78
+46,Logística,2024-05-04,Oleoducto Andino,Válvula,16,5,64
+46,Logística,2024-06-20,Oleoducto Andino,Tanque,28,5,140
+46,Logística,2024-07-13,Planta Eléctrica Loma,Válvula,16,4,80
+47,Seguridad,2024-03-26,Gasoducto Sur,Tubería,23,4,92
+47,Seguridad,2024-11-18,Gasoducto Sur,Válvula,14,2,56
+47,Seguridad,2024-02-05,Refinería VacaMuerta,Tubería,14,4,28
+47,Seguridad,2024-05-09,Refinería VacaMuerta,Bomba,10,3,30
+48,Producción,2024-04-23,Refinería VacaMuerta,Bomba,30,5,60
+48,Producción,2024-12-09,Gasoducto Sur,Válvula,15,2,45
+48,Producción,2024-10-24,Gasoducto Sur,Tanque,5,1,15
+49,Mantenimiento,2024-07-21,Planta Eléctrica Loma,Tanque,27,1,108
+49,Mantenimiento,2024-03-21,Planta Eléctrica Loma,Válvula,27,1,108
+50,Logística,2024-01-02,Gasoducto Sur,Válvula,10,2,50
+50,Logística,2024-07-14,Planta Separadora,Tubería,6,2,12
+50,Logística,2024-09-12,Gasoducto Sur,Tanque,23,7,92
+50,Logística,2024-08-16,Planta Eléctrica Loma,Bomba,16,0,48
+51,Perforación,2024-05-01,Planta Separadora,Válvula,26,6,78
+51,Perforación,2024-09-25,Oleoducto Andino,Filtro,27,1,108
+51,Perforación,2024-04-14,Oleoducto Andino,Tubería,14,4,28
+51,Perforación,2024-06-20,Oleoducto Andino,Tubería,17,1,34
+51,Perforación,2024-03-25,Refinería VacaMuerta,Tubería,20,0,60
+52,Mantenimiento,2024-12-04,Planta Separadora,Bomba,21,7,105
+52,Mantenimiento,2024-03-25,Oleoducto Andino,Filtro,25,3,75
+53,Logística,2024-05-20,Planta Separadora,Tanque,19,5,38
+53,Logística,2024-03-22,Planta Eléctrica Loma,Filtro,21,0,63
+53,Logística,2024-05-05,Oleoducto Andino,Bomba,5,0,10
+53,Logística,2024-04-25,Planta Eléctrica Loma,Tanque,15,3,60
+53,Logística,2024-11-21,Planta Separadora,Tubería,20,6,80
+54,Logística,2024-04-01,Planta Eléctrica Loma,Válvula,25,5,100
+54,Logística,2024-01-08,Oleoducto Andino,Bomba,17,5,51
+54,Logística,2024-08-26,Oleoducto Andino,Filtro,18,2,72
+54,Logística,2024-03-09,Refinería VacaMuerta,Filtro,10,3,40
+54,Logística,2024-09-06,Planta Eléctrica Loma,Filtro,16,0,32
+55,Logística,2024-05-18,Refinería VacaMuerta,Tanque,28,6,56
+55,Logística,2024-08-02,Planta Eléctrica Loma,Bomba,8,2,32
+55,Logística,2024-06-14,Gasoducto Sur,Bomba,10,1,20
+56,Perforación,2024-01-06,Oleoducto Andino,Válvula,10,2,50
+56,Perforación,2024-02-28,Refinería VacaMuerta,Tanque,24,2,96
+56,Perforación,2024-03-24,Gasoducto Sur,Filtro,15,1,60
+56,Perforación,2024-07-08,Refinería VacaMuerta,Válvula,24,6,72
+57,Logística,2024-05-21,Planta Separadora,Filtro,23,4,115
+57,Logística,2024-09-22,Oleoducto Andino,Filtro,12,0,48
+57,Logística,2024-12-05,Refinería VacaMuerta,Tanque,30,4,150
+58,Mantenimiento,2024-03-03,Oleoducto Andino,Válvula,16,2,48
+58,Mantenimiento,2024-01-09,Planta Eléctrica Loma,Bomba,29,7,145
+59,Seguridad,2024-08-14,Planta Separadora,Tanque,29,2,145
+59,Seguridad,2024-12-21,Planta Separadora,Bomba,30,3,150
+59,Seguridad,2024-06-19,Planta Eléctrica Loma,Filtro,25,2,50
+60,Logística,2024-01-12,Planta Separadora,Filtro,5,1,10
+60,Logística,2024-10-02,Gasoducto Sur,Válvula,20,1,100
+60,Logística,2024-02-24,Gasoducto Sur,Tubería,17,2,34
+60,Logística,2024-02-19,Gasoducto Sur,Bomba,14,1,56
+60,Logística,2024-05-10,Planta Eléctrica Loma,Filtro,15,1,45
+61,Mantenimiento,2024-06-01,Planta Separadora,Tubería,7,1,14
+61,Mantenimiento,2024-01-12,Oleoducto Andino,Filtro,10,2,40
+61,Mantenimiento,2024-12-12,Refinería VacaMuerta,Filtro,10,0,50
+62,Producción,2024-06-19,Refinería VacaMuerta,Tubería,15,3,60
+62,Producción,2024-08-11,Planta Eléctrica Loma,Filtro,18,1,90
+62,Producción,2024-06-04,Gasoducto Sur,Filtro,10,2,30
+62,Producción,2024-09-18,Refinería VacaMuerta,Bomba,18,5,72
+62,Producción,2024-04-27,Gasoducto Sur,Filtro,19,1,38
+63,Producción,2024-01-08,Oleoducto Andino,Tanque,16,5,48
+63,Producción,2024-11-22,Planta Separadora,Tubería,7,2,14
+63,Producción,2024-10-25,Planta Separadora,Filtro,15,5,75
+63,Producción,2024-12-17,Oleoducto Andino,Tubería,17,3,68
+63,Producción,2024-06-04,Planta Separadora,Tanque,23,2,69
+64,Logística,2024-02-23,Oleoducto Andino,Bomba,29,6,87
+64,Logística,2024-11-09,Planta Eléctrica Loma,Tanque,8,2,24
+64,Logística,2024-12-15,Oleoducto Andino,Válvula,8,1,24
+64,Logística,2024-12-07,Oleoducto Andino,Filtro,9,0,27
+64,Logística,2024-09-23,Oleoducto Andino,Tanque,9,2,18
+65,Perforación,2024-03-17,Gasoducto Sur,Bomba,12,2,24
+65,Perforación,2024-09-05,Gasoducto Sur,Bomba,27,9,135
+65,Perforación,2024-07-07,Planta Separadora,Tubería,23,3,115
+66,Mantenimiento,2024-03-25,Planta Separadora,Bomba,7,1,21
+66,Mantenimiento,2024-07-06,Planta Eléctrica Loma,Válvula,24,0,72
+67,Perforación,2024-10-10,Planta Eléctrica Loma,Tanque,9,3,27
+67,Perforación,2024-01-14,Planta Separadora,Tanque,30,7,120
+67,Perforación,2024-02-21,Gasoducto Sur,Tanque,9,3,45
+67,Perforación,2024-09-26,Planta Eléctrica Loma,Tanque,28,4,84
+67,Perforación,2024-12-27,Planta Eléctrica Loma,Bomba,6,0,30
+68,Producción,2024-06-12,Gasoducto Sur,Bomba,27,1,135
+68,Producción,2024-08-12,Planta Separadora,Válvula,13,2,26
+68,Producción,2024-12-24,Planta Separadora,Tubería,20,2,80
+69,Seguridad,2024-10-24,Refinería VacaMuerta,Tanque,9,0,36
+69,Seguridad,2024-12-07,Refinería VacaMuerta,Tubería,18,4,90
+69,Seguridad,2024-04-08,Planta Eléctrica Loma,Filtro,21,2,84
+70,Perforación,2024-09-14,Gasoducto Sur,Válvula,6,1,12
+70,Perforación,2024-11-01,Planta Separadora,Bomba,11,1,22
+70,Perforación,2024-03-14,Oleoducto Andino,Tanque,9,3,45
+71,Producción,2024-06-03,Planta Separadora,Tanque,5,1,15
+71,Producción,2024-09-12,Planta Eléctrica Loma,Filtro,16,3,32
+71,Producción,2024-01-16,Gasoducto Sur,Válvula,8,0,16
+72,Producción,2024-01-25,Planta Eléctrica Loma,Tanque,14,0,42
+72,Producción,2024-02-24,Refinería VacaMuerta,Válvula,8,0,24
+72,Producción,2024-12-18,Oleoducto Andino,Tubería,25,8,125
+72,Producción,2024-01-27,Refinería VacaMuerta,Bomba,26,8,52
+72,Producción,2024-06-07,Planta Separadora,Bomba,20,0,80
+73,Mantenimiento,2024-06-24,Planta Separadora,Filtro,18,6,90
+73,Mantenimiento,2024-07-09,Gasoducto Sur,Tanque,24,2,48
+73,Mantenimiento,2024-10-16,Refinería VacaMuerta,Tubería,27,9,54
+73,Mantenimiento,2024-07-01,Refinería VacaMuerta,Válvula,7,1,28
+74,Perforación,2024-08-23,Gasoducto Sur,Bomba,29,3,116
+74,Perforación,2024-08-07,Gasoducto Sur,Filtro,21,3,63
+74,Perforación,2024-12-28,Refinería VacaMuerta,Tubería,17,1,51
+75,Perforación,2024-09-07,Oleoducto Andino,Tubería,24,4,72
+75,Perforación,2024-05-25,Planta Separadora,Válvula,17,3,85
+76,Perforación,2024-11-18,Gasoducto Sur,Bomba,9,1,36
+76,Perforación,2024-12-08,Refinería VacaMuerta,Filtro,24,8,96
+76,Perforación,2024-09-08,Planta Eléctrica Loma,Filtro,6,1,18
+76,Perforación,2024-07-22,Gasoducto Sur,Tubería,19,0,95
+77,Logística,2024-11-19,Refinería VacaMuerta,Tubería,29,5,87
+77,Logística,2024-04-25,Refinería VacaMuerta,Válvula,25,5,125
+77,Logística,2024-06-28,Planta Eléctrica Loma,Tubería,19,4,38
+77,Logística,2024-11-28,Planta Eléctrica Loma,Bomba,6,2,18
+78,Mantenimiento,2024-10-24,Planta Separadora,Tubería,5,0,25
+78,Mantenimiento,2024-10-05,Oleoducto Andino,Tubería,9,2,36
+78,Mantenimiento,2024-06-03,Oleoducto Andino,Bomba,25,6,100
+78,Mantenimiento,2024-05-08,Planta Separadora,Tubería,15,2,30
+78,Mantenimiento,2024-06-12,Planta Separadora,Válvula,10,1,40
+79,Perforación,2024-10-25,Refinería VacaMuerta,Bomba,10,0,40
+79,Perforación,2024-11-10,Gasoducto Sur,Válvula,5,0,10
+79,Perforación,2024-05-26,Gasoducto Sur,Válvula,21,4,42
+80,Perforación,2024-07-21,Refinería VacaMuerta,Filtro,26,2,130
+80,Perforación,2024-06-17,Planta Eléctrica Loma,Tanque,8,1,32
+80,Perforación,2024-01-18,Refinería VacaMuerta,Tubería,17,2,68
+81,Perforación,2024-12-21,Planta Separadora,Bomba,5,1,10
+81,Perforación,2024-11-11,Oleoducto Andino,Bomba,24,4,72
+81,Perforación,2024-03-17,Planta Separadora,Válvula,9,1,36
+81,Perforación,2024-05-09,Oleoducto Andino,Bomba,11,1,55
+81,Perforación,2024-07-04,Oleoducto Andino,Tubería,14,4,70
+82,Seguridad,2024-06-27,Planta Separadora,Válvula,15,1,75
+82,Seguridad,2024-01-02,Gasoducto Sur,Filtro,26,8,130
+82,Seguridad,2024-05-09,Gasoducto Sur,Tubería,6,0,30
+82,Seguridad,2024-07-11,Oleoducto Andino,Bomba,19,1,57
+82,Seguridad,2024-01-16,Planta Separadora,Tubería,22,6,66
+83,Perforación,2024-09-24,Gasoducto Sur,Bomba,23,7,46
+83,Perforación,2024-07-06,Refinería VacaMuerta,Tanque,29,7,116
+84,Mantenimiento,2024-02-26,Refinería VacaMuerta,Válvula,13,4,52
+84,Mantenimiento,2024-07-07,Oleoducto Andino,Filtro,8,0,24
+84,Mantenimiento,2024-06-14,Gasoducto Sur,Válvula,14,1,70
+84,Mantenimiento,2024-05-08,Planta Eléctrica Loma,Válvula,16,1,80
+85,Producción,2024-01-02,Gasoducto Sur,Válvula,9,1,36
+85,Producción,2024-03-08,Refinería VacaMuerta,Bomba,7,0,14
+85,Producción,2024-07-25,Gasoducto Sur,Válvula,30,5,120
+85,Producción,2024-03-20,Planta Separadora,Tanque,12,0,36
+86,Producción,2024-01-06,Planta Separadora,Filtro,18,0,90
+86,Producción,2024-09-22,Gasoducto Sur,Bomba,12,2,60
+86,Producción,2024-09-01,Gasoducto Sur,Bomba,23,4,69
+86,Producción,2024-04-17,Planta Separadora,Filtro,20,3,80
+86,Producción,2024-07-28,Planta Eléctrica Loma,Bomba,17,5,34
+87,Perforación,2024-11-28,Planta Eléctrica Loma,Bomba,30,4,60
+87,Perforación,2024-09-20,Oleoducto Andino,Tanque,24,5,48
+87,Perforación,2024-05-02,Oleoducto Andino,Válvula,5,0,15
+87,Perforación,2024-06-17,Oleoducto Andino,Bomba,11,1,22
+87,Perforación,2024-11-01,Planta Separadora,Tanque,24,6,72
+88,Logística,2024-11-20,Refinería VacaMuerta,Tanque,20,0,40
+88,Logística,2024-10-11,Planta Separadora,Filtro,20,0,80
+88,Logística,2024-08-14,Planta Eléctrica Loma,Filtro,10,2,30
+88,Logística,2024-09-06,Oleoducto Andino,Bomba,15,4,60
+89,Producción,2024-01-20,Refinería VacaMuerta,Tanque,21,1,42
+89,Producción,2024-07-10,Planta Eléctrica Loma,Tanque,12,2,60
+89,Producción,2024-02-20,Planta Eléctrica Loma,Tanque,19,4,38
+89,Producción,2024-04-07,Planta Eléctrica Loma,Tanque,10,2,20
+89,Producción,2024-06-26,Gasoducto Sur,Tanque,24,3,72
+90,Perforación,2024-03-26,Planta Eléctrica Loma,Válvula,30,4,150
+90,Perforación,2024-09-23,Planta Eléctrica Loma,Tubería,9,0,27
+90,Perforación,2024-12-22,Refinería VacaMuerta,Bomba,6,1,24
+90,Perforación,2024-03-03,Planta Separadora,Válvula,27,9,54
+91,Mantenimiento,2024-09-04,Planta Eléctrica Loma,Filtro,8,0,32
+91,Mantenimiento,2024-01-24,Oleoducto Andino,Válvula,13,1,65
+91,Mantenimiento,2024-07-10,Planta Eléctrica Loma,Tubería,9,3,36
+92,Producción,2024-01-11,Oleoducto Andino,Tubería,18,3,72
+92,Producción,2024-09-13,Refinería VacaMuerta,Tanque,22,0,44
+92,Producción,2024-09-26,Gasoducto Sur,Tanque,10,0,20
+93,Logística,2024-12-09,Refinería VacaMuerta,Filtro,10,0,20
+93,Logística,2024-04-04,Refinería VacaMuerta,Tanque,9,1,18
+93,Logística,2024-06-04,Gasoducto Sur,Tubería,8,2,16
+93,Logística,2024-10-06,Planta Separadora,Válvula,13,4,52
+93,Logística,2024-02-24,Refinería VacaMuerta,Tubería,25,6,100
+94,Mantenimiento,2024-12-20,Refinería VacaMuerta,Filtro,13,3,52
+94,Mantenimiento,2024-04-15,Planta Eléctrica Loma,Tubería,10,1,40
+94,Mantenimiento,2024-03-06,Gasoducto Sur,Bomba,8,2,24
+94,Mantenimiento,2024-04-22,Refinería VacaMuerta,Válvula,18,5,90
+95,Seguridad,2024-01-24,Planta Separadora,Válvula,16,1,48
+95,Seguridad,2024-11-20,Gasoducto Sur,Tubería,16,1,48
+95,Seguridad,2024-10-12,Gasoducto Sur,Tanque,5,1,15
+96,Seguridad,2024-01-21,Gasoducto Sur,Tanque,11,3,33
+96,Seguridad,2024-04-11,Refinería VacaMuerta,Bomba,20,4,100
+96,Seguridad,2024-06-07,Planta Eléctrica Loma,Tubería,20,6,60
+97,Producción,2024-08-03,Planta Separadora,Tanque,27,9,108
+97,Producción,2024-08-28,Gasoducto Sur,Bomba,5,1,15
+98,Logística,2024-02-28,Planta Separadora,Filtro,11,2,44
+98,Logística,2024-04-22,Planta Eléctrica Loma,Tubería,23,0,92
+98,Logística,2024-05-25,Oleoducto Andino,Tubería,26,7,104
+99,Logística,2024-02-21,Oleoducto Andino,Tubería,5,0,10
+99,Logística,2024-08-17,Planta Eléctrica Loma,Válvula,19,1,95
+100,Seguridad,2024-07-05,Refinería VacaMuerta,Tubería,13,1,26
+100,Seguridad,2024-03-17,Planta Eléctrica Loma,Válvula,29,8,145
+100,Seguridad,2024-01-20,Planta Separadora,Válvula,17,4,51
+100,Seguridad,2024-03-18,Planta Eléctrica Loma,Bomba,6,1,24
+101,Producción,2024-09-22,Oleoducto Andino,Bomba,27,7,135
+101,Producción,2024-04-21,Planta Separadora,Válvula,30,7,90
+102,Seguridad,2024-01-02,Planta Eléctrica Loma,Válvula,14,3,56
+102,Seguridad,2024-08-19,Gasoducto Sur,Tanque,12,2,24
+102,Seguridad,2024-12-17,Oleoducto Andino,Tanque,12,1,60
+103,Logística,2024-05-17,Refinería VacaMuerta,Tanque,26,8,104
+103,Logística,2024-01-26,Planta Separadora,Válvula,21,4,42
+103,Logística,2024-03-10,Refinería VacaMuerta,Filtro,15,4,75
+103,Logística,2024-02-18,Oleoducto Andino,Filtro,12,0,36
+103,Logística,2024-12-17,Gasoducto Sur,Filtro,28,6,56
+104,Logística,2024-01-20,Planta Separadora,Tubería,25,0,50
+104,Logística,2024-12-09,Planta Separadora,Válvula,7,1,28
+104,Logística,2024-12-23,Planta Separadora,Bomba,25,4,50
+104,Logística,2024-01-11,Planta Eléctrica Loma,Válvula,9,1,18
+104,Logística,2024-02-01,Planta Eléctrica Loma,Filtro,22,7,66
+105,Seguridad,2024-11-07,Gasoducto Sur,Tanque,18,4,90
+105,Seguridad,2024-01-20,Planta Eléctrica Loma,Tubería,6,0,30
+106,Seguridad,2024-03-27,Oleoducto Andino,Válvula,10,1,20
+106,Seguridad,2024-03-11,Oleoducto Andino,Válvula,13,0,39
+107,Logística,2024-02-15,Oleoducto Andino,Filtro,21,4,84
+107,Logística,2024-03-07,Planta Separadora,Bomba,5,1,10
+107,Logística,2024-01-01,Planta Eléctrica Loma,Tubería,8,2,24
+108,Seguridad,2024-12-08,Oleoducto Andino,Válvula,29,6,116
+108,Seguridad,2024-05-12,Oleoducto Andino,Tubería,30,1,60
+109,Mantenimiento,2024-10-08,Planta Eléctrica Loma,Tubería,30,1,150
+109,Mantenimiento,2024-02-08,Planta Separadora,Filtro,22,0,44
+109,Mantenimiento,2024-07-03,Oleoducto Andino,Tubería,20,3,80
+109,Mantenimiento,2024-02-16,Planta Separadora,Válvula,19,6,38
+110,Perforación,2024-01-08,Gasoducto Sur,Tanque,20,3,60
+110,Perforación,2024-11-14,Planta Eléctrica Loma,Bomba,14,1,28
+110,Perforación,2024-10-18,Gasoducto Sur,Bomba,12,1,36
+111,Producción,2024-04-11,Oleoducto Andino,Bomba,5,0,25
+111,Producción,2024-09-09,Refinería VacaMuerta,Filtro,17,2,51
+112,Producción,2024-09-28,Oleoducto Andino,Bomba,21,3,105
+112,Producción,2024-01-24,Gasoducto Sur,Tanque,7,1,21
+112,Producción,2024-04-01,Gasoducto Sur,Tubería,17,1,34
+113,Mantenimiento,2024-09-05,Planta Eléctrica Loma,Bomba,11,3,44
+113,Mantenimiento,2024-07-21,Planta Eléctrica Loma,Bomba,14,3,28
+113,Mantenimiento,2024-05-16,Oleoducto Andino,Tubería,11,0,44
+113,Mantenimiento,2024-07-07,Planta Eléctrica Loma,Tanque,7,1,21
+113,Mantenimiento,2024-08-26,Refinería VacaMuerta,Filtro,11,1,44
+114,Perforación,2024-11-16,Oleoducto Andino,Tanque,16,1,64
+114,Perforación,2024-08-03,Gasoducto Sur,Bomba,15,1,45
+115,Producción,2024-01-28,Planta Separadora,Bomba,28,5,84
+115,Producción,2024-03-08,Gasoducto Sur,Filtro,5,1,25
+115,Producción,2024-04-28,Gasoducto Sur,Tanque,29,5,87
+115,Producción,2024-10-17,Oleoducto Andino,Tubería,29,2,145
+115,Producción,2024-07-05,Planta Separadora,Tanque,8,1,32
+116,Mantenimiento,2024-03-25,Planta Separadora,Válvula,16,4,48
+116,Mantenimiento,2024-10-24,Oleoducto Andino,Válvula,18,3,90
+116,Mantenimiento,2024-03-07,Oleoducto Andino,Bomba,8,0,16
+116,Mantenimiento,2024-08-11,Planta Separadora,Tubería,14,2,70
+117,Logística,2024-04-10,Oleoducto Andino,Válvula,16,5,80
+117,Logística,2024-09-03,Gasoducto Sur,Válvula,16,4,80
+117,Logística,2024-02-25,Gasoducto Sur,Tubería,20,2,80
+117,Logística,2024-04-21,Refinería VacaMuerta,Tubería,19,4,38
+118,Mantenimiento,2024-11-15,Planta Separadora,Bomba,28,2,112
+118,Mantenimiento,2024-01-08,Planta Eléctrica Loma,Tanque,28,2,84
+118,Mantenimiento,2024-12-13,Planta Eléctrica Loma,Bomba,14,0,70
+119,Seguridad,2024-05-12,Gasoducto Sur,Tanque,17,1,85
+119,Seguridad,2024-03-04,Planta Eléctrica Loma,Válvula,28,9,84
+119,Seguridad,2024-01-15,Oleoducto Andino,Válvula,27,1,81
+119,Seguridad,2024-10-25,Refinería VacaMuerta,Filtro,15,4,75
+119,Seguridad,2024-02-04,Planta Separadora,Bomba,27,1,135
+120,Mantenimiento,2024-07-26,Gasoducto Sur,Tanque,10,2,20
+120,Mantenimiento,2024-12-16,Planta Separadora,Filtro,19,5,95
+120,Mantenimiento,2024-05-02,Gasoducto Sur,Filtro,25,8,50
+120,Mantenimiento,2024-02-22,Oleoducto Andino,Tubería,22,6,110
+120,Mantenimiento,2024-08-05,Planta Separadora,Válvula,11,3,33
+121,Seguridad,2024-06-18,Planta Eléctrica Loma,Válvula,19,6,57
+121,Seguridad,2024-12-03,Gasoducto Sur,Tanque,18,1,54
+121,Seguridad,2024-04-07,Refinería VacaMuerta,Bomba,29,9,58
+121,Seguridad,2024-06-23,Planta Eléctrica Loma,Tanque,24,8,48
+122,Mantenimiento,2024-08-21,Planta Separadora,Filtro,24,3,48
+122,Mantenimiento,2024-04-03,Planta Separadora,Tubería,27,1,54
+123,Mantenimiento,2024-11-11,Planta Eléctrica Loma,Bomba,23,0,92
+123,Mantenimiento,2024-10-23,Planta Eléctrica Loma,Válvula,22,3,88
+123,Mantenimiento,2024-06-03,Oleoducto Andino,Válvula,15,1,30
+123,Mantenimiento,2024-06-10,Gasoducto Sur,Filtro,6,0,18
+123,Mantenimiento,2024-07-01,Refinería VacaMuerta,Válvula,27,7,81
+124,Mantenimiento,2024-08-17,Refinería VacaMuerta,Filtro,18,4,54
+124,Mantenimiento,2024-01-13,Gasoducto Sur,Tanque,19,1,38
+124,Mantenimiento,2024-07-16,Refinería VacaMuerta,Válvula,10,2,50
+125,Mantenimiento,2024-09-04,Refinería VacaMuerta,Tanque,7,2,14
+125,Mantenimiento,2024-12-01,Planta Separadora,Tanque,10,1,50
+125,Mantenimiento,2024-05-19,Refinería VacaMuerta,Filtro,22,0,110
+125,Mantenimiento,2024-03-12,Planta Eléctrica Loma,Tanque,18,5,54
+125,Mantenimiento,2024-01-01,Refinería VacaMuerta,Filtro,17,2,34
+126,Producción,2024-10-22,Refinería VacaMuerta,Tanque,5,1,20
+126,Producción,2024-08-24,Oleoducto Andino,Válvula,14,3,42
+126,Producción,2024-12-23,Gasoducto Sur,Tubería,15,2,45
+126,Producción,2024-12-01,Planta Separadora,Tubería,16,2,64
+127,Perforación,2024-11-11,Planta Separadora,Tubería,18,5,90
+127,Perforación,2024-02-05,Planta Eléctrica Loma,Válvula,11,2,33
+127,Perforación,2024-10-11,Refinería VacaMuerta,Bomba,22,1,88
+127,Perforación,2024-01-05,Refinería VacaMuerta,Filtro,12,4,48
+128,Perforación,2024-03-03,Oleoducto Andino,Bomba,14,2,70
+128,Perforación,2024-08-04,Planta Eléctrica Loma,Filtro,28,3,140
+128,Perforación,2024-12-27,Gasoducto Sur,Válvula,28,7,140
+129,Mantenimiento,2024-12-04,Oleoducto Andino,Tanque,27,6,81
+129,Mantenimiento,2024-05-01,Gasoducto Sur,Tanque,27,5,108
+129,Mantenimiento,2024-08-22,Oleoducto Andino,Tubería,9,1,18
+130,Mantenimiento,2024-02-20,Oleoducto Andino,Bomba,28,7,56
+130,Mantenimiento,2024-02-17,Refinería VacaMuerta,Filtro,10,1,30
+131,Seguridad,2024-12-22,Planta Eléctrica Loma,Bomba,17,3,51
+131,Seguridad,2024-07-25,Planta Eléctrica Loma,Tanque,22,1,88
+131,Seguridad,2024-09-06,Planta Eléctrica Loma,Válvula,19,3,38
+132,Seguridad,2024-10-20,Oleoducto Andino,Válvula,20,3,100
+132,Seguridad,2024-03-23,Oleoducto Andino,Tubería,10,1,40
+132,Seguridad,2024-10-02,Oleoducto Andino,Válvula,6,0,12
+132,Seguridad,2024-01-23,Planta Eléctrica Loma,Tubería,25,6,75
+132,Seguridad,2024-11-11,Gasoducto Sur,Bomba,11,3,44
+133,Seguridad,2024-03-18,Planta Separadora,Tubería,27,0,108
+133,Seguridad,2024-06-17,Gasoducto Sur,Tubería,15,3,75
+133,Seguridad,2024-04-02,Planta Separadora,Filtro,19,5,57
+133,Seguridad,2024-02-14,Planta Separadora,Bomba,25,7,125
+134,Seguridad,2024-12-08,Gasoducto Sur,Filtro,14,4,42
+134,Seguridad,2024-11-27,Refinería VacaMuerta,Filtro,27,9,108
+134,Seguridad,2024-03-03,Refinería VacaMuerta,Válvula,26,2,130
+135,Seguridad,2024-07-22,Planta Eléctrica Loma,Bomba,30,3,150
+135,Seguridad,2024-07-24,Refinería VacaMuerta,Tanque,29,8,116
+136,Logística,2024-03-02,Planta Separadora,Tanque,14,2,42
+136,Logística,2024-07-02,Planta Eléctrica Loma,Válvula,16,1,48
+137,Seguridad,2024-08-22,Oleoducto Andino,Filtro,15,3,75
+137,Seguridad,2024-05-06,Gasoducto Sur,Válvula,28,1,84
+137,Seguridad,2024-03-17,Oleoducto Andino,Tanque,12,3,48
+137,Seguridad,2024-12-22,Refinería VacaMuerta,Tanque,11,1,22
+138,Logística,2024-03-28,Refinería VacaMuerta,Filtro,19,4,95
+138,Logística,2024-09-24,Planta Eléctrica Loma,Tubería,7,1,28
+139,Logística,2024-06-22,Gasoducto Sur,Bomba,13,0,39
+139,Logística,2024-07-14,Planta Eléctrica Loma,Válvula,6,0,18
+139,Logística,2024-06-02,Refinería VacaMuerta,Bomba,18,3,72
+139,Logística,2024-04-24,Refinería VacaMuerta,Tubería,22,4,44
+140,Producción,2024-12-28,Oleoducto Andino,Bomba,6,2,24
+140,Producción,2024-12-26,Planta Separadora,Filtro,7,0,28
+140,Producción,2024-10-22,Oleoducto Andino,Filtro,19,4,95
+140,Producción,2024-04-25,Oleoducto Andino,Válvula,5,1,10
+141,Logística,2024-10-21,Gasoducto Sur,Bomba,20,1,100
+141,Logística,2024-05-21,Planta Separadora,Válvula,24,1,48
+141,Logística,2024-03-17,Planta Eléctrica Loma,Tubería,29,7,116
+141,Logística,2024-09-25,Planta Eléctrica Loma,Tubería,13,3,52
+141,Logística,2024-02-15,Oleoducto Andino,Válvula,23,4,92
+142,Perforación,2024-09-17,Planta Separadora,Tanque,24,2,72
+142,Perforación,2024-03-16,Oleoducto Andino,Filtro,10,3,20
+143,Logística,2024-05-16,Gasoducto Sur,Válvula,29,4,116
+143,Logística,2024-12-27,Oleoducto Andino,Válvula,20,0,60
+143,Logística,2024-02-24,Planta Separadora,Filtro,7,1,28
+143,Logística,2024-03-16,Oleoducto Andino,Válvula,14,3,56
+143,Logística,2024-07-10,Planta Eléctrica Loma,Válvula,18,5,54
+144,Seguridad,2024-10-20,Planta Eléctrica Loma,Filtro,29,7,58
+144,Seguridad,2024-11-18,Refinería VacaMuerta,Tanque,20,5,40
+144,Seguridad,2024-03-14,Planta Eléctrica Loma,Tubería,27,6,54
+144,Seguridad,2024-03-20,Oleoducto Andino,Válvula,26,8,104
+145,Seguridad,2024-07-22,Oleoducto Andino,Válvula,21,0,84
+145,Seguridad,2024-05-28,Refinería VacaMuerta,Válvula,22,0,88
+145,Seguridad,2024-03-12,Oleoducto Andino,Tanque,26,8,130
+145,Seguridad,2024-05-27,Gasoducto Sur,Válvula,9,0,45
+145,Seguridad,2024-02-23,Planta Separadora,Tanque,22,2,66
+146,Logística,2024-09-11,Gasoducto Sur,Filtro,20,1,60
+146,Logística,2024-11-23,Planta Eléctrica Loma,Filtro,21,7,42
+147,Perforación,2024-02-14,Gasoducto Sur,Válvula,19,1,95
+147,Perforación,2024-10-27,Oleoducto Andino,Bomba,11,1,22
+147,Perforación,2024-03-13,Oleoducto Andino,Tanque,8,1,24
+147,Perforación,2024-03-18,Refinería VacaMuerta,Filtro,11,2,44
+148,Logística,2024-01-03,Refinería VacaMuerta,Válvula,18,4,36
+148,Logística,2024-11-17,Oleoducto Andino,Tanque,11,1,22
+148,Logística,2024-10-09,Planta Eléctrica Loma,Tanque,10,2,50
+149,Logística,2024-07-10,Refinería VacaMuerta,Filtro,17,1,34
+149,Logística,2024-09-15,Refinería VacaMuerta,Tubería,13,1,39
+149,Logística,2024-11-13,Refinería VacaMuerta,Bomba,28,7,112
+149,Logística,2024-08-13,Planta Separadora,Válvula,25,1,125
+150,Seguridad,2024-07-20,Refinería VacaMuerta,Tubería,9,3,36
+150,Seguridad,2024-05-13,Gasoducto Sur,Filtro,7,1,28
+150,Seguridad,2024-06-07,Planta Eléctrica Loma,Tubería,26,8,104
+151,Logística,2024-07-17,Planta Eléctrica Loma,Tanque,28,9,112
+151,Logística,2024-06-06,Refinería VacaMuerta,Válvula,18,2,72
+151,Logística,2024-08-26,Refinería VacaMuerta,Bomba,20,1,40
+152,Perforación,2024-07-14,Oleoducto Andino,Filtro,23,7,115
+152,Perforación,2024-01-22,Gasoducto Sur,Tanque,7,0,35
+153,Logística,2024-11-14,Refinería VacaMuerta,Bomba,26,0,130
+153,Logística,2024-04-21,Gasoducto Sur,Filtro,29,3,87
+153,Logística,2024-06-26,Planta Separadora,Filtro,19,5,57
+153,Logística,2024-08-20,Refinería VacaMuerta,Tubería,23,5,46
+153,Logística,2024-02-21,Oleoducto Andino,Filtro,19,0,57
+154,Producción,2024-02-23,Planta Separadora,Bomba,19,3,95
+154,Producción,2024-08-11,Refinería VacaMuerta,Tanque,12,1,24
+154,Producción,2024-02-01,Refinería VacaMuerta,Filtro,19,0,95
+154,Producción,2024-09-03,Refinería VacaMuerta,Filtro,27,6,108
+155,Logística,2024-02-08,Planta Eléctrica Loma,Válvula,30,7,60
+155,Logística,2024-07-14,Planta Separadora,Tanque,11,1,44
+155,Logística,2024-05-10,Gasoducto Sur,Bomba,22,0,88
+155,Logística,2024-04-18,Oleoducto Andino,Filtro,20,3,60
+156,Mantenimiento,2024-03-20,Refinería VacaMuerta,Bomba,9,3,36
+156,Mantenimiento,2024-03-11,Refinería VacaMuerta,Tanque,29,4,116
+156,Mantenimiento,2024-02-12,Gasoducto Sur,Tanque,23,6,46
+157,Mantenimiento,2024-06-04,Gasoducto Sur,Válvula,16,2,80
+157,Mantenimiento,2024-10-07,Oleoducto Andino,Tanque,20,6,100
+158,Producción,2024-07-04,Oleoducto Andino,Válvula,23,0,115
+158,Producción,2024-06-13,Gasoducto Sur,Válvula,28,9,56
+158,Producción,2024-01-28,Oleoducto Andino,Válvula,24,4,120
+159,Logística,2024-07-07,Planta Eléctrica Loma,Tanque,16,1,64
+159,Logística,2024-07-16,Refinería VacaMuerta,Filtro,9,1,45
+159,Logística,2024-12-24,Oleoducto Andino,Bomba,27,3,54
+159,Logística,2024-01-27,Gasoducto Sur,Bomba,25,5,100
+160,Perforación,2024-10-11,Planta Eléctrica Loma,Tubería,21,5,105
+160,Perforación,2024-06-19,Refinería VacaMuerta,Tubería,27,2,81
+161,Perforación,2024-12-10,Planta Eléctrica Loma,Bomba,17,4,68
+161,Perforación,2024-08-16,Planta Eléctrica Loma,Válvula,14,4,42
+161,Perforación,2024-07-03,Oleoducto Andino,Bomba,22,2,44
+161,Perforación,2024-08-18,Planta Eléctrica Loma,Tanque,24,8,72
+161,Perforación,2024-03-12,Refinería VacaMuerta,Tanque,5,1,15
+162,Mantenimiento,2024-06-24,Planta Separadora,Bomba,17,3,68
+162,Mantenimiento,2024-12-25,Oleoducto Andino,Filtro,15,1,75
+162,Mantenimiento,2024-01-06,Oleoducto Andino,Tubería,7,1,35
+163,Perforación,2024-05-14,Planta Eléctrica Loma,Tubería,15,0,60
+163,Perforación,2024-01-01,Gasoducto Sur,Bomba,18,4,36
+163,Perforación,2024-07-04,Planta Separadora,Filtro,18,4,36
+164,Logística,2024-03-21,Gasoducto Sur,Filtro,13,0,26
+164,Logística,2024-02-14,Gasoducto Sur,Bomba,30,6,120
+165,Logística,2024-08-19,Planta Eléctrica Loma,Bomba,30,9,90
+165,Logística,2024-10-13,Oleoducto Andino,Bomba,20,1,100
+165,Logística,2024-06-16,Gasoducto Sur,Tubería,18,1,36
+165,Logística,2024-03-16,Planta Separadora,Válvula,11,1,22
+166,Perforación,2024-08-21,Refinería VacaMuerta,Tubería,16,2,64
+166,Perforación,2024-06-20,Refinería VacaMuerta,Bomba,28,9,84
+166,Perforación,2024-09-04,Oleoducto Andino,Filtro,19,3,38
+167,Logística,2024-10-01,Planta Eléctrica Loma,Tanque,16,5,64
+167,Logística,2024-03-12,Refinería VacaMuerta,Tubería,9,1,27
+167,Logística,2024-03-16,Oleoducto Andino,Bomba,12,4,60
+168,Logística,2024-04-12,Refinería VacaMuerta,Tubería,29,8,116
+168,Logística,2024-06-26,Refinería VacaMuerta,Filtro,23,0,115
+168,Logística,2024-01-23,Planta Separadora,Filtro,30,10,90
+169,Perforación,2024-01-02,Planta Eléctrica Loma,Tanque,22,1,88
+169,Perforación,2024-08-04,Gasoducto Sur,Tanque,14,4,56
+169,Perforación,2024-04-06,Refinería VacaMuerta,Tanque,5,1,25
+170,Perforación,2024-03-06,Planta Eléctrica Loma,Tubería,5,1,20
+170,Perforación,2024-03-01,Planta Eléctrica Loma,Tanque,22,2,88
+170,Perforación,2024-03-23,Refinería VacaMuerta,Válvula,26,4,104
+170,Perforación,2024-05-20,Gasoducto Sur,Filtro,20,3,80
+170,Perforación,2024-07-13,Refinería VacaMuerta,Bomba,17,4,85
+171,Seguridad,2024-06-25,Planta Separadora,Válvula,30,10,120
+171,Seguridad,2024-08-14,Refinería VacaMuerta,Bomba,10,0,30
+171,Seguridad,2024-03-17,Refinería VacaMuerta,Tubería,12,4,24
+171,Seguridad,2024-09-09,Oleoducto Andino,Filtro,11,3,55
+171,Seguridad,2024-06-26,Oleoducto Andino,Bomba,24,2,120
+172,Seguridad,2024-04-24,Gasoducto Sur,Tubería,22,5,110
+172,Seguridad,2024-05-23,Refinería VacaMuerta,Tubería,10,1,40
+172,Seguridad,2024-04-14,Refinería VacaMuerta,Filtro,13,3,52
+172,Seguridad,2024-08-19,Refinería VacaMuerta,Válvula,16,2,48
+173,Seguridad,2024-04-04,Planta Separadora,Tanque,10,1,50
+173,Seguridad,2024-11-07,Oleoducto Andino,Filtro,30,8,150
+174,Seguridad,2024-03-24,Gasoducto Sur,Tanque,19,5,95
+174,Seguridad,2024-07-08,Planta Separadora,Tanque,30,7,60
+175,Producción,2024-11-04,Planta Eléctrica Loma,Filtro,7,1,28
+175,Producción,2024-09-27,Refinería VacaMuerta,Bomba,25,3,75
+175,Producción,2024-03-20,Planta Eléctrica Loma,Tanque,7,0,35
+175,Producción,2024-04-23,Planta Separadora,Bomba,25,3,75
+175,Producción,2024-05-22,Planta Eléctrica Loma,Válvula,25,8,75
+176,Mantenimiento,2024-10-12,Planta Eléctrica Loma,Tubería,27,5,81
+176,Mantenimiento,2024-03-14,Oleoducto Andino,Válvula,23,6,92
+176,Mantenimiento,2024-05-13,Refinería VacaMuerta,Filtro,8,0,16
+176,Mantenimiento,2024-06-14,Oleoducto Andino,Válvula,8,2,16
+177,Mantenimiento,2024-11-25,Gasoducto Sur,Válvula,30,6,120
+177,Mantenimiento,2024-09-17,Oleoducto Andino,Tanque,25,0,100
+177,Mantenimiento,2024-03-27,Oleoducto Andino,Válvula,7,1,35
+178,Perforación,2024-03-20,Gasoducto Sur,Bomba,27,8,54
+178,Perforación,2024-09-05,Planta Separadora,Tanque,8,2,32
+179,Perforación,2024-09-22,Oleoducto Andino,Tanque,10,2,40
+179,Perforación,2024-08-03,Planta Eléctrica Loma,Tubería,11,0,44
+179,Perforación,2024-02-20,Oleoducto Andino,Tubería,18,3,54
+180,Mantenimiento,2024-05-15,Refinería VacaMuerta,Tubería,18,1,36
+180,Mantenimiento,2024-05-15,Gasoducto Sur,Válvula,12,1,60
+181,Logística,2024-11-02,Planta Eléctrica Loma,Tanque,6,0,30
+181,Logística,2024-09-03,Planta Separadora,Filtro,23,4,46
+181,Logística,2024-06-05,Oleoducto Andino,Bomba,6,2,30
+181,Logística,2024-08-04,Refinería VacaMuerta,Bomba,9,1,27
+181,Logística,2024-06-10,Refinería VacaMuerta,Bomba,9,3,18
+182,Perforación,2024-03-07,Planta Separadora,Bomba,29,5,116
+182,Perforación,2024-02-08,Gasoducto Sur,Tubería,29,8,116
+182,Perforación,2024-04-09,Gasoducto Sur,Tanque,15,0,45
+183,Seguridad,2024-12-02,Gasoducto Sur,Tanque,23,1,115
+183,Seguridad,2024-10-03,Gasoducto Sur,Tubería,21,4,63
+183,Seguridad,2024-12-10,Planta Eléctrica Loma,Bomba,30,7,150
+184,Perforación,2024-09-13,Oleoducto Andino,Válvula,28,1,140
+184,Perforación,2024-02-27,Planta Eléctrica Loma,Tanque,19,5,38
+184,Perforación,2024-06-25,Oleoducto Andino,Tubería,28,0,56
+184,Perforación,2024-07-27,Oleoducto Andino,Tanque,27,0,108
+185,Mantenimiento,2024-08-06,Refinería VacaMuerta,Tubería,10,0,20
+185,Mantenimiento,2024-02-15,Refinería VacaMuerta,Tanque,26,5,130
+186,Perforación,2024-06-08,Planta Separadora,Tubería,14,2,42
+186,Perforación,2024-01-16,Planta Separadora,Bomba,7,1,21
+186,Perforación,2024-06-13,Refinería VacaMuerta,Bomba,16,1,80
+186,Perforación,2024-06-02,Planta Eléctrica Loma,Bomba,8,2,40
+186,Perforación,2024-03-14,Oleoducto Andino,Bomba,27,2,81
+187,Seguridad,2024-09-06,Refinería VacaMuerta,Válvula,28,4,140
+187,Seguridad,2024-11-04,Gasoducto Sur,Tubería,17,3,68
+187,Seguridad,2024-07-04,Planta Eléctrica Loma,Filtro,26,5,52
+187,Seguridad,2024-06-04,Gasoducto Sur,Válvula,23,1,69
+187,Seguridad,2024-06-07,Oleoducto Andino,Bomba,18,0,36
+188,Perforación,2024-08-23,Planta Eléctrica Loma,Tanque,10,0,20
+188,Perforación,2024-04-06,Oleoducto Andino,Bomba,30,8,150
+188,Perforación,2024-04-26,Planta Separadora,Válvula,23,0,46
+188,Perforación,2024-06-27,Planta Separadora,Tubería,15,2,45
+189,Logística,2024-04-02,Gasoducto Sur,Tubería,27,0,81
+189,Logística,2024-08-01,Planta Separadora,Tanque,21,4,63
+189,Logística,2024-07-27,Gasoducto Sur,Filtro,30,4,120
+190,Logística,2024-10-12,Gasoducto Sur,Tubería,7,0,35
+190,Logística,2024-03-16,Refinería VacaMuerta,Bomba,28,5,84
+190,Logística,2024-03-27,Planta Separadora,Válvula,5,0,20
+190,Logística,2024-04-24,Gasoducto Sur,Tanque,5,0,25
+191,Perforación,2024-08-07,Oleoducto Andino,Filtro,12,4,60
+191,Perforación,2024-12-02,Planta Separadora,Válvula,9,1,45
+191,Perforación,2024-11-18,Planta Separadora,Bomba,9,1,18
+191,Perforación,2024-11-23,Refinería VacaMuerta,Tanque,11,2,55
+191,Perforación,2024-09-19,Oleoducto Andino,Tubería,9,2,45
+192,Mantenimiento,2024-06-15,Refinería VacaMuerta,Filtro,8,0,16
+192,Mantenimiento,2024-04-25,Planta Separadora,Válvula,26,4,130
+192,Mantenimiento,2024-02-23,Planta Eléctrica Loma,Válvula,7,2,35
+192,Mantenimiento,2024-02-01,Planta Separadora,Bomba,17,2,68
+193,Perforación,2024-12-12,Refinería VacaMuerta,Tubería,14,4,28
+193,Perforación,2024-06-17,Planta Eléctrica Loma,Filtro,23,5,92
+193,Perforación,2024-10-20,Gasoducto Sur,Tanque,20,0,80
+193,Perforación,2024-12-10,Gasoducto Sur,Tanque,17,1,51
+194,Perforación,2024-02-22,Oleoducto Andino,Bomba,10,2,30
+194,Perforación,2024-03-04,Oleoducto Andino,Tanque,29,1,116
+194,Perforación,2024-02-08,Oleoducto Andino,Tanque,27,6,108
+195,Perforación,2024-03-21,Planta Separadora,Tubería,26,2,78
+195,Perforación,2024-02-04,Oleoducto Andino,Válvula,22,6,44
+195,Perforación,2024-10-07,Gasoducto Sur,Tubería,14,0,56
+195,Perforación,2024-05-17,Gasoducto Sur,Bomba,30,4,120
+195,Perforación,2024-01-14,Oleoducto Andino,Filtro,11,2,22
+196,Seguridad,2024-10-19,Planta Eléctrica Loma,Tubería,15,0,75
+196,Seguridad,2024-09-02,Planta Separadora,Filtro,22,0,44
+196,Seguridad,2024-04-01,Planta Separadora,Tanque,18,2,36
+196,Seguridad,2024-09-24,Oleoducto Andino,Filtro,25,1,50
+197,Producción,2024-01-17,Gasoducto Sur,Tanque,19,5,38
+197,Producción,2024-04-06,Gasoducto Sur,Filtro,28,1,84
+197,Producción,2024-01-08,Gasoducto Sur,Filtro,24,7,120
+197,Producción,2024-01-17,Oleoducto Andino,Bomba,18,6,36
+198,Mantenimiento,2024-05-18,Planta Eléctrica Loma,Tubería,20,6,60
+198,Mantenimiento,2024-03-01,Oleoducto Andino,Filtro,30,10,90
+198,Mantenimiento,2024-05-18,Planta Separadora,Filtro,19,0,38
+199,Producción,2024-04-10,Oleoducto Andino,Tanque,8,0,16
+199,Producción,2024-02-24,Planta Separadora,Bomba,5,1,10
+200,Producción,2024-11-07,Planta Eléctrica Loma,Filtro,30,7,60
+200,Producción,2024-09-12,Planta Eléctrica Loma,Bomba,16,4,64
+201,Mantenimiento,2024-10-11,Planta Eléctrica Loma,Tanque,9,0,45
+201,Mantenimiento,2024-09-19,Oleoducto Andino,Tubería,11,0,33
+201,Mantenimiento,2024-01-26,Oleoducto Andino,Filtro,9,3,27
+201,Mantenimiento,2024-05-09,Refinería VacaMuerta,Tanque,14,4,56
+201,Mantenimiento,2024-12-25,Planta Separadora,Bomba,13,0,52
+202,Logística,2024-06-19,Gasoducto Sur,Tanque,24,2,48
+202,Logística,2024-08-05,Oleoducto Andino,Tubería,11,2,44
+203,Seguridad,2024-10-12,Planta Eléctrica Loma,Bomba,21,1,84
+203,Seguridad,2024-06-01,Oleoducto Andino,Tanque,20,4,60
+203,Seguridad,2024-09-11,Planta Eléctrica Loma,Válvula,19,6,57
+203,Seguridad,2024-09-17,Planta Separadora,Tanque,30,9,150
+204,Logística,2024-04-24,Refinería VacaMuerta,Válvula,28,7,84
+204,Logística,2024-04-05,Gasoducto Sur,Tanque,28,1,84
+204,Logística,2024-09-23,Planta Eléctrica Loma,Tanque,8,0,16
+204,Logística,2024-11-05,Oleoducto Andino,Tubería,26,7,78
+205,Seguridad,2024-08-01,Gasoducto Sur,Tubería,29,5,145
+205,Seguridad,2024-04-24,Refinería VacaMuerta,Tubería,27,3,135
+205,Seguridad,2024-02-21,Oleoducto Andino,Tanque,12,1,60
+205,Seguridad,2024-09-21,Gasoducto Sur,Válvula,19,6,95
+205,Seguridad,2024-04-23,Refinería VacaMuerta,Bomba,28,8,56
+206,Producción,2024-12-10,Oleoducto Andino,Bomba,22,1,88
+206,Producción,2024-08-14,Gasoducto Sur,Tubería,18,1,90
+206,Producción,2024-12-18,Refinería VacaMuerta,Tanque,21,7,84
+206,Producción,2024-12-27,Planta Eléctrica Loma,Válvula,17,3,51
+206,Producción,2024-05-07,Planta Separadora,Filtro,17,5,51
+207,Perforación,2024-05-03,Planta Separadora,Bomba,9,2,27
+207,Perforación,2024-02-09,Planta Eléctrica Loma,Tanque,13,2,26
+207,Perforación,2024-02-22,Refinería VacaMuerta,Bomba,25,5,50
+207,Perforación,2024-03-15,Planta Separadora,Válvula,25,1,100
+207,Perforación,2024-06-19,Gasoducto Sur,Válvula,26,1,78
+208,Producción,2024-11-16,Refinería VacaMuerta,Válvula,10,0,40
+208,Producción,2024-01-06,Planta Separadora,Tanque,17,5,51
+209,Seguridad,2024-12-20,Planta Separadora,Válvula,24,1,48
+209,Seguridad,2024-01-15,Refinería VacaMuerta,Bomba,15,1,75
+209,Seguridad,2024-01-21,Planta Separadora,Tanque,5,1,20
+209,Seguridad,2024-08-13,Gasoducto Sur,Tanque,25,4,75
+210,Producción,2024-12-01,Planta Separadora,Tanque,13,3,39
+210,Producción,2024-09-19,Gasoducto Sur,Filtro,13,1,39
+211,Perforación,2024-04-08,Refinería VacaMuerta,Tubería,26,3,78
+211,Perforación,2024-01-04,Refinería VacaMuerta,Tanque,12,3,36
+212,Logística,2024-12-07,Planta Eléctrica Loma,Filtro,14,4,70
+212,Logística,2024-06-25,Gasoducto Sur,Válvula,19,1,95
+212,Logística,2024-06-13,Oleoducto Andino,Bomba,23,2,46
+212,Logística,2024-12-12,Planta Separadora,Válvula,11,0,44
+212,Logística,2024-03-08,Planta Separadora,Filtro,27,3,135
+213,Perforación,2024-05-08,Planta Separadora,Tanque,8,0,16
+213,Perforación,2024-12-16,Refinería VacaMuerta,Válvula,17,0,68
+214,Perforación,2024-06-19,Oleoducto Andino,Bomba,20,1,80
+214,Perforación,2024-04-01,Oleoducto Andino,Filtro,6,0,18
+215,Mantenimiento,2024-08-06,Oleoducto Andino,Tanque,7,1,28
+215,Mantenimiento,2024-04-06,Planta Eléctrica Loma,Válvula,24,8,48
+216,Logística,2024-01-22,Planta Separadora,Filtro,9,0,36
+216,Logística,2024-10-26,Oleoducto Andino,Tubería,27,1,108
+216,Logística,2024-07-02,Planta Eléctrica Loma,Bomba,26,1,52
+216,Logística,2024-08-14,Planta Eléctrica Loma,Bomba,6,0,12
+216,Logística,2024-10-05,Planta Eléctrica Loma,Válvula,19,4,76
+217,Logística,2024-08-24,Planta Eléctrica Loma,Bomba,6,2,24
+217,Logística,2024-06-12,Planta Eléctrica Loma,Tubería,10,3,20
+217,Logística,2024-03-15,Planta Separadora,Tanque,28,2,84
+217,Logística,2024-09-23,Planta Separadora,Filtro,17,3,51
+217,Logística,2024-06-12,Planta Eléctrica Loma,Tubería,22,0,44
+218,Perforación,2024-04-10,Planta Eléctrica Loma,Tanque,9,0,36
+218,Perforación,2024-05-03,Planta Separadora,Filtro,30,4,150
+219,Mantenimiento,2024-09-26,Planta Separadora,Tubería,18,0,72
+219,Mantenimiento,2024-03-14,Planta Separadora,Filtro,29,2,116
+219,Mantenimiento,2024-10-25,Refinería VacaMuerta,Bomba,12,2,60
+220,Perforación,2024-02-20,Planta Eléctrica Loma,Tubería,16,0,80
+220,Perforación,2024-11-01,Planta Eléctrica Loma,Tubería,19,4,38
+220,Perforación,2024-10-04,Planta Separadora,Tubería,14,4,28
+221,Logística,2024-07-13,Oleoducto Andino,Válvula,20,4,60
+221,Logística,2024-02-24,Planta Eléctrica Loma,Tubería,5,1,25
+222,Producción,2024-07-16,Planta Separadora,Filtro,8,1,24
+222,Producción,2024-12-16,Gasoducto Sur,Válvula,24,1,120
+222,Producción,2024-02-21,Refinería VacaMuerta,Válvula,19,3,95
+222,Producción,2024-11-03,Planta Separadora,Tanque,10,2,40
+222,Producción,2024-11-08,Refinería VacaMuerta,Válvula,20,0,40
+223,Mantenimiento,2024-04-20,Oleoducto Andino,Filtro,27,3,135
+223,Mantenimiento,2024-06-27,Refinería VacaMuerta,Filtro,16,3,48
+223,Mantenimiento,2024-04-18,Gasoducto Sur,Bomba,28,5,84
+223,Mantenimiento,2024-10-17,Planta Eléctrica Loma,Bomba,5,1,25
+224,Seguridad,2024-07-21,Refinería VacaMuerta,Válvula,8,1,32
+224,Seguridad,2024-10-21,Planta Eléctrica Loma,Tubería,27,0,108
+224,Seguridad,2024-06-19,Planta Separadora,Tubería,21,2,84
+224,Seguridad,2024-12-21,Planta Separadora,Válvula,19,0,76
+224,Seguridad,2024-07-04,Gasoducto Sur,Tubería,11,1,55
+225,Seguridad,2024-02-13,Planta Eléctrica Loma,Filtro,28,8,84
+225,Seguridad,2024-02-20,Oleoducto Andino,Válvula,26,0,130
+226,Producción,2024-08-25,Gasoducto Sur,Bomba,21,4,42
+226,Producción,2024-02-03,Oleoducto Andino,Válvula,5,1,10
+226,Producción,2024-02-23,Gasoducto Sur,Tubería,13,1,26
+226,Producción,2024-11-08,Refinería VacaMuerta,Válvula,5,1,20
+226,Producción,2024-04-01,Refinería VacaMuerta,Filtro,15,1,30
+227,Mantenimiento,2024-07-23,Oleoducto Andino,Filtro,23,5,46
+227,Mantenimiento,2024-05-23,Gasoducto Sur,Válvula,22,6,44
+228,Logística,2024-06-17,Refinería VacaMuerta,Bomba,17,5,51
+228,Logística,2024-07-14,Refinería VacaMuerta,Tanque,18,4,90
+228,Logística,2024-11-22,Planta Separadora,Válvula,14,0,42
+229,Perforación,2024-07-21,Oleoducto Andino,Tanque,30,0,60
+229,Perforación,2024-02-07,Refinería VacaMuerta,Tubería,27,9,135
+230,Producción,2024-04-03,Oleoducto Andino,Bomba,7,2,35
+230,Producción,2024-08-24,Oleoducto Andino,Filtro,19,6,38
+230,Producción,2024-03-01,Oleoducto Andino,Tanque,5,0,20
+230,Producción,2024-06-07,Planta Separadora,Válvula,13,2,52
+231,Perforación,2024-11-02,Gasoducto Sur,Tanque,30,5,60
+231,Perforación,2024-07-17,Oleoducto Andino,Filtro,10,0,30
+231,Perforación,2024-12-05,Planta Separadora,Bomba,21,1,42
+231,Perforación,2024-05-14,Gasoducto Sur,Filtro,5,0,20
+231,Perforación,2024-07-15,Oleoducto Andino,Válvula,8,2,16
+232,Logística,2024-05-03,Planta Eléctrica Loma,Tubería,23,2,69
+232,Logística,2024-03-03,Refinería VacaMuerta,Bomba,21,3,84
+233,Logística,2024-08-23,Oleoducto Andino,Tubería,23,3,92
+233,Logística,2024-04-13,Refinería VacaMuerta,Filtro,6,2,30
+233,Logística,2024-01-09,Planta Separadora,Tanque,27,5,54
+234,Logística,2024-09-02,Gasoducto Sur,Bomba,12,0,24
+234,Logística,2024-10-03,Planta Separadora,Filtro,17,5,34
+234,Logística,2024-11-02,Planta Eléctrica Loma,Válvula,17,1,68
+234,Logística,2024-09-27,Planta Separadora,Tubería,13,2,39
+235,Perforación,2024-12-01,Refinería VacaMuerta,Tubería,24,6,120
+235,Perforación,2024-04-18,Planta Eléctrica Loma,Válvula,22,4,88
+236,Seguridad,2024-01-04,Planta Separadora,Tanque,13,3,26
+236,Seguridad,2024-06-10,Gasoducto Sur,Tanque,20,3,40
+236,Seguridad,2024-03-17,Refinería VacaMuerta,Filtro,20,4,40
+237,Mantenimiento,2024-08-16,Planta Separadora,Bomba,17,2,34
+237,Mantenimiento,2024-09-17,Planta Eléctrica Loma,Válvula,14,2,70
+237,Mantenimiento,2024-03-21,Planta Separadora,Bomba,21,0,63
+238,Logística,2024-11-20,Oleoducto Andino,Válvula,14,2,28
+238,Logística,2024-01-28,Gasoducto Sur,Tubería,25,1,50
+239,Mantenimiento,2024-09-15,Gasoducto Sur,Tubería,16,4,80
+239,Mantenimiento,2024-08-16,Gasoducto Sur,Válvula,14,3,70
+240,Logística,2024-01-23,Oleoducto Andino,Filtro,15,3,75
+240,Logística,2024-09-26,Refinería VacaMuerta,Filtro,15,4,60
+240,Logística,2024-10-10,Refinería VacaMuerta,Tanque,11,3,22
+241,Mantenimiento,2024-01-10,Refinería VacaMuerta,Tanque,6,0,18
+241,Mantenimiento,2024-11-03,Refinería VacaMuerta,Bomba,5,0,15
+242,Seguridad,2024-10-03,Planta Eléctrica Loma,Filtro,26,2,78
+242,Seguridad,2024-02-20,Planta Separadora,Filtro,24,8,96
+243,Producción,2024-02-12,Oleoducto Andino,Válvula,12,0,60
+243,Producción,2024-07-17,Planta Separadora,Tanque,24,7,72
+243,Producción,2024-11-18,Planta Separadora,Válvula,21,5,63
+243,Producción,2024-09-09,Planta Separadora,Bomba,14,3,70
+244,Producción,2024-02-10,Gasoducto Sur,Filtro,11,1,33
+244,Producción,2024-01-19,Oleoducto Andino,Válvula,11,3,33
+245,Seguridad,2024-06-03,Planta Eléctrica Loma,Filtro,5,0,10
+245,Seguridad,2024-10-05,Planta Separadora,Bomba,9,2,36
+246,Producción,2024-11-10,Planta Separadora,Tubería,25,4,125
+246,Producción,2024-02-04,Planta Separadora,Tubería,18,2,90
+246,Producción,2024-06-03,Gasoducto Sur,Tubería,26,8,130
+246,Producción,2024-09-06,Oleoducto Andino,Válvula,10,2,50
+246,Producción,2024-03-12,Gasoducto Sur,Filtro,18,2,90
+247,Seguridad,2024-02-13,Planta Separadora,Tubería,7,1,14
+247,Seguridad,2024-06-10,Gasoducto Sur,Bomba,24,8,120
+247,Seguridad,2024-01-20,Gasoducto Sur,Válvula,22,3,44
+247,Seguridad,2024-03-26,Planta Eléctrica Loma,Bomba,17,3,51
+247,Seguridad,2024-05-08,Refinería VacaMuerta,Tanque,18,5,90
+248,Perforación,2024-09-21,Planta Separadora,Válvula,18,1,72
+248,Perforación,2024-03-14,Oleoducto Andino,Filtro,20,6,80
+248,Perforación,2024-02-24,Planta Eléctrica Loma,Filtro,16,1,80
+248,Perforación,2024-04-06,Gasoducto Sur,Bomba,6,2,12
+249,Producción,2024-11-23,Planta Eléctrica Loma,Tanque,22,3,110
+249,Producción,2024-04-08,Oleoducto Andino,Bomba,19,6,38
+249,Producción,2024-02-02,Gasoducto Sur,Tubería,25,8,50
+249,Producción,2024-07-19,Oleoducto Andino,Válvula,9,2,45
+249,Producción,2024-12-28,Gasoducto Sur,Tanque,27,7,135
+250,Producción,2024-07-01,Planta Eléctrica Loma,Válvula,17,5,68
+250,Producción,2024-02-25,Planta Eléctrica Loma,Tubería,7,2,14
+251,Perforación,2024-04-10,Oleoducto Andino,Válvula,30,6,150
+251,Perforación,2024-04-04,Refinería VacaMuerta,Bomba,17,2,51
+252,Producción,2024-10-03,Oleoducto Andino,Tanque,6,1,18
+252,Producción,2024-06-16,Planta Eléctrica Loma,Tubería,16,1,48
+253,Logística,2024-08-23,Planta Eléctrica Loma,Filtro,23,1,46
+253,Logística,2024-04-14,Refinería VacaMuerta,Tanque,21,1,42
+254,Mantenimiento,2024-08-22,Gasoducto Sur,Válvula,21,3,84
+254,Mantenimiento,2024-01-17,Planta Eléctrica Loma,Filtro,27,5,81
+255,Perforación,2024-10-23,Planta Eléctrica Loma,Bomba,11,3,33
+255,Perforación,2024-08-24,Refinería VacaMuerta,Válvula,24,2,96
+256,Perforación,2024-10-18,Refinería VacaMuerta,Válvula,6,1,24
+256,Perforación,2024-06-16,Oleoducto Andino,Filtro,22,5,88
+256,Perforación,2024-09-26,Gasoducto Sur,Válvula,27,5,81
+256,Perforación,2024-03-20,Gasoducto Sur,Bomba,23,4,92
+256,Perforación,2024-11-24,Oleoducto Andino,Válvula,27,0,54
+257,Seguridad,2024-03-12,Gasoducto Sur,Válvula,29,7,58
+257,Seguridad,2024-03-04,Planta Eléctrica Loma,Válvula,8,2,16
+257,Seguridad,2024-12-26,Refinería VacaMuerta,Filtro,15,2,75
+258,Logística,2024-08-23,Planta Eléctrica Loma,Bomba,20,0,80
+258,Logística,2024-09-11,Oleoducto Andino,Filtro,27,5,54
+258,Logística,2024-06-08,Gasoducto Sur,Válvula,14,0,42
+258,Logística,2024-01-05,Oleoducto Andino,Válvula,15,3,60
+259,Producción,2024-08-13,Refinería VacaMuerta,Tubería,24,5,120
+259,Producción,2024-08-07,Refinería VacaMuerta,Bomba,29,1,116
+259,Producción,2024-10-22,Gasoducto Sur,Tubería,24,8,96
+259,Producción,2024-04-20,Planta Separadora,Tubería,29,0,145
+259,Producción,2024-02-21,Planta Eléctrica Loma,Tubería,24,8,120
+260,Seguridad,2024-10-13,Gasoducto Sur,Bomba,14,2,28
+260,Seguridad,2024-02-07,Planta Eléctrica Loma,Válvula,11,3,55
+260,Seguridad,2024-05-14,Gasoducto Sur,Filtro,7,2,21
+261,Mantenimiento,2024-03-22,Planta Eléctrica Loma,Válvula,22,2,44
+261,Mantenimiento,2024-02-02,Planta Eléctrica Loma,Filtro,27,8,54
+262,Producción,2024-10-22,Gasoducto Sur,Válvula,11,0,44
+262,Producción,2024-07-17,Gasoducto Sur,Bomba,29,2,58
+262,Producción,2024-01-17,Planta Separadora,Filtro,15,3,45
+262,Producción,2024-05-20,Planta Separadora,Tubería,8,2,24
+263,Perforación,2024-07-24,Refinería VacaMuerta,Válvula,25,2,100
+263,Perforación,2024-06-17,Planta Separadora,Válvula,6,1,30
+263,Perforación,2024-08-20,Oleoducto Andino,Filtro,23,5,92
+263,Perforación,2024-07-11,Oleoducto Andino,Válvula,9,0,45
+264,Perforación,2024-08-03,Planta Eléctrica Loma,Bomba,22,5,88
+264,Perforación,2024-12-26,Oleoducto Andino,Tubería,9,2,27
+265,Mantenimiento,2024-05-21,Gasoducto Sur,Tubería,15,4,60
+265,Mantenimiento,2024-01-14,Gasoducto Sur,Tubería,18,0,90
+265,Mantenimiento,2024-07-12,Gasoducto Sur,Tubería,30,3,60
+265,Mantenimiento,2024-11-18,Planta Separadora,Bomba,15,2,75
+265,Mantenimiento,2024-06-24,Planta Eléctrica Loma,Bomba,5,1,20
+266,Perforación,2024-06-19,Planta Eléctrica Loma,Bomba,21,3,105
+266,Perforación,2024-06-09,Planta Separadora,Tubería,30,4,60
+266,Perforación,2024-09-25,Oleoducto Andino,Tubería,11,2,33
+266,Perforación,2024-11-03,Refinería VacaMuerta,Tubería,23,1,92
+267,Seguridad,2024-08-17,Planta Eléctrica Loma,Bomba,13,2,39
+267,Seguridad,2024-04-25,Oleoducto Andino,Bomba,19,3,76
+267,Seguridad,2024-05-06,Oleoducto Andino,Tubería,20,4,100
+268,Producción,2024-01-05,Refinería VacaMuerta,Filtro,20,0,80
+268,Producción,2024-12-18,Planta Eléctrica Loma,Tubería,30,0,150
+268,Producción,2024-04-14,Planta Eléctrica Loma,Válvula,17,5,51
+268,Producción,2024-04-11,Refinería VacaMuerta,Válvula,30,10,60
+269,Seguridad,2024-01-04,Refinería VacaMuerta,Válvula,29,3,58
+269,Seguridad,2024-12-03,Planta Eléctrica Loma,Tubería,13,4,26
+269,Seguridad,2024-02-21,Refinería VacaMuerta,Tanque,11,0,33
+269,Seguridad,2024-07-13,Refinería VacaMuerta,Tanque,23,2,115
+270,Producción,2024-12-15,Refinería VacaMuerta,Válvula,14,2,56
+270,Producción,2024-04-17,Oleoducto Andino,Filtro,17,0,85
+270,Producción,2024-07-19,Refinería VacaMuerta,Filtro,13,3,52
+270,Producción,2024-12-07,Gasoducto Sur,Válvula,29,4,58
+270,Producción,2024-01-21,Planta Separadora,Bomba,8,2,32
+271,Logística,2024-03-09,Gasoducto Sur,Filtro,5,1,20
+271,Logística,2024-05-23,Planta Separadora,Válvula,21,1,105
+271,Logística,2024-02-11,Planta Eléctrica Loma,Bomba,22,0,88
+271,Logística,2024-09-14,Planta Eléctrica Loma,Válvula,19,0,76
+271,Logística,2024-03-01,Refinería VacaMuerta,Tanque,19,5,95
+272,Producción,2024-12-27,Oleoducto Andino,Tanque,10,1,30
+272,Producción,2024-08-27,Planta Eléctrica Loma,Tubería,21,7,84
+272,Producción,2024-03-08,Gasoducto Sur,Bomba,5,1,25
+272,Producción,2024-08-01,Planta Separadora,Tanque,14,4,56
+272,Producción,2024-04-26,Oleoducto Andino,Válvula,24,1,48
+273,Perforación,2024-05-24,Planta Eléctrica Loma,Válvula,16,5,32
+273,Perforación,2024-05-16,Gasoducto Sur,Tubería,23,0,69
+273,Perforación,2024-02-05,Planta Separadora,Válvula,8,0,16
+273,Perforación,2024-09-13,Refinería VacaMuerta,Tanque,7,2,35
+273,Perforación,2024-08-16,Planta Separadora,Válvula,30,0,90
+274,Logística,2024-09-28,Oleoducto Andino,Tubería,7,0,28
+274,Logística,2024-08-01,Refinería VacaMuerta,Tanque,19,0,95
+274,Logística,2024-05-17,Refinería VacaMuerta,Filtro,22,2,66
+275,Producción,2024-05-04,Planta Separadora,Tanque,15,3,60
+275,Producción,2024-11-16,Gasoducto Sur,Válvula,8,2,16
+275,Producción,2024-11-25,Oleoducto Andino,Filtro,9,3,27
+276,Seguridad,2024-02-12,Refinería VacaMuerta,Válvula,25,6,125
+276,Seguridad,2024-01-15,Planta Separadora,Tubería,16,2,64
+276,Seguridad,2024-09-12,Refinería VacaMuerta,Bomba,9,1,27
+276,Seguridad,2024-09-11,Planta Separadora,Filtro,18,2,36
+276,Seguridad,2024-06-12,Oleoducto Andino,Bomba,15,4,30
+277,Producción,2024-10-15,Oleoducto Andino,Bomba,8,1,32
+277,Producción,2024-02-13,Oleoducto Andino,Tubería,12,4,24
+277,Producción,2024-04-23,Gasoducto Sur,Tubería,16,0,32
+277,Producción,2024-01-19,Oleoducto Andino,Tanque,8,2,24
+277,Producción,2024-01-11,Gasoducto Sur,Tanque,14,1,42
+278,Logística,2024-05-18,Refinería VacaMuerta,Tanque,27,7,54
+278,Logística,2024-09-28,Planta Separadora,Bomba,14,4,70
+278,Logística,2024-09-23,Planta Separadora,Tanque,12,3,24
+279,Logística,2024-12-06,Planta Separadora,Filtro,8,2,40
+279,Logística,2024-04-06,Gasoducto Sur,Tubería,9,2,36
+279,Logística,2024-02-07,Planta Separadora,Filtro,10,1,30
+280,Perforación,2024-04-07,Refinería VacaMuerta,Filtro,17,0,68
+280,Perforación,2024-04-08,Oleoducto Andino,Tubería,25,1,125
+280,Perforación,2024-03-04,Gasoducto Sur,Tubería,11,3,22
+280,Perforación,2024-07-07,Planta Separadora,Tanque,30,4,120
+280,Perforación,2024-06-07,Refinería VacaMuerta,Válvula,28,9,84
+281,Mantenimiento,2024-09-15,Gasoducto Sur,Válvula,26,7,104
+281,Mantenimiento,2024-10-05,Gasoducto Sur,Bomba,27,3,54
+281,Mantenimiento,2024-11-13,Oleoducto Andino,Válvula,22,7,44
+281,Mantenimiento,2024-05-01,Planta Eléctrica Loma,Bomba,8,1,16
+282,Producción,2024-05-22,Gasoducto Sur,Tubería,19,1,38
+282,Producción,2024-03-12,Refinería VacaMuerta,Válvula,19,1,38
+283,Perforación,2024-10-15,Planta Separadora,Tubería,6,0,12
+283,Perforación,2024-03-28,Oleoducto Andino,Filtro,14,4,70
+283,Perforación,2024-08-24,Planta Separadora,Tubería,17,0,51
+283,Perforación,2024-11-19,Refinería VacaMuerta,Tanque,17,5,68
+284,Producción,2024-09-02,Refinería VacaMuerta,Bomba,27,2,81
+284,Producción,2024-10-11,Planta Eléctrica Loma,Filtro,22,7,44
+284,Producción,2024-08-16,Planta Eléctrica Loma,Bomba,29,3,116
+285,Perforación,2024-02-26,Planta Eléctrica Loma,Filtro,23,0,46
+285,Perforación,2024-03-18,Refinería VacaMuerta,Válvula,16,2,64
+286,Perforación,2024-07-20,Planta Eléctrica Loma,Válvula,23,3,115
+286,Perforación,2024-06-19,Planta Separadora,Tubería,8,1,40
+286,Perforación,2024-02-20,Planta Separadora,Bomba,24,8,96
+286,Perforación,2024-08-15,Gasoducto Sur,Filtro,10,3,40
+286,Perforación,2024-11-20,Planta Separadora,Válvula,12,4,36
+287,Producción,2024-01-22,Gasoducto Sur,Filtro,20,6,80
+287,Producción,2024-12-01,Oleoducto Andino,Filtro,7,2,14
+288,Seguridad,2024-02-05,Planta Eléctrica Loma,Válvula,24,8,120
+288,Seguridad,2024-08-06,Planta Eléctrica Loma,Tubería,8,2,40
+288,Seguridad,2024-04-26,Refinería VacaMuerta,Filtro,25,0,75
+289,Logística,2024-12-05,Planta Eléctrica Loma,Tubería,22,2,66
+289,Logística,2024-01-16,Refinería VacaMuerta,Válvula,28,0,84
+290,Perforación,2024-03-10,Oleoducto Andino,Tanque,18,2,72
+290,Perforación,2024-09-20,Planta Eléctrica Loma,Tanque,28,1,112
+290,Perforación,2024-06-19,Planta Eléctrica Loma,Tubería,14,3,70
+290,Perforación,2024-04-25,Planta Eléctrica Loma,Tanque,12,2,36
+291,Mantenimiento,2024-12-28,Planta Eléctrica Loma,Válvula,17,5,68
+291,Mantenimiento,2024-05-13,Planta Separadora,Tanque,24,6,72
+292,Perforación,2024-11-02,Planta Separadora,Tubería,6,0,18
+292,Perforación,2024-05-18,Oleoducto Andino,Tubería,21,6,63
+292,Perforación,2024-05-11,Refinería VacaMuerta,Tanque,6,1,30
+292,Perforación,2024-11-11,Planta Eléctrica Loma,Válvula,23,1,115
+293,Mantenimiento,2024-07-17,Planta Eléctrica Loma,Filtro,15,4,60
+293,Mantenimiento,2024-06-06,Refinería VacaMuerta,Bomba,17,1,51
+294,Mantenimiento,2024-03-02,Refinería VacaMuerta,Filtro,24,4,120
+294,Mantenimiento,2024-03-10,Gasoducto Sur,Tubería,7,0,14
+294,Mantenimiento,2024-04-07,Planta Separadora,Bomba,7,0,14
+294,Mantenimiento,2024-07-05,Planta Separadora,Filtro,10,3,40
+295,Perforación,2024-10-24,Oleoducto Andino,Filtro,14,1,42
+295,Perforación,2024-02-08,Refinería VacaMuerta,Tanque,29,5,87
+295,Perforación,2024-05-01,Refinería VacaMuerta,Filtro,17,2,68
+295,Perforación,2024-06-17,Gasoducto Sur,Tubería,23,6,92
+296,Logística,2024-09-02,Gasoducto Sur,Filtro,23,1,46
+296,Logística,2024-10-14,Gasoducto Sur,Tubería,21,4,42
+296,Logística,2024-08-21,Planta Separadora,Tubería,18,0,72
+296,Logística,2024-01-13,Gasoducto Sur,Tanque,23,1,46
+296,Logística,2024-03-07,Oleoducto Andino,Tubería,22,2,110
+297,Seguridad,2024-01-10,Planta Separadora,Bomba,24,5,72
+297,Seguridad,2024-07-20,Refinería VacaMuerta,Bomba,13,2,65
+297,Seguridad,2024-02-27,Planta Separadora,Filtro,18,6,54
+297,Seguridad,2024-06-17,Refinería VacaMuerta,Tanque,10,3,50
+298,Perforación,2024-04-15,Planta Separadora,Bomba,14,1,70
+298,Perforación,2024-10-01,Planta Separadora,Bomba,23,3,92
+298,Perforación,2024-07-19,Planta Separadora,Bomba,26,6,104
+298,Perforación,2024-02-23,Gasoducto Sur,Tubería,21,3,63
+298,Perforación,2024-12-11,Planta Separadora,Tubería,14,4,42
+299,Producción,2024-10-02,Planta Eléctrica Loma,Filtro,17,3,68
+299,Producción,2024-01-01,Planta Eléctrica Loma,Bomba,30,10,150
+300,Mantenimiento,2024-11-06,Planta Eléctrica Loma,Válvula,20,2,80
+300,Mantenimiento,2024-12-16,Oleoducto Andino,Tubería,7,0,14
+300,Mantenimiento,2024-11-21,Gasoducto Sur,Filtro,18,2,54
+300,Mantenimiento,2024-05-19,Oleoducto Andino,Tanque,25,5,100
+300,Mantenimiento,2024-07-28,Gasoducto Sur,Bomba,15,1,75
+301,Logística,2024-01-23,Gasoducto Sur,Filtro,25,8,50
+301,Logística,2024-12-06,Oleoducto Andino,Tanque,15,5,30
+301,Logística,2024-02-16,Oleoducto Andino,Tanque,28,2,112
+301,Logística,2024-07-17,Refinería VacaMuerta,Tubería,27,5,54
+301,Logística,2024-08-12,Refinería VacaMuerta,Tubería,7,2,35
+302,Perforación,2024-05-28,Planta Separadora,Tanque,27,2,135
+302,Perforación,2024-06-05,Oleoducto Andino,Válvula,27,4,135
+302,Perforación,2024-10-08,Oleoducto Andino,Válvula,16,5,32
+303,Perforación,2024-11-21,Refinería VacaMuerta,Válvula,14,0,56
+303,Perforación,2024-05-27,Gasoducto Sur,Filtro,6,1,12
+303,Perforación,2024-02-12,Refinería VacaMuerta,Tubería,21,4,84
+304,Mantenimiento,2024-04-23,Gasoducto Sur,Válvula,26,3,130
+304,Mantenimiento,2024-11-17,Planta Separadora,Tubería,25,4,125
+304,Mantenimiento,2024-01-22,Refinería VacaMuerta,Tanque,26,2,130
+305,Seguridad,2024-07-28,Oleoducto Andino,Tubería,15,3,30
+305,Seguridad,2024-02-09,Oleoducto Andino,Válvula,7,2,14
+306,Logística,2024-04-22,Refinería VacaMuerta,Tubería,5,1,10
+306,Logística,2024-08-17,Planta Eléctrica Loma,Válvula,15,4,45
+306,Logística,2024-06-10,Planta Separadora,Tanque,6,2,12
+307,Seguridad,2024-06-17,Planta Separadora,Tubería,28,7,84
+307,Seguridad,2024-12-11,Planta Separadora,Bomba,26,6,104
+307,Seguridad,2024-04-26,Planta Separadora,Bomba,21,5,105
+308,Logística,2024-01-22,Oleoducto Andino,Tubería,9,1,18
+308,Logística,2024-12-27,Oleoducto Andino,Válvula,22,4,44
+308,Logística,2024-06-23,Refinería VacaMuerta,Filtro,21,1,42
+309,Perforación,2024-10-02,Planta Eléctrica Loma,Bomba,24,8,120
+309,Perforación,2024-02-02,Oleoducto Andino,Válvula,13,2,65
+309,Perforación,2024-08-08,Planta Eléctrica Loma,Bomba,11,3,22
+310,Seguridad,2024-07-10,Planta Eléctrica Loma,Filtro,22,7,88
+310,Seguridad,2024-12-04,Refinería VacaMuerta,Válvula,6,1,12
+311,Seguridad,2024-10-04,Refinería VacaMuerta,Bomba,21,3,105
+311,Seguridad,2024-02-07,Gasoducto Sur,Tanque,15,2,60
+312,Logística,2024-04-04,Oleoducto Andino,Tanque,30,3,150
+312,Logística,2024-05-12,Gasoducto Sur,Válvula,10,0,50
+312,Logística,2024-09-22,Planta Eléctrica Loma,Tanque,5,0,15
+313,Perforación,2024-11-27,Refinería VacaMuerta,Bomba,28,3,56
+313,Perforación,2024-04-09,Refinería VacaMuerta,Válvula,7,1,35
+314,Perforación,2024-12-17,Oleoducto Andino,Tanque,17,5,85
+314,Perforación,2024-09-20,Planta Eléctrica Loma,Válvula,25,4,75
+314,Perforación,2024-06-27,Oleoducto Andino,Bomba,17,2,34
+315,Mantenimiento,2024-08-01,Refinería VacaMuerta,Tubería,28,8,112
+315,Mantenimiento,2024-09-11,Planta Separadora,Válvula,14,0,56
+315,Mantenimiento,2024-09-06,Planta Eléctrica Loma,Filtro,21,4,42
+315,Mantenimiento,2024-06-28,Refinería VacaMuerta,Bomba,18,1,72
+315,Mantenimiento,2024-06-21,Planta Separadora,Válvula,5,1,15
+316,Mantenimiento,2024-09-10,Gasoducto Sur,Tanque,6,0,12
+316,Mantenimiento,2024-03-28,Refinería VacaMuerta,Filtro,11,1,55
+316,Mantenimiento,2024-07-24,Refinería VacaMuerta,Bomba,23,7,69
+316,Mantenimiento,2024-08-03,Refinería VacaMuerta,Válvula,19,1,76
+317,Perforación,2024-08-01,Planta Separadora,Bomba,5,0,10
+317,Perforación,2024-12-15,Planta Eléctrica Loma,Bomba,12,1,36
+317,Perforación,2024-02-16,Planta Eléctrica Loma,Bomba,18,1,72
+318,Perforación,2024-01-28,Planta Eléctrica Loma,Bomba,25,7,100
+318,Perforación,2024-02-09,Planta Separadora,Válvula,11,1,22
+318,Perforación,2024-04-09,Refinería VacaMuerta,Bomba,24,2,120
+319,Perforación,2024-05-19,Oleoducto Andino,Válvula,24,7,120
+319,Perforación,2024-04-04,Oleoducto Andino,Tanque,14,1,56
+320,Perforación,2024-04-06,Planta Separadora,Tubería,5,1,10
+320,Perforación,2024-03-14,Refinería VacaMuerta,Válvula,13,3,65
+321,Logística,2024-01-28,Planta Separadora,Filtro,19,4,95
+321,Logística,2024-11-27,Planta Eléctrica Loma,Tanque,27,3,108
+321,Logística,2024-02-25,Refinería VacaMuerta,Válvula,10,0,20
+321,Logística,2024-02-05,Refinería VacaMuerta,Tubería,23,1,69
+321,Logística,2024-07-08,Planta Eléctrica Loma,Filtro,11,1,55
+322,Seguridad,2024-03-03,Planta Eléctrica Loma,Tubería,5,0,20
+322,Seguridad,2024-10-03,Oleoducto Andino,Tubería,30,3,120
+322,Seguridad,2024-08-28,Oleoducto Andino,Tubería,14,2,28
+322,Seguridad,2024-03-03,Planta Separadora,Filtro,10,2,40
+323,Perforación,2024-08-17,Refinería VacaMuerta,Tubería,29,7,116
+323,Perforación,2024-11-12,Planta Eléctrica Loma,Tanque,28,4,112
+324,Producción,2024-05-14,Refinería VacaMuerta,Tubería,25,5,100
+324,Producción,2024-07-03,Planta Separadora,Tanque,13,1,39
+325,Mantenimiento,2024-09-19,Planta Separadora,Filtro,5,1,10
+325,Mantenimiento,2024-04-01,Planta Eléctrica Loma,Válvula,10,2,30
+326,Producción,2024-11-26,Planta Eléctrica Loma,Tanque,9,3,27
+326,Producción,2024-06-21,Planta Separadora,Filtro,23,7,115
+326,Producción,2024-11-24,Planta Separadora,Filtro,23,0,46
+326,Producción,2024-09-15,Gasoducto Sur,Tubería,11,0,55
+327,Mantenimiento,2024-09-06,Planta Eléctrica Loma,Tubería,9,3,27
+327,Mantenimiento,2024-05-02,Oleoducto Andino,Tanque,17,2,85
+327,Mantenimiento,2024-08-06,Refinería VacaMuerta,Tubería,17,4,85
+327,Mantenimiento,2024-06-13,Oleoducto Andino,Tanque,8,0,40
+327,Mantenimiento,2024-07-21,Gasoducto Sur,Filtro,15,5,75
+328,Producción,2024-04-24,Gasoducto Sur,Filtro,21,6,42
+328,Producción,2024-08-22,Planta Eléctrica Loma,Válvula,22,5,110
+328,Producción,2024-04-19,Planta Eléctrica Loma,Tubería,18,6,72
+329,Seguridad,2024-03-14,Gasoducto Sur,Tubería,22,7,66
+329,Seguridad,2024-07-16,Gasoducto Sur,Tubería,23,7,92
+329,Seguridad,2024-02-27,Planta Separadora,Tubería,23,0,69
+330,Perforación,2024-09-21,Planta Separadora,Filtro,30,5,90
+330,Perforación,2024-09-08,Gasoducto Sur,Bomba,29,8,87
+331,Logística,2024-10-04,Planta Separadora,Válvula,11,2,44
+331,Logística,2024-01-07,Gasoducto Sur,Bomba,27,3,135
+331,Logística,2024-09-18,Refinería VacaMuerta,Válvula,13,2,52
+331,Logística,2024-03-11,Planta Eléctrica Loma,Bomba,22,1,44
+331,Logística,2024-11-24,Planta Eléctrica Loma,Filtro,5,1,20
+332,Mantenimiento,2024-05-10,Oleoducto Andino,Filtro,16,4,64
+332,Mantenimiento,2024-12-15,Refinería VacaMuerta,Tanque,19,0,57
+332,Mantenimiento,2024-07-26,Oleoducto Andino,Filtro,21,4,105
+332,Mantenimiento,2024-02-19,Planta Eléctrica Loma,Bomba,5,1,25
+332,Mantenimiento,2024-07-17,Planta Eléctrica Loma,Bomba,28,7,112
+333,Producción,2024-10-20,Refinería VacaMuerta,Tanque,19,0,76
+333,Producción,2024-11-16,Planta Eléctrica Loma,Bomba,24,1,96
+333,Producción,2024-10-16,Refinería VacaMuerta,Bomba,5,1,25
+333,Producción,2024-02-13,Planta Eléctrica Loma,Filtro,29,0,58
+333,Producción,2024-04-21,Gasoducto Sur,Tubería,5,1,10
+334,Mantenimiento,2024-10-11,Oleoducto Andino,Tanque,14,4,28
+334,Mantenimiento,2024-02-19,Refinería VacaMuerta,Bomba,12,1,36
+334,Mantenimiento,2024-10-03,Gasoducto Sur,Válvula,22,0,44
+334,Mantenimiento,2024-06-07,Planta Separadora,Bomba,8,1,40
+334,Mantenimiento,2024-02-10,Oleoducto Andino,Bomba,14,0,56
+335,Mantenimiento,2024-11-13,Oleoducto Andino,Tanque,7,1,14
+335,Mantenimiento,2024-04-04,Oleoducto Andino,Tanque,19,2,57
+335,Mantenimiento,2024-06-14,Oleoducto Andino,Bomba,23,2,46
+335,Mantenimiento,2024-09-20,Gasoducto Sur,Bomba,9,3,45
+336,Seguridad,2024-06-08,Oleoducto Andino,Filtro,7,2,28
+336,Seguridad,2024-08-02,Planta Separadora,Válvula,15,1,60
+336,Seguridad,2024-11-14,Planta Separadora,Tanque,21,4,105
+336,Seguridad,2024-07-04,Planta Separadora,Válvula,14,4,42
+336,Seguridad,2024-09-09,Refinería VacaMuerta,Bomba,14,0,28
+337,Producción,2024-04-17,Oleoducto Andino,Bomba,12,1,60
+337,Producción,2024-08-10,Planta Eléctrica Loma,Bomba,29,3,116
+338,Logística,2024-09-12,Planta Separadora,Filtro,23,4,115
+338,Logística,2024-10-25,Planta Separadora,Filtro,12,4,24
+338,Logística,2024-12-19,Oleoducto Andino,Bomba,30,5,60
+339,Perforación,2024-11-26,Oleoducto Andino,Bomba,13,0,52
+339,Perforación,2024-10-09,Planta Separadora,Válvula,20,5,100
+339,Perforación,2024-08-11,Gasoducto Sur,Tubería,21,6,42
+340,Seguridad,2024-11-05,Planta Separadora,Tanque,9,0,18
+340,Seguridad,2024-05-25,Oleoducto Andino,Tanque,28,5,112
+341,Perforación,2024-02-25,Gasoducto Sur,Tubería,21,7,63
+341,Perforación,2024-01-10,Refinería VacaMuerta,Tubería,23,5,69
+341,Perforación,2024-12-01,Oleoducto Andino,Filtro,18,2,36
+342,Perforación,2024-11-04,Oleoducto Andino,Tubería,30,6,90
+342,Perforación,2024-04-09,Oleoducto Andino,Tanque,17,4,51
+342,Perforación,2024-08-15,Planta Separadora,Bomba,29,2,145
+343,Mantenimiento,2024-06-07,Planta Separadora,Tanque,10,1,50
+343,Mantenimiento,2024-11-06,Planta Eléctrica Loma,Tanque,22,2,66
+344,Seguridad,2024-06-20,Oleoducto Andino,Tanque,20,5,80
+344,Seguridad,2024-07-07,Gasoducto Sur,Válvula,20,4,60
+344,Seguridad,2024-01-20,Planta Separadora,Tubería,24,0,96
+344,Seguridad,2024-04-07,Planta Separadora,Bomba,22,4,88
+344,Seguridad,2024-04-22,Gasoducto Sur,Tanque,23,2,69
+345,Producción,2024-11-24,Oleoducto Andino,Válvula,16,0,80
+345,Producción,2024-04-02,Refinería VacaMuerta,Tubería,21,0,105
+346,Producción,2024-06-24,Planta Separadora,Válvula,14,2,42
+346,Producción,2024-01-14,Planta Eléctrica Loma,Válvula,25,7,100
+346,Producción,2024-04-06,Refinería VacaMuerta,Tubería,21,5,84
+346,Producción,2024-04-08,Refinería VacaMuerta,Bomba,28,6,56
+347,Perforación,2024-03-02,Gasoducto Sur,Bomba,26,5,78
+347,Perforación,2024-05-22,Refinería VacaMuerta,Válvula,25,3,125
+347,Perforación,2024-08-07,Oleoducto Andino,Filtro,21,4,42
+347,Perforación,2024-04-12,Refinería VacaMuerta,Válvula,15,0,45
+348,Logística,2024-05-06,Gasoducto Sur,Válvula,6,1,24
+348,Logística,2024-09-14,Planta Eléctrica Loma,Filtro,10,2,20
+348,Logística,2024-04-19,Refinería VacaMuerta,Válvula,15,2,30
+349,Mantenimiento,2024-07-12,Planta Eléctrica Loma,Bomba,26,8,104
+349,Mantenimiento,2024-01-22,Oleoducto Andino,Filtro,28,2,112
+349,Mantenimiento,2024-09-14,Oleoducto Andino,Tubería,6,1,12
+349,Mantenimiento,2024-02-26,Gasoducto Sur,Tanque,16,5,80
+350,Producción,2024-05-07,Planta Eléctrica Loma,Filtro,20,2,80
+350,Producción,2024-11-15,Planta Separadora,Válvula,15,4,45
+350,Producción,2024-02-24,Gasoducto Sur,Tubería,28,2,112
+350,Producción,2024-11-21,Planta Separadora,Válvula,29,2,145
+350,Producción,2024-12-24,Planta Separadora,Tanque,19,3,57
+351,Perforación,2024-05-03,Gasoducto Sur,Tanque,12,1,60
+351,Perforación,2024-07-27,Oleoducto Andino,Tanque,23,7,69
+351,Perforación,2024-12-10,Refinería VacaMuerta,Válvula,12,1,48
+352,Seguridad,2024-08-12,Gasoducto Sur,Válvula,15,0,60
+352,Seguridad,2024-10-10,Planta Eléctrica Loma,Bomba,16,5,32
+352,Seguridad,2024-07-09,Planta Eléctrica Loma,Bomba,13,4,65
+352,Seguridad,2024-12-05,Refinería VacaMuerta,Válvula,29,0,116
+353,Seguridad,2024-09-13,Oleoducto Andino,Tubería,21,3,105
+353,Seguridad,2024-04-20,Planta Separadora,Bomba,26,0,52
+353,Seguridad,2024-03-18,Refinería VacaMuerta,Bomba,10,0,30
+353,Seguridad,2024-11-20,Refinería VacaMuerta,Tubería,7,1,35
+354,Mantenimiento,2024-05-27,Gasoducto Sur,Tanque,24,4,120
+354,Mantenimiento,2024-08-19,Oleoducto Andino,Bomba,26,4,104
+354,Mantenimiento,2024-02-18,Refinería VacaMuerta,Bomba,22,3,88
+354,Mantenimiento,2024-04-11,Refinería VacaMuerta,Tubería,15,4,30
+354,Mantenimiento,2024-06-27,Gasoducto Sur,Tubería,17,0,51
+355,Logística,2024-03-20,Oleoducto Andino,Válvula,20,5,100
+355,Logística,2024-04-07,Gasoducto Sur,Válvula,14,0,70
+355,Logística,2024-01-18,Refinería VacaMuerta,Filtro,29,7,87
+355,Logística,2024-02-25,Gasoducto Sur,Tanque,17,3,85
+356,Logística,2024-01-15,Oleoducto Andino,Tanque,19,3,57
+356,Logística,2024-09-27,Planta Separadora,Filtro,30,8,120
+356,Logística,2024-07-23,Planta Eléctrica Loma,Bomba,7,1,14
+356,Logística,2024-11-03,Planta Separadora,Tubería,30,5,120
+357,Seguridad,2024-09-27,Oleoducto Andino,Filtro,22,6,110
+357,Seguridad,2024-07-03,Planta Separadora,Tanque,24,0,120
+357,Seguridad,2024-09-09,Oleoducto Andino,Tanque,11,0,44
+357,Seguridad,2024-01-18,Gasoducto Sur,Tubería,26,0,78
+357,Seguridad,2024-06-18,Planta Eléctrica Loma,Filtro,8,2,32
+358,Seguridad,2024-02-02,Gasoducto Sur,Tanque,14,1,70
+358,Seguridad,2024-10-11,Oleoducto Andino,Tanque,25,6,50
+358,Seguridad,2024-05-20,Gasoducto Sur,Tubería,9,2,36
+359,Producción,2024-11-10,Gasoducto Sur,Válvula,15,2,30
+359,Producción,2024-04-04,Planta Separadora,Válvula,28,5,84
+359,Producción,2024-05-27,Planta Separadora,Bomba,23,2,92
+359,Producción,2024-05-03,Gasoducto Sur,Válvula,18,0,54
+359,Producción,2024-05-25,Planta Eléctrica Loma,Tanque,25,3,100
+360,Perforación,2024-07-11,Planta Eléctrica Loma,Filtro,8,2,16
+360,Perforación,2024-07-25,Refinería VacaMuerta,Bomba,18,3,72
+360,Perforación,2024-06-02,Oleoducto Andino,Bomba,24,8,120
+360,Perforación,2024-07-24,Refinería VacaMuerta,Bomba,10,0,40
+360,Perforación,2024-02-27,Refinería VacaMuerta,Tanque,17,2,68
+361,Perforación,2024-10-15,Planta Separadora,Tubería,16,4,80
+361,Perforación,2024-05-26,Oleoducto Andino,Válvula,12,4,24
+361,Perforación,2024-10-21,Planta Separadora,Filtro,30,1,60
+362,Logística,2024-04-05,Oleoducto Andino,Bomba,10,2,40
+362,Logística,2024-06-16,Refinería VacaMuerta,Bomba,10,2,20
+362,Logística,2024-09-09,Planta Eléctrica Loma,Filtro,12,3,60
+363,Seguridad,2024-07-06,Refinería VacaMuerta,Válvula,19,1,76
+363,Seguridad,2024-03-24,Oleoducto Andino,Válvula,15,1,60
+363,Seguridad,2024-02-09,Oleoducto Andino,Válvula,20,3,100
+364,Perforación,2024-07-12,Planta Separadora,Bomba,21,4,63
+364,Perforación,2024-06-10,Planta Eléctrica Loma,Filtro,14,1,56
+364,Perforación,2024-01-26,Refinería VacaMuerta,Tubería,5,0,25
+365,Mantenimiento,2024-04-10,Oleoducto Andino,Válvula,16,5,32
+365,Mantenimiento,2024-07-27,Planta Eléctrica Loma,Bomba,22,6,44
+365,Mantenimiento,2024-05-11,Planta Separadora,Tanque,18,2,54
+365,Mantenimiento,2024-09-13,Planta Eléctrica Loma,Filtro,7,0,21
+366,Logística,2024-09-16,Refinería VacaMuerta,Válvula,21,7,42
+366,Logística,2024-01-04,Planta Separadora,Tanque,6,0,18
+366,Logística,2024-04-05,Planta Separadora,Tubería,30,10,90
+366,Logística,2024-10-16,Gasoducto Sur,Válvula,16,2,64
+366,Logística,2024-11-09,Planta Eléctrica Loma,Bomba,12,2,36
+367,Mantenimiento,2024-11-06,Gasoducto Sur,Tanque,14,1,56
+367,Mantenimiento,2024-02-06,Refinería VacaMuerta,Tanque,27,2,54
+368,Seguridad,2024-09-05,Refinería VacaMuerta,Tubería,29,3,58
+368,Seguridad,2024-02-25,Gasoducto Sur,Tubería,23,2,46
+368,Seguridad,2024-04-20,Planta Eléctrica Loma,Válvula,12,4,48
+368,Seguridad,2024-02-06,Planta Separadora,Tanque,8,1,40
+369,Mantenimiento,2024-02-10,Gasoducto Sur,Tubería,11,1,44
+369,Mantenimiento,2024-10-03,Gasoducto Sur,Bomba,29,9,87
+369,Mantenimiento,2024-01-10,Gasoducto Sur,Tanque,21,4,84
+369,Mantenimiento,2024-08-27,Gasoducto Sur,Filtro,5,0,20
+370,Seguridad,2024-12-05,Planta Eléctrica Loma,Tanque,18,4,36
+370,Seguridad,2024-01-02,Planta Eléctrica Loma,Bomba,30,10,150
+370,Seguridad,2024-08-09,Gasoducto Sur,Válvula,11,0,33
+371,Producción,2024-10-16,Gasoducto Sur,Válvula,19,2,76
+371,Producción,2024-01-13,Gasoducto Sur,Tubería,26,8,78
+371,Producción,2024-04-12,Gasoducto Sur,Tanque,15,4,75
+371,Producción,2024-03-26,Planta Eléctrica Loma,Tanque,23,6,92
+372,Mantenimiento,2024-04-22,Gasoducto Sur,Bomba,26,1,78
+372,Mantenimiento,2024-06-20,Oleoducto Andino,Tubería,17,2,85
+372,Mantenimiento,2024-03-20,Refinería VacaMuerta,Bomba,6,0,18
+372,Mantenimiento,2024-11-05,Refinería VacaMuerta,Tubería,19,1,38
+373,Seguridad,2024-02-09,Refinería VacaMuerta,Filtro,10,1,30
+373,Seguridad,2024-11-12,Refinería VacaMuerta,Válvula,5,1,20
+373,Seguridad,2024-02-07,Oleoducto Andino,Válvula,14,1,56
+373,Seguridad,2024-09-12,Planta Separadora,Filtro,6,1,30
+373,Seguridad,2024-10-14,Planta Separadora,Tanque,29,4,58
+374,Mantenimiento,2024-06-17,Gasoducto Sur,Filtro,8,0,16
+374,Mantenimiento,2024-06-01,Oleoducto Andino,Tanque,17,4,85
+374,Mantenimiento,2024-12-26,Planta Eléctrica Loma,Tubería,17,2,85
+374,Mantenimiento,2024-01-01,Refinería VacaMuerta,Filtro,24,5,72
+374,Mantenimiento,2024-07-08,Planta Separadora,Válvula,12,0,60
+375,Perforación,2024-01-23,Refinería VacaMuerta,Bomba,10,3,30
+375,Perforación,2024-04-12,Oleoducto Andino,Filtro,14,3,70
+375,Perforación,2024-10-28,Oleoducto Andino,Filtro,5,1,10
+375,Perforación,2024-10-02,Oleoducto Andino,Filtro,22,5,88
+376,Producción,2024-01-09,Planta Eléctrica Loma,Tubería,10,1,40
+376,Producción,2024-10-28,Oleoducto Andino,Filtro,21,1,63
+376,Producción,2024-06-20,Gasoducto Sur,Válvula,16,5,64
+376,Producción,2024-01-04,Planta Eléctrica Loma,Válvula,25,8,50
+376,Producción,2024-05-23,Planta Eléctrica Loma,Tanque,16,2,32
+377,Perforación,2024-02-10,Oleoducto Andino,Tanque,15,2,30
+377,Perforación,2024-06-10,Planta Separadora,Filtro,15,0,45
+377,Perforación,2024-02-10,Planta Separadora,Tanque,20,6,100
+377,Perforación,2024-07-20,Gasoducto Sur,Filtro,15,5,60
+377,Perforación,2024-09-17,Planta Eléctrica Loma,Bomba,23,7,46
+378,Seguridad,2024-04-07,Oleoducto Andino,Tubería,14,2,56
+378,Seguridad,2024-01-13,Refinería VacaMuerta,Válvula,20,5,100
+378,Seguridad,2024-03-22,Oleoducto Andino,Bomba,26,6,78
+379,Logística,2024-03-20,Refinería VacaMuerta,Tanque,12,4,60
+379,Logística,2024-06-18,Gasoducto Sur,Tubería,30,6,60
+379,Logística,2024-08-01,Planta Separadora,Válvula,8,1,32
+379,Logística,2024-03-13,Gasoducto Sur,Tubería,18,0,54
+380,Perforación,2024-10-20,Gasoducto Sur,Tubería,14,1,70
+380,Perforación,2024-03-03,Planta Eléctrica Loma,Tubería,10,1,20
+380,Perforación,2024-08-01,Planta Separadora,Válvula,29,8,145
+380,Perforación,2024-07-17,Refinería VacaMuerta,Tanque,24,3,96
+380,Perforación,2024-11-06,Refinería VacaMuerta,Filtro,20,2,40
+381,Producción,2024-01-08,Oleoducto Andino,Tubería,30,5,60
+381,Producción,2024-04-11,Gasoducto Sur,Tubería,28,2,112
+381,Producción,2024-11-03,Planta Separadora,Filtro,30,4,60
+381,Producción,2024-06-26,Gasoducto Sur,Válvula,29,3,145
+381,Producción,2024-12-11,Planta Eléctrica Loma,Filtro,7,1,21
+382,Mantenimiento,2024-12-23,Oleoducto Andino,Tanque,12,1,36
+382,Mantenimiento,2024-05-17,Gasoducto Sur,Filtro,28,5,56
+383,Seguridad,2024-06-25,Gasoducto Sur,Filtro,11,1,55
+383,Seguridad,2024-04-11,Planta Eléctrica Loma,Tanque,25,6,125
+383,Seguridad,2024-12-03,Refinería VacaMuerta,Tanque,19,0,38
+384,Logística,2024-08-15,Gasoducto Sur,Válvula,27,6,108
+384,Logística,2024-11-07,Gasoducto Sur,Filtro,20,2,40
+384,Logística,2024-09-16,Gasoducto Sur,Filtro,9,0,36
+385,Logística,2024-01-02,Refinería VacaMuerta,Tubería,5,0,25
+385,Logística,2024-09-02,Gasoducto Sur,Bomba,5,1,25
+386,Mantenimiento,2024-10-09,Gasoducto Sur,Tubería,16,2,80
+386,Mantenimiento,2024-09-01,Oleoducto Andino,Válvula,21,1,42
+387,Mantenimiento,2024-07-05,Gasoducto Sur,Filtro,11,2,22
+387,Mantenimiento,2024-04-15,Planta Separadora,Tanque,9,2,45
+388,Mantenimiento,2024-04-13,Refinería VacaMuerta,Tanque,5,1,15
+388,Mantenimiento,2024-11-08,Oleoducto Andino,Bomba,5,1,25
+388,Mantenimiento,2024-09-20,Gasoducto Sur,Tanque,21,2,84
+388,Mantenimiento,2024-08-14,Planta Separadora,Válvula,18,3,72
+388,Mantenimiento,2024-12-11,Oleoducto Andino,Tanque,14,1,42
+389,Seguridad,2024-03-01,Planta Separadora,Válvula,16,5,64
+389,Seguridad,2024-07-13,Refinería VacaMuerta,Tanque,18,4,36
+389,Seguridad,2024-05-18,Refinería VacaMuerta,Tanque,25,7,75
+389,Seguridad,2024-07-27,Gasoducto Sur,Tanque,26,4,52
+390,Producción,2024-09-23,Oleoducto Andino,Bomba,15,3,75
+390,Producción,2024-10-11,Refinería VacaMuerta,Válvula,21,1,42
+390,Producción,2024-11-09,Planta Separadora,Filtro,19,6,76
+390,Producción,2024-08-15,Planta Eléctrica Loma,Tanque,28,1,56
+391,Seguridad,2024-10-07,Planta Eléctrica Loma,Válvula,25,3,50
+391,Seguridad,2024-07-08,Refinería VacaMuerta,Tanque,5,0,10
+391,Seguridad,2024-12-15,Refinería VacaMuerta,Filtro,25,5,50
+392,Seguridad,2024-02-05,Planta Eléctrica Loma,Bomba,5,0,10
+392,Seguridad,2024-10-12,Planta Separadora,Tubería,18,0,90
+393,Seguridad,2024-10-25,Planta Separadora,Tanque,30,2,120
+393,Seguridad,2024-06-06,Planta Eléctrica Loma,Tanque,23,2,46
+394,Perforación,2024-09-26,Gasoducto Sur,Tanque,19,5,95
+394,Perforación,2024-06-22,Refinería VacaMuerta,Filtro,21,3,84
+395,Perforación,2024-10-24,Planta Separadora,Válvula,29,4,116
+395,Perforación,2024-01-19,Planta Eléctrica Loma,Tubería,25,2,100
+395,Perforación,2024-04-17,Refinería VacaMuerta,Bomba,5,1,20
+395,Perforación,2024-05-05,Oleoducto Andino,Filtro,6,2,18
+395,Perforación,2024-03-19,Planta Separadora,Válvula,22,5,110
+396,Logística,2024-04-16,Planta Eléctrica Loma,Filtro,10,0,20
+396,Logística,2024-06-06,Oleoducto Andino,Tubería,30,1,60
+396,Logística,2024-06-27,Gasoducto Sur,Bomba,17,3,68
+396,Logística,2024-03-14,Refinería VacaMuerta,Tubería,12,1,24
+396,Logística,2024-06-16,Planta Separadora,Filtro,12,0,24
+397,Logística,2024-05-20,Planta Separadora,Tubería,30,9,90
+397,Logística,2024-05-17,Gasoducto Sur,Tubería,12,2,24
+398,Producción,2024-09-23,Refinería VacaMuerta,Filtro,13,1,52
+398,Producción,2024-11-01,Refinería VacaMuerta,Válvula,13,0,39
+398,Producción,2024-07-23,Planta Separadora,Válvula,7,2,14
+398,Producción,2024-12-03,Gasoducto Sur,Tanque,17,1,85
+398,Producción,2024-12-15,Gasoducto Sur,Filtro,28,8,140
+399,Producción,2024-03-09,Oleoducto Andino,Tubería,30,4,60
+399,Producción,2024-06-08,Refinería VacaMuerta,Válvula,25,7,125
+399,Producción,2024-04-09,Planta Separadora,Bomba,11,3,33
+399,Producción,2024-05-20,Oleoducto Andino,Válvula,13,0,26
+400,Perforación,2024-10-11,Gasoducto Sur,Filtro,20,2,40
+400,Perforación,2024-11-16,Refinería VacaMuerta,Tubería,13,0,26
+400,Perforación,2024-03-27,Planta Eléctrica Loma,Filtro,22,3,88
+400,Perforación,2024-04-23,Planta Eléctrica Loma,Filtro,26,3,52
+400,Perforación,2024-10-05,Planta Eléctrica Loma,Bomba,30,10,150
+401,Perforación,2024-09-28,Planta Eléctrica Loma,Filtro,21,3,105
+401,Perforación,2024-12-02,Planta Separadora,Filtro,22,1,66
+401,Perforación,2024-08-14,Planta Separadora,Bomba,20,3,60
+401,Perforación,2024-11-13,Planta Separadora,Válvula,21,4,63
+401,Perforación,2024-05-11,Gasoducto Sur,Bomba,26,6,130
+402,Producción,2024-11-20,Planta Eléctrica Loma,Tanque,27,8,108
+402,Producción,2024-06-27,Planta Eléctrica Loma,Tubería,10,2,20
+403,Mantenimiento,2024-11-07,Planta Eléctrica Loma,Filtro,6,1,12
+403,Mantenimiento,2024-04-23,Oleoducto Andino,Tanque,18,5,36
+403,Mantenimiento,2024-08-15,Gasoducto Sur,Válvula,14,4,42
+404,Seguridad,2024-09-09,Oleoducto Andino,Bomba,9,3,27
+404,Seguridad,2024-05-16,Planta Separadora,Tubería,24,3,120
+404,Seguridad,2024-01-28,Planta Separadora,Tubería,15,1,75
+404,Seguridad,2024-06-23,Refinería VacaMuerta,Tubería,26,8,52
+405,Logística,2024-10-04,Planta Separadora,Tubería,8,2,24
+405,Logística,2024-01-27,Gasoducto Sur,Tanque,28,0,112
+405,Logística,2024-03-07,Planta Eléctrica Loma,Tubería,29,9,145
+405,Logística,2024-12-12,Planta Separadora,Tanque,19,0,95
+405,Logística,2024-09-27,Planta Separadora,Válvula,17,1,85
+406,Logística,2024-11-03,Planta Eléctrica Loma,Tanque,7,2,28
+406,Logística,2024-08-06,Gasoducto Sur,Filtro,17,4,34
+406,Logística,2024-03-02,Planta Eléctrica Loma,Filtro,25,2,50
+406,Logística,2024-01-22,Oleoducto Andino,Tanque,14,4,56
+407,Producción,2024-03-10,Planta Eléctrica Loma,Tubería,12,2,60
+407,Producción,2024-03-28,Refinería VacaMuerta,Tubería,19,3,76
+407,Producción,2024-02-01,Planta Eléctrica Loma,Filtro,26,7,52
+407,Producción,2024-12-22,Planta Separadora,Filtro,26,0,78
+408,Perforación,2024-06-11,Planta Separadora,Tanque,23,0,46
+408,Perforación,2024-02-01,Planta Separadora,Tubería,15,3,60
+409,Seguridad,2024-12-26,Oleoducto Andino,Tanque,10,2,50
+409,Seguridad,2024-10-02,Planta Eléctrica Loma,Tanque,5,0,20
+409,Seguridad,2024-11-21,Oleoducto Andino,Bomba,12,4,24
+409,Seguridad,2024-09-12,Planta Separadora,Válvula,14,3,70
+410,Perforación,2024-02-12,Planta Separadora,Válvula,7,1,14
+410,Perforación,2024-11-24,Planta Eléctrica Loma,Válvula,19,0,95
+410,Perforación,2024-02-15,Refinería VacaMuerta,Tubería,30,5,150
+410,Perforación,2024-06-28,Planta Eléctrica Loma,Tanque,12,0,48
+410,Perforación,2024-10-05,Planta Separadora,Filtro,17,4,34
+411,Perforación,2024-02-07,Oleoducto Andino,Tanque,26,3,104
+411,Perforación,2024-12-12,Planta Separadora,Bomba,5,0,10
+412,Seguridad,2024-12-26,Planta Eléctrica Loma,Bomba,13,1,65
+412,Seguridad,2024-06-08,Planta Separadora,Tubería,29,1,145
+413,Producción,2024-05-19,Planta Separadora,Bomba,19,0,57
+413,Producción,2024-02-01,Oleoducto Andino,Tanque,15,3,30
+413,Producción,2024-01-11,Oleoducto Andino,Tubería,26,2,104
+414,Producción,2024-09-17,Planta Separadora,Tanque,30,1,120
+414,Producción,2024-03-22,Oleoducto Andino,Tubería,21,4,42
+414,Producción,2024-03-10,Oleoducto Andino,Tanque,27,2,54
+414,Producción,2024-12-01,Refinería VacaMuerta,Filtro,24,5,72
+414,Producción,2024-02-24,Refinería VacaMuerta,Tanque,15,2,45
+415,Seguridad,2024-04-24,Gasoducto Sur,Válvula,27,8,54
+415,Seguridad,2024-01-01,Planta Separadora,Bomba,5,0,20
+416,Producción,2024-06-14,Refinería VacaMuerta,Bomba,6,2,18
+416,Producción,2024-06-03,Gasoducto Sur,Válvula,12,3,24
+416,Producción,2024-07-12,Gasoducto Sur,Tubería,30,9,120
+417,Perforación,2024-01-18,Oleoducto Andino,Válvula,7,0,14
+417,Perforación,2024-03-19,Refinería VacaMuerta,Filtro,13,0,26
+417,Perforación,2024-02-09,Planta Separadora,Bomba,28,5,140
+418,Producción,2024-10-09,Planta Eléctrica Loma,Bomba,19,2,57
+418,Producción,2024-01-22,Refinería VacaMuerta,Tubería,10,0,50
+418,Producción,2024-02-22,Planta Separadora,Filtro,29,1,116
+418,Producción,2024-12-10,Planta Eléctrica Loma,Válvula,27,0,54
+419,Seguridad,2024-05-11,Planta Eléctrica Loma,Bomba,16,4,80
+419,Seguridad,2024-02-19,Oleoducto Andino,Filtro,10,0,40
+419,Seguridad,2024-02-24,Planta Separadora,Filtro,13,3,52
+419,Seguridad,2024-09-07,Gasoducto Sur,Tanque,10,0,40
+420,Logística,2024-05-27,Planta Separadora,Filtro,20,3,100
+420,Logística,2024-01-23,Refinería VacaMuerta,Bomba,25,7,75
+421,Perforación,2024-08-08,Gasoducto Sur,Filtro,6,2,30
+421,Perforación,2024-12-12,Gasoducto Sur,Tubería,10,1,40
+421,Perforación,2024-02-04,Planta Separadora,Tanque,26,3,52
+421,Perforación,2024-03-19,Planta Eléctrica Loma,Filtro,26,6,104
+422,Seguridad,2024-01-17,Gasoducto Sur,Tanque,19,6,76
+422,Seguridad,2024-09-10,Gasoducto Sur,Filtro,27,5,54
+422,Seguridad,2024-02-28,Oleoducto Andino,Tubería,23,0,46
+423,Seguridad,2024-09-06,Planta Separadora,Tubería,9,2,45
+423,Seguridad,2024-06-04,Refinería VacaMuerta,Válvula,24,8,96
+423,Seguridad,2024-03-24,Planta Eléctrica Loma,Bomba,11,1,33
+423,Seguridad,2024-06-11,Refinería VacaMuerta,Tubería,27,7,108
+423,Seguridad,2024-03-07,Planta Separadora,Filtro,8,0,16
+424,Logística,2024-09-27,Gasoducto Sur,Tubería,28,5,84
+424,Logística,2024-11-09,Oleoducto Andino,Tanque,8,1,24
+425,Seguridad,2024-08-28,Oleoducto Andino,Bomba,5,0,20
+425,Seguridad,2024-10-26,Planta Eléctrica Loma,Tanque,11,1,44
+425,Seguridad,2024-01-13,Planta Separadora,Tanque,11,3,22
+425,Seguridad,2024-12-15,Refinería VacaMuerta,Válvula,10,3,40
+425,Seguridad,2024-05-02,Gasoducto Sur,Tubería,16,0,48
+426,Seguridad,2024-06-26,Refinería VacaMuerta,Filtro,8,2,40
+426,Seguridad,2024-02-20,Gasoducto Sur,Tubería,26,7,104
+427,Seguridad,2024-08-06,Refinería VacaMuerta,Válvula,22,4,66
+427,Seguridad,2024-06-05,Planta Eléctrica Loma,Válvula,8,1,16
+427,Seguridad,2024-02-08,Refinería VacaMuerta,Bomba,20,5,80
+427,Seguridad,2024-01-25,Refinería VacaMuerta,Tubería,12,1,48
+427,Seguridad,2024-07-07,Oleoducto Andino,Filtro,8,0,40
+428,Mantenimiento,2024-04-15,Planta Separadora,Bomba,17,1,68
+428,Mantenimiento,2024-11-10,Planta Separadora,Válvula,13,0,65
+428,Mantenimiento,2024-06-09,Planta Separadora,Tubería,21,2,84
+428,Mantenimiento,2024-04-04,Planta Eléctrica Loma,Filtro,17,5,85
+428,Mantenimiento,2024-05-17,Oleoducto Andino,Tubería,11,1,33
+429,Mantenimiento,2024-02-19,Oleoducto Andino,Tubería,8,1,16
+429,Mantenimiento,2024-12-15,Refinería VacaMuerta,Tubería,7,1,35
+430,Logística,2024-07-09,Oleoducto Andino,Tanque,14,0,56
+430,Logística,2024-07-04,Planta Eléctrica Loma,Bomba,20,3,100
+430,Logística,2024-03-01,Gasoducto Sur,Válvula,21,5,63
+430,Logística,2024-04-21,Planta Separadora,Tubería,17,2,68
+430,Logística,2024-07-07,Refinería VacaMuerta,Tubería,7,1,14
+431,Perforación,2024-08-12,Planta Separadora,Tubería,7,2,21
+431,Perforación,2024-03-15,Oleoducto Andino,Válvula,14,4,28
+431,Perforación,2024-09-21,Planta Eléctrica Loma,Bomba,27,1,54
+432,Mantenimiento,2024-10-07,Planta Separadora,Bomba,22,2,110
+432,Mantenimiento,2024-05-28,Gasoducto Sur,Filtro,19,1,76
+432,Mantenimiento,2024-07-25,Planta Separadora,Bomba,17,2,85
+432,Mantenimiento,2024-03-17,Planta Eléctrica Loma,Tanque,20,2,60
+433,Seguridad,2024-12-21,Refinería VacaMuerta,Válvula,10,2,30
+433,Seguridad,2024-03-05,Planta Separadora,Bomba,20,6,80
+433,Seguridad,2024-06-06,Planta Eléctrica Loma,Válvula,18,5,72
+434,Mantenimiento,2024-06-22,Refinería VacaMuerta,Tanque,11,0,44
+434,Mantenimiento,2024-03-04,Planta Eléctrica Loma,Bomba,9,1,45
+434,Mantenimiento,2024-08-13,Gasoducto Sur,Tubería,30,1,90
+435,Producción,2024-10-12,Planta Eléctrica Loma,Bomba,15,4,60
+435,Producción,2024-04-20,Planta Separadora,Tubería,21,1,105
+435,Producción,2024-08-20,Refinería VacaMuerta,Tanque,24,2,96
+435,Producción,2024-04-27,Oleoducto Andino,Bomba,11,2,22
+435,Producción,2024-09-01,Planta Separadora,Tanque,16,0,80
+436,Perforación,2024-10-02,Refinería VacaMuerta,Filtro,20,4,100
+436,Perforación,2024-01-24,Oleoducto Andino,Válvula,13,4,26
+437,Logística,2024-06-28,Gasoducto Sur,Bomba,26,2,104
+437,Logística,2024-02-21,Refinería VacaMuerta,Bomba,21,6,63
+437,Logística,2024-10-18,Planta Separadora,Bomba,27,4,135
+437,Logística,2024-02-22,Planta Separadora,Filtro,14,4,28
+437,Logística,2024-11-16,Refinería VacaMuerta,Válvula,16,3,32
+438,Seguridad,2024-04-04,Oleoducto Andino,Bomba,24,3,120
+438,Seguridad,2024-07-25,Gasoducto Sur,Tubería,5,1,10
+438,Seguridad,2024-10-20,Refinería VacaMuerta,Válvula,5,0,15
+438,Seguridad,2024-07-10,Gasoducto Sur,Bomba,17,4,85
+438,Seguridad,2024-11-05,Oleoducto Andino,Tanque,23,2,69
+439,Producción,2024-12-22,Planta Eléctrica Loma,Tubería,24,7,48
+439,Producción,2024-11-02,Planta Separadora,Tubería,10,1,20
+440,Producción,2024-01-08,Refinería VacaMuerta,Filtro,15,4,30
+440,Producción,2024-10-24,Planta Eléctrica Loma,Válvula,19,3,57
+440,Producción,2024-12-19,Gasoducto Sur,Válvula,23,1,69
+441,Perforación,2024-12-25,Gasoducto Sur,Tanque,26,8,52
+441,Perforación,2024-11-12,Oleoducto Andino,Bomba,16,2,48
+442,Mantenimiento,2024-01-06,Oleoducto Andino,Tanque,10,3,30
+442,Mantenimiento,2024-09-09,Oleoducto Andino,Bomba,8,2,16
+443,Producción,2024-09-13,Oleoducto Andino,Tanque,15,5,75
+443,Producción,2024-06-14,Planta Eléctrica Loma,Filtro,25,7,100
+443,Producción,2024-05-06,Planta Eléctrica Loma,Bomba,19,5,95
+443,Producción,2024-02-21,Oleoducto Andino,Filtro,11,1,55
+444,Seguridad,2024-08-25,Planta Eléctrica Loma,Tanque,24,8,72
+444,Seguridad,2024-12-01,Gasoducto Sur,Tanque,22,0,88
+444,Seguridad,2024-07-22,Gasoducto Sur,Filtro,28,4,140
+444,Seguridad,2024-12-15,Planta Separadora,Filtro,6,1,30
+445,Seguridad,2024-12-26,Planta Separadora,Bomba,23,4,69
+445,Seguridad,2024-10-11,Gasoducto Sur,Válvula,6,2,30
+446,Producción,2024-03-25,Planta Eléctrica Loma,Tubería,24,3,96
+446,Producción,2024-08-16,Planta Separadora,Tanque,20,4,100
+447,Perforación,2024-04-16,Oleoducto Andino,Tanque,14,0,42
+447,Perforación,2024-10-14,Planta Separadora,Tanque,17,2,51
+448,Perforación,2024-04-27,Gasoducto Sur,Bomba,17,3,68
+448,Perforación,2024-04-22,Planta Separadora,Bomba,5,0,15
+448,Perforación,2024-07-01,Gasoducto Sur,Bomba,7,2,14
+449,Logística,2024-10-25,Planta Eléctrica Loma,Bomba,25,1,100
+449,Logística,2024-11-07,Planta Eléctrica Loma,Filtro,7,2,28
+449,Logística,2024-04-03,Planta Separadora,Tubería,7,2,28
+450,Perforación,2024-10-14,Oleoducto Andino,Tanque,24,6,120
+450,Perforación,2024-12-25,Planta Separadora,Tanque,22,6,66
+451,Producción,2024-11-12,Planta Eléctrica Loma,Tubería,18,6,72
+451,Producción,2024-09-18,Oleoducto Andino,Tubería,30,9,150
+451,Producción,2024-08-24,Refinería VacaMuerta,Válvula,9,1,45
+452,Seguridad,2024-03-13,Planta Separadora,Tubería,25,4,75
+452,Seguridad,2024-12-15,Planta Separadora,Bomba,16,3,48
+452,Seguridad,2024-12-14,Gasoducto Sur,Tubería,5,0,20
+453,Perforación,2024-03-20,Planta Eléctrica Loma,Bomba,19,4,38
+453,Perforación,2024-06-19,Refinería VacaMuerta,Bomba,10,2,50
+453,Perforación,2024-06-28,Planta Separadora,Válvula,16,0,48
+454,Producción,2024-09-02,Oleoducto Andino,Tubería,6,0,24
+454,Producción,2024-03-04,Refinería VacaMuerta,Tanque,25,5,100
+454,Producción,2024-01-28,Refinería VacaMuerta,Tubería,13,0,65
+454,Producción,2024-08-22,Planta Eléctrica Loma,Tubería,9,3,45
+454,Producción,2024-05-11,Oleoducto Andino,Bomba,24,2,96
+455,Seguridad,2024-11-27,Gasoducto Sur,Tanque,18,2,36
+455,Seguridad,2024-01-06,Gasoducto Sur,Filtro,30,7,60
+455,Seguridad,2024-10-05,Refinería VacaMuerta,Tanque,17,4,51
+456,Perforación,2024-09-28,Oleoducto Andino,Tanque,16,2,80
+456,Perforación,2024-08-08,Planta Separadora,Bomba,10,1,30
+457,Perforación,2024-04-15,Planta Separadora,Tubería,25,4,50
+457,Perforación,2024-06-06,Refinería VacaMuerta,Tanque,13,3,52
+457,Perforación,2024-11-12,Refinería VacaMuerta,Tubería,16,1,80
+458,Perforación,2024-04-08,Gasoducto Sur,Filtro,12,1,48
+458,Perforación,2024-01-15,Oleoducto Andino,Filtro,25,1,100
+458,Perforación,2024-11-07,Oleoducto Andino,Válvula,21,3,42
+458,Perforación,2024-12-21,Oleoducto Andino,Válvula,30,7,150
+459,Producción,2024-12-12,Oleoducto Andino,Tubería,10,2,20
+459,Producción,2024-05-21,Planta Separadora,Tubería,16,1,80
+460,Seguridad,2024-01-20,Oleoducto Andino,Bomba,25,4,50
+460,Seguridad,2024-10-23,Oleoducto Andino,Válvula,16,1,32
+460,Seguridad,2024-06-11,Gasoducto Sur,Válvula,15,1,30
+461,Mantenimiento,2024-11-01,Refinería VacaMuerta,Tanque,20,6,100
+461,Mantenimiento,2024-10-25,Planta Eléctrica Loma,Tubería,21,0,63
+461,Mantenimiento,2024-11-03,Planta Eléctrica Loma,Bomba,22,4,66
+461,Mantenimiento,2024-09-12,Planta Separadora,Tanque,12,2,36
+462,Producción,2024-06-06,Planta Separadora,Filtro,30,5,90
+462,Producción,2024-04-08,Refinería VacaMuerta,Bomba,5,1,20
+462,Producción,2024-09-21,Oleoducto Andino,Filtro,18,6,36
+463,Seguridad,2024-01-26,Refinería VacaMuerta,Bomba,12,4,36
+463,Seguridad,2024-08-17,Planta Separadora,Filtro,8,0,16
+463,Seguridad,2024-08-10,Planta Eléctrica Loma,Tubería,18,5,90
+464,Producción,2024-08-17,Refinería VacaMuerta,Filtro,11,3,55
+464,Producción,2024-08-17,Planta Eléctrica Loma,Bomba,15,5,60
+464,Producción,2024-07-11,Planta Eléctrica Loma,Tubería,29,0,145
+464,Producción,2024-04-05,Refinería VacaMuerta,Bomba,24,6,120
+464,Producción,2024-07-12,Refinería VacaMuerta,Filtro,26,1,130
+465,Mantenimiento,2024-07-16,Oleoducto Andino,Válvula,14,1,70
+465,Mantenimiento,2024-05-11,Oleoducto Andino,Tubería,24,2,72
+465,Mantenimiento,2024-10-15,Planta Separadora,Válvula,20,5,60
+465,Mantenimiento,2024-12-22,Planta Separadora,Bomba,23,1,115
+465,Mantenimiento,2024-12-17,Refinería VacaMuerta,Filtro,11,1,44
+466,Mantenimiento,2024-02-24,Gasoducto Sur,Filtro,22,5,88
+466,Mantenimiento,2024-11-25,Oleoducto Andino,Bomba,20,0,40
+466,Mantenimiento,2024-04-03,Planta Separadora,Tanque,28,5,112
+466,Mantenimiento,2024-10-28,Oleoducto Andino,Tubería,27,1,54
+467,Perforación,2024-11-16,Planta Separadora,Válvula,8,0,32
+467,Perforación,2024-02-25,Planta Separadora,Tubería,30,9,90
+468,Logística,2024-10-02,Oleoducto Andino,Bomba,30,1,60
+468,Logística,2024-03-15,Planta Eléctrica Loma,Bomba,19,5,57
+468,Logística,2024-08-05,Planta Eléctrica Loma,Tubería,22,0,66
+469,Logística,2024-12-11,Gasoducto Sur,Filtro,24,8,96
+469,Logística,2024-07-28,Planta Separadora,Bomba,27,6,108
+469,Logística,2024-01-24,Refinería VacaMuerta,Válvula,12,1,36
+469,Logística,2024-02-05,Refinería VacaMuerta,Filtro,15,5,60
+469,Logística,2024-02-01,Gasoducto Sur,Filtro,26,5,78
+470,Mantenimiento,2024-06-19,Oleoducto Andino,Tanque,26,3,104
+470,Mantenimiento,2024-02-08,Gasoducto Sur,Tanque,28,6,112
+470,Mantenimiento,2024-08-05,Planta Separadora,Filtro,15,2,75
+471,Perforación,2024-02-06,Planta Separadora,Filtro,25,7,50
+471,Perforación,2024-10-02,Gasoducto Sur,Filtro,12,0,24
+471,Perforación,2024-06-22,Planta Separadora,Bomba,12,4,60
+471,Perforación,2024-02-08,Oleoducto Andino,Tanque,30,9,150
+472,Seguridad,2024-04-05,Refinería VacaMuerta,Filtro,11,3,55
+472,Seguridad,2024-09-03,Planta Separadora,Tubería,5,0,20
+472,Seguridad,2024-08-22,Oleoducto Andino,Bomba,29,6,116
+473,Logística,2024-05-14,Planta Eléctrica Loma,Filtro,20,0,80
+473,Logística,2024-05-23,Planta Separadora,Bomba,6,2,18
+473,Logística,2024-08-01,Planta Separadora,Filtro,9,0,27
+473,Logística,2024-09-26,Oleoducto Andino,Bomba,16,5,32
+473,Logística,2024-01-23,Planta Eléctrica Loma,Tubería,19,6,57
+474,Perforación,2024-03-04,Planta Separadora,Bomba,23,2,92
+474,Perforación,2024-02-20,Planta Separadora,Bomba,21,7,63
+474,Perforación,2024-04-12,Planta Separadora,Bomba,16,5,80
+474,Perforación,2024-05-24,Oleoducto Andino,Tanque,29,4,145
+474,Perforación,2024-07-13,Refinería VacaMuerta,Filtro,8,2,24
+475,Producción,2024-02-19,Planta Eléctrica Loma,Tanque,16,4,32
+475,Producción,2024-07-04,Oleoducto Andino,Tanque,17,0,85
+476,Producción,2024-02-05,Planta Separadora,Válvula,26,4,130
+476,Producción,2024-01-07,Gasoducto Sur,Válvula,26,8,104
+477,Logística,2024-04-27,Oleoducto Andino,Bomba,25,3,75
+477,Logística,2024-03-15,Planta Eléctrica Loma,Tubería,7,0,28
+477,Logística,2024-08-28,Planta Separadora,Filtro,6,0,30
+477,Logística,2024-05-21,Planta Separadora,Filtro,26,0,130
+477,Logística,2024-07-20,Oleoducto Andino,Tubería,16,0,48
+478,Logística,2024-01-14,Refinería VacaMuerta,Tanque,19,0,76
+478,Logística,2024-02-09,Planta Eléctrica Loma,Válvula,22,3,66
+478,Logística,2024-05-06,Refinería VacaMuerta,Bomba,19,0,76
+479,Logística,2024-08-17,Refinería VacaMuerta,Filtro,12,3,48
+479,Logística,2024-07-03,Oleoducto Andino,Válvula,7,0,21
+479,Logística,2024-08-10,Planta Eléctrica Loma,Filtro,23,7,46
+479,Logística,2024-12-05,Gasoducto Sur,Tanque,11,3,44
+480,Logística,2024-12-27,Planta Eléctrica Loma,Tubería,6,0,30
+480,Logística,2024-01-22,Refinería VacaMuerta,Válvula,12,3,60
+480,Logística,2024-07-10,Planta Eléctrica Loma,Bomba,24,2,72
+480,Logística,2024-06-09,Gasoducto Sur,Válvula,25,6,75
+480,Logística,2024-11-15,Planta Eléctrica Loma,Tanque,18,2,90
+481,Mantenimiento,2024-04-20,Oleoducto Andino,Tanque,21,7,63
+481,Mantenimiento,2024-04-10,Planta Separadora,Válvula,23,4,46
+481,Mantenimiento,2024-07-04,Refinería VacaMuerta,Tubería,19,3,95
+481,Mantenimiento,2024-11-05,Gasoducto Sur,Tanque,27,2,54
+482,Producción,2024-06-24,Gasoducto Sur,Tubería,5,1,15
+482,Producción,2024-10-11,Refinería VacaMuerta,Filtro,7,0,35
+482,Producción,2024-05-07,Planta Separadora,Tubería,26,2,52
+482,Producción,2024-06-27,Refinería VacaMuerta,Bomba,14,1,56
+482,Producción,2024-01-11,Planta Eléctrica Loma,Tubería,29,8,145
+483,Logística,2024-08-27,Planta Eléctrica Loma,Bomba,18,3,90
+483,Logística,2024-06-23,Gasoducto Sur,Válvula,19,6,38
+483,Logística,2024-08-04,Gasoducto Sur,Tanque,11,3,22
+484,Mantenimiento,2024-11-26,Refinería VacaMuerta,Tanque,29,0,58
+484,Mantenimiento,2024-05-16,Oleoducto Andino,Válvula,24,3,120
+485,Logística,2024-02-26,Planta Separadora,Tanque,11,2,44
+485,Logística,2024-01-11,Oleoducto Andino,Tubería,16,3,80
+485,Logística,2024-05-14,Gasoducto Sur,Filtro,29,1,145
+485,Logística,2024-05-21,Gasoducto Sur,Filtro,7,0,14
+486,Seguridad,2024-08-07,Planta Separadora,Tanque,14,3,42
+486,Seguridad,2024-10-02,Planta Eléctrica Loma,Bomba,23,1,46
+486,Seguridad,2024-06-02,Planta Eléctrica Loma,Tubería,10,2,40
+487,Perforación,2024-12-05,Refinería VacaMuerta,Tanque,29,1,87
+487,Perforación,2024-04-06,Refinería VacaMuerta,Válvula,5,1,20
+487,Perforación,2024-09-09,Oleoducto Andino,Bomba,30,2,90
+488,Producción,2024-12-28,Planta Eléctrica Loma,Bomba,21,0,105
+488,Producción,2024-11-28,Planta Separadora,Válvula,18,5,90
+488,Producción,2024-08-02,Oleoducto Andino,Bomba,14,3,28
+488,Producción,2024-07-07,Oleoducto Andino,Bomba,11,0,44
+488,Producción,2024-09-22,Planta Separadora,Válvula,28,8,56
+489,Seguridad,2024-10-28,Oleoducto Andino,Filtro,28,8,112
+489,Seguridad,2024-09-25,Refinería VacaMuerta,Tanque,27,3,135
+489,Seguridad,2024-10-21,Planta Eléctrica Loma,Bomba,6,0,24
+490,Perforación,2024-08-10,Planta Separadora,Filtro,15,4,60
+490,Perforación,2024-08-19,Oleoducto Andino,Válvula,12,0,24
+490,Perforación,2024-04-18,Gasoducto Sur,Tanque,13,1,39
+490,Perforación,2024-05-28,Refinería VacaMuerta,Tubería,9,2,45
+491,Logística,2024-01-08,Gasoducto Sur,Filtro,17,1,85
+491,Logística,2024-07-21,Planta Eléctrica Loma,Tubería,9,1,45
+491,Logística,2024-12-25,Planta Eléctrica Loma,Válvula,7,2,28
+491,Logística,2024-03-03,Planta Eléctrica Loma,Válvula,11,3,33
+491,Logística,2024-06-25,Oleoducto Andino,Válvula,27,6,108
+492,Producción,2024-02-02,Refinería VacaMuerta,Válvula,24,2,96
+492,Producción,2024-05-21,Gasoducto Sur,Bomba,5,1,15
+493,Seguridad,2024-11-14,Planta Separadora,Válvula,21,2,84
+493,Seguridad,2024-10-02,Planta Separadora,Tubería,22,6,110
+493,Seguridad,2024-10-05,Planta Eléctrica Loma,Tanque,23,7,115
+494,Logística,2024-12-27,Oleoducto Andino,Válvula,5,0,15
+494,Logística,2024-09-15,Oleoducto Andino,Válvula,6,2,24
+494,Logística,2024-08-21,Refinería VacaMuerta,Bomba,7,1,21
+495,Logística,2024-04-28,Planta Eléctrica Loma,Tanque,6,0,18
+495,Logística,2024-09-03,Oleoducto Andino,Tanque,11,0,44
+495,Logística,2024-06-15,Refinería VacaMuerta,Válvula,22,5,66
+495,Logística,2024-01-20,Oleoducto Andino,Tubería,27,7,54
+496,Mantenimiento,2024-08-20,Planta Eléctrica Loma,Válvula,18,4,72
+496,Mantenimiento,2024-02-23,Gasoducto Sur,Tubería,11,3,33
+497,Logística,2024-08-26,Oleoducto Andino,Válvula,22,4,88
+497,Logística,2024-08-04,Refinería VacaMuerta,Bomba,30,8,60
+498,Seguridad,2024-06-19,Refinería VacaMuerta,Tubería,25,8,125
+498,Seguridad,2024-01-23,Refinería VacaMuerta,Filtro,30,2,90
+498,Seguridad,2024-11-27,Oleoducto Andino,Filtro,15,1,60
+499,Mantenimiento,2024-07-17,Planta Eléctrica Loma,Filtro,13,0,65
+499,Mantenimiento,2024-03-04,Gasoducto Sur,Tubería,6,0,18
+500,Mantenimiento,2024-12-02,Gasoducto Sur,Bomba,18,1,90
+500,Mantenimiento,2024-06-03,Planta Separadora,Válvula,5,0,10
+500,Mantenimiento,2024-04-06,Gasoducto Sur,Válvula,24,5,72
